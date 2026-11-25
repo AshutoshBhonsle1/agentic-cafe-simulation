@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍥",
+      "description": "walking to Hobbs cafe (leaving the house) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day and Bernard's inspection at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready for another busy day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, I'm ready. Just making sure everything is set up for opening. How's your day starting out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It's going well so far. I just finished my breakfast and got everything packed for work. Can't wait to catch up more at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Me too! I've got my coffee and I'm all set. Let's make sure we're ready for Bernard's inspection today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like we're on the same page! Let's get everything ready and make sure we give Bernard a perfect shift. See you at the cafe soon!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll see you at the cafe soon. Have a great day, Dolores!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day and Bernard's inspection at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready for another busy day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, I'm ready. Just making sure everything is set up for opening. How's your day starting out?"
+        ],
+        [
+          "Dolores Abernathy",
+          "It's going well so far. I just finished my breakfast and got everything packed for work. Can't wait to catch up more at the cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Me too! I've got my coffee and I'm all set. Let's make sure we're ready for Bernard's inspection today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like we're on the same page! Let's get everything ready and make sure we give Bernard a perfect shift. See you at the cafe soon!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll see you at the cafe soon. Have a great day, Dolores!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:29:10"
+  }
+}

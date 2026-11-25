@@ -111,6 +111,8 @@ frontend_server/storage/base_cafe_spiral_*
 !frontend_server/storage/base_cafe_spiral_full
 simulation/*
 !simulation/base_cafe_spiral/
+!simulation/ex_dolphin24/
+!simulation/mean_bern*/
 __debug_bin*
 .env
 .env.*

@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciato": "☺",
+      "description": "preparing for the day at home (preparing breakfast) @ the Ville:Bernard Lowe's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        55
+      ],
+      "pronunciato": "😉",
+      "description": "completing morning routine (cleaning up after breakfast) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:desk",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "🍫",
+      "description": "having breakfast (enjoying breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:49:00"
+  }
+}
