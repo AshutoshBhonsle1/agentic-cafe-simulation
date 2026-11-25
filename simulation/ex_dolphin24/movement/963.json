@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a morning inspection and ensuring everything is in order @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I see you're already getting everything ready for today's inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I expect to see everything in order and ready for opening by 8:30 am sharp. Make sure the coffee machine is ready before Dolores arrives."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is in order and ready for opening by 8:30 am. I've already started prepping the coffee machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Make sure all the equipment is clean and sanitized as well. I'll be arriving around 8:30 am to oversee the opening process."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure everything is in order and ready for opening by 8:30 am."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "🍶",
+      "description": "walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        73,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a morning inspection and ensuring everything is in order @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I see you're already getting everything ready for today's inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. I expect to see everything in order and ready for opening by 8:30 am sharp. Make sure the coffee machine is ready before Dolores arrives."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is in order and ready for opening by 8:30 am. I've already started prepping the coffee machine."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Make sure all the equipment is clean and sanitized as well. I'll be arriving around 8:30 am to oversee the opening process."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure everything is in order and ready for opening by 8:30 am."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:39:30"
+  }
+}

@@ -2,24 +2,24 @@
   "the Ville": {
     "Bernard Lowe's apartment": {
       "bathroom": [
+        "toilet",
         "bathroom sink",
-        "shower",
-        "toilet"
+        "shower"
       ],
       "main room": [
-        "desk",
-        "bed",
         "refrigerator",
         "closet",
-        "shelf"
+        "shelf",
+        "desk",
+        "bed"
       ]
     },
     "Dorm for Oak Hill College": {
       "Ayesha Khan's room": [
+        "closet",
         "desk",
         "bed",
-        "shelf",
-        "closet"
+        "shelf"
       ],
       "Dolores Abernathy's room": [
         "computer",
@@ -39,31 +39,40 @@
         "desk"
       ],
       "common room": [
+        "common room table",
         "common room sofa",
-        "pool table",
-        "common room table"
+        "pool table"
       ],
       "garden": [
         "dorm garden"
       ],
       "kitchen": [
+        "toaster",
         "kitchen sink",
         "refrigerator",
-        "cooking area",
-        "toaster"
+        "cooking area"
       ],
       "man's bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "woman's bathroom": [
         "bathroom sink",
         "toilet",
         "shower"
-      ],
-      "woman's bathroom": [
-        "toilet",
-        "shower",
-        "bathroom sink"
       ]
     },
-    "Giorgio Rossi's apartment": {},
+    "Giorgio Rossi's apartment": {
+      "bathroom": [
+        "shower"
+      ],
+      "main room": [
+        "bed",
+        "blackboard",
+        "desk"
+      ]
+    },
     "Harvey Oak Supply Store": {
       "supply store": [
         "supply store product shelf",
@@ -73,12 +82,12 @@
     },
     "Hobbs Cafe": {
       "cafe": [
+        "kitchen sink",
         "behind the cafe counter",
         "piano",
         "refrigerator",
         "cafe customer seating",
-        "cooking area",
-        "kitchen sink"
+        "cooking area"
       ]
     },
     "Johnson Park": {
@@ -88,9 +97,9 @@
     },
     "Oak Hill College": {
       "classroom": [
-        "blackboard",
         "classroom podium",
-        "classroom student seating"
+        "classroom student seating",
+        "blackboard"
       ],
       "hallway": [],
       "library": [
@@ -105,31 +114,31 @@
         "toilet"
       ],
       "main room": [
+        "refrigerator",
         "closet",
         "kitchen sink",
-        "cooking area",
-        "refrigerator"
+        "cooking area"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
         "kitchen sink",
-        "cooking area",
-        "microphone"
+        "cooking area"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
+        "grocery store counter",
+        "pharmacy store shelf",
         "pharmacy store counter",
         "behind the pharmacy counter",
         "grocery store shelf",
-        "behind the grocery counter",
-        "grocery store counter",
-        "pharmacy store shelf"
+        "behind the grocery counter"
       ]
     }
   }

@@ -2,10 +2,15 @@
   "the Ville": {
     "Bernard Lowe's apartment": {
       "bathroom": [
-        "bathroom sink"
+        "bathroom sink",
+        "shower"
       ],
       "main room": [
-        "desk"
+        "desk",
+        "bed",
+        "refrigerator",
+        "closet",
+        "shelf"
       ]
     },
     "Dorm for Oak Hill College": {
@@ -14,11 +19,11 @@
         "desk"
       ],
       "Dolores Abernathy's room": [
-        "closet",
         "computer",
         "desk",
         "blackboard",
-        "bed"
+        "bed",
+        "closet"
       ],
       "Meave Millay's room": [
         "bed",
@@ -27,18 +32,18 @@
         "desk"
       ],
       "common room": [
-        "common room sofa",
         "pool table",
-        "common room table"
+        "common room table",
+        "common room sofa"
       ],
       "garden": [
         "dorm garden"
       ],
       "kitchen": [
+        "refrigerator",
         "cooking area",
         "toaster",
-        "kitchen sink",
-        "refrigerator"
+        "kitchen sink"
       ],
       "man's bathroom": [
         "toilet",
@@ -53,19 +58,19 @@
     },
     "Harvey Oak Supply Store": {
       "supply store": [
+        "behind the supply store counter",
         "supply store counter",
-        "supply store product shelf",
-        "behind the supply store counter"
+        "supply store product shelf"
       ]
     },
     "Hobbs Cafe": {
       "cafe": [
-        "kitchen sink",
-        "behind the cafe counter",
-        "piano",
         "refrigerator",
         "cafe customer seating",
-        "cooking area"
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano"
       ]
     },
     "Johnson Park": {
@@ -75,9 +80,9 @@
     },
     "Oak Hill College": {
       "classroom": [
-        "blackboard",
         "classroom podium",
-        "classroom student seating"
+        "classroom student seating",
+        "blackboard"
       ],
       "hallway": [],
       "library": [
@@ -87,35 +92,39 @@
       ]
     },
     "Ryan Park's apartment": {
-      "bathroom": [],
+      "bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
       "main room": [
-        "bed",
-        "computer desk",
         "closet",
         "kitchen sink",
         "cooking area",
-        "refrigerator"
+        "refrigerator",
+        "bed",
+        "computer desk"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "cooking area",
+        "microphone",
         "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone"
+        "kitchen sink"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "pharmacy store shelf",
-        "pharmacy store counter",
         "behind the pharmacy counter",
         "grocery store shelf",
         "behind the grocery counter",
-        "grocery store counter"
+        "grocery store counter",
+        "pharmacy store shelf",
+        "pharmacy store counter"
       ]
     }
   }

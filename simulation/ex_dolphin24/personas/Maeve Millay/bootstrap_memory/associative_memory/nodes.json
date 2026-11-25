@@ -1668,6 +1668,132 @@
     ],
     "filling": null
   },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:33:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (walking to breakfast spot)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (walking to breakfast spot)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (walking to breakfast spot)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:34:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "awaiting",
+    "object": "occupation",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "cafe customer seating",
+      "occupation"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 3,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:36:50",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "ordering",
+    "object": "breakfast",
+    "description": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "breakfast"
+    ],
+    "filling": null
+  },
   "node_8": {
     "node_count": 8,
     "type_count": 6,
@@ -1685,6 +1811,241 @@
     "valence": -5,
     "keywords": [
       "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "is locked",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is locked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is locked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is locked",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being used",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (locking the front door)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (locking the front door)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (locking the front door)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:38:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "preparing for a morning inspection and ensuring everything is in order",
+    "original_description": "preparing for a morning inspection and ensuring everything is in order",
+    "embedding_key": "preparing for a morning inspection and ensuring everything is in order",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Bernard. I see you're already getting everything ready for today's inspection."
+      ],
+      [
+        "Bernard Lowe",
+        "Good morning, Maeve. I expect to see everything in order and ready for opening by 8:30 am sharp. Make sure the coffee machine is ready before Dolores arrives."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure everything is in order and ready for opening by 8:30 am. I've already started prepping the coffee machine."
+      ],
+      [
+        "Bernard Lowe",
+        "Good. Make sure all the equipment is clean and sanitized as well. I'll be arriving around 8:30 am to oversee the opening process."
+      ],
+      [
+        "Maeve Millay",
+        "Understood, Bernard. I'll make sure everything is in order and ready for opening by 8:30 am."
+      ]
+    ]
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is preparing for a morning inspection and ensuring everything is in order",
+    "original_description": "Maeve Millay is preparing for a morning inspection and ensuring everything is in order",
+    "embedding_key": "Maeve Millay is preparing for a morning inspection and ensuring everything is in order",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_83"
+    ]
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:38:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is preparing for a morning inspection and ensuring everything is in order",
+    "original_description": "Bernard Lowe is preparing for a morning inspection and ensuring everything is in order",
+    "embedding_key": "Bernard Lowe is preparing for a morning inspection and ensuring everything is in order",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:39:50",
+    "expiration": "2023-03-15 08:39:50",
+    "subject": "Maeve Millay",
+    "predicate": "planning",
+    "object": "None",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to ensure that everything is in order and ready for opening by 8:30 am, including making sure all equipment is clean and sanitized.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to ensure that everything is in order and ready for opening by 8:30 am, including making sure all equipment is clean and sanitized.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to ensure that everything is in order and ready for opening by 8:30 am, including making sure all equipment is clean and sanitized.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "planning",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:39:50",
+    "expiration": "2023-03-15 08:39:50",
+    "subject": "Maeve Millay",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay noted that Bernard will be arriving around 8:30 am to oversee the opening process.",
+    "original_description": "Maeve Millay Maeve Millay noted that Bernard will be arriving around 8:30 am to oversee the opening process.",
+    "embedding_key": "Maeve Millay Maeve Millay noted that Bernard will be arriving around 8:30 am to oversee the opening process.",
+    "poignancy": 3,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (ordering breakfast)",
+    "poignancy": 2,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
       "none"
     ],
     "filling": null
@@ -1707,6 +2068,153 @@
     "keywords": [
       "maeve millay",
       "none"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "approaching",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being approached",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being approached",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being approached",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (walking to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:51:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is available",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 1,
+    "valence": 1,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:55:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (walking to Hobbs cafe)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (walking to Hobbs cafe)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (walking to Hobbs cafe)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:56:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "available",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is available",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "cafe customer seating",
+      "available"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "unlocking",
+    "object": "cafe door",
+    "description": "Bernard Lowe is opening up Hobbs Cafe and setting up operations (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening up Hobbs Cafe and setting up operations (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening up Hobbs Cafe and setting up operations (unlocking the cafe door)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "cafe door"
     ],
     "filling": null
   }

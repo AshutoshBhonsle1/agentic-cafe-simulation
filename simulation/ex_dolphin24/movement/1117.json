@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for opening inspection and ensuring everything is ready @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready for customers by opening time. I'll be doing a quick inspection before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure everything is ready for opening time and presentable for inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Just make sure to double-check all the tables and counters. We can't have any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything, Bernard. Is there anything in particular you're looking for during the inspection?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to be on time for opening and have all your station set up before the customers arrive. I'll be keeping an eye out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to have everything ready by opening time and be prepared for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll start my rounds and make sure everything is in order. Let me know if you need any assistance."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Bernard. I'll make sure to have everything ready and organized for opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll start my inspection now. Make sure to have everything ready by opening time."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for opening inspection and ensuring everything is ready @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready for customers by opening time. I'll be doing a quick inspection before we open."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure everything is ready for opening time and presentable for inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Just make sure to double-check all the tables and counters. We can't have any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to double-check everything, Bernard. Is there anything in particular you're looking for during the inspection?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to be on time for opening and have all your station set up before the customers arrive. I'll be keeping an eye out."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to have everything ready by opening time and be prepared for your inspection."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll start my rounds and make sure everything is in order. Let me know if you need any assistance."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thank you, Bernard. I'll make sure to have everything ready and organized for opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll start my inspection now. Make sure to have everything ready by opening time."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciato": "😄",
+      "description": "walking to Hobbs Cafe (walking to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:05:10"
+  }
+}

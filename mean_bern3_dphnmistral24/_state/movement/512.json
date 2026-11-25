@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "🎖",
+      "description": "preparing to leave for work (making coffee) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        45
+      ],
+      "pronunciato": "💬",
+      "description": "sharing breakfast plans and inviting coffee later @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Your breakfast looks delicious. What's on your menu today?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! I'm just having a simple toast with some fruit. Care to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, I'd love to join you. Can I help with anything?"
+        ],
+        [
+          "Maeve Millay",
+          "That would be great! Can you grab the orange juice from the fridge and pour us two glasses?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing! I'll grab that for us."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for helping out, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "No problem at all! I'll grab that right away."
+        ],
+        [
+          "Maeve Millay",
+          "While you're at it, could you also check if there's any yogurt left in the fridge? I think we might be running low."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course! Let me check on that yogurt for you."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I really appreciate your help. By the way, have you got any plans for later today? Maybe we could grab a coffee together after our shift ends."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'd love to grab a coffee with you after our shift. Let's catch up then!"
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I'm looking forward to it. Shall we meet at Hobbs Cafe after our shift ends?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, Maeve! Let's meet at Hobbs Cafe after our shift ends. See you later!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds perfect! I'll see you at Hobbs Cafe after our shift ends. Have a great day, Dolores!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "sharing breakfast plans and inviting coffee later @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Your breakfast looks delicious. What's on your menu today?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! I'm just having a simple toast with some fruit. Care to join me?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, I'd love to join you. Can I help with anything?"
+        ],
+        [
+          "Maeve Millay",
+          "That would be great! Can you grab the orange juice from the fridge and pour us two glasses?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing! I'll grab that for us."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for helping out, Dolores. I really appreciate it."
+        ],
+        [
+          "Dolores Abernathy",
+          "No problem at all! I'll grab that right away."
+        ],
+        [
+          "Maeve Millay",
+          "While you're at it, could you also check if there's any yogurt left in the fridge? I think we might be running low."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course! Let me check on that yogurt for you."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I really appreciate your help. By the way, have you got any plans for later today? Maybe we could grab a coffee together after our shift ends."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'd love to grab a coffee with you after our shift. Let's catch up then!"
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I'm looking forward to it. Shall we meet at Hobbs Cafe after our shift ends?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure, Maeve! Let's meet at Hobbs Cafe after our shift ends. See you later!"
+        ],
+        [
+          "Maeve Millay",
+          "Sounds perfect! I'll see you at Hobbs Cafe after our shift ends. Have a great day, Dolores!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:24:20"
+  }
+}

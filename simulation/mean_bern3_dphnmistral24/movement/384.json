@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciato": "😁",
+      "description": "preparing to leave for work (waking up) @ the Ville:Bernard Lowe's apartment:main room:bed",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "catching up on breakfast plans and daily routines @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! How are you today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I'm doing well, thanks. Just getting my breakfast ready for the day."
+        ],
+        [
+          "Maeve Millay",
+          "That's great to hear! What's on your menu today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm having some oatmeal and fruit. It's a quick and easy breakfast before heading to work. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm having some toast with avocado and eggs. It's my go-to breakfast before starting the day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds delicious! I might have to try that sometime. Have a great day at work, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'll see you at work. Have a great day too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe later, Maeve!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "catching up on breakfast plans and daily routines @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! How are you today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve! I'm doing well, thanks. Just getting my breakfast ready for the day."
+        ],
+        [
+          "Maeve Millay",
+          "That's great to hear! What's on your menu today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm having some oatmeal and fruit. It's a quick and easy breakfast before heading to work. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm having some toast with avocado and eggs. It's my go-to breakfast before starting the day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds delicious! I might have to try that sometime. Have a great day at work, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores! I'll see you at work. Have a great day too!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe later, Maeve!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:03:00"
+  }
+}

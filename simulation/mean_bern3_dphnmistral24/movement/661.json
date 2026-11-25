@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        14
+      ],
+      "pronunciato": "🐋",
+      "description": "preparing to leave for work (drying off) @ the Ville:Bernard Lowe's apartment:main room:shelf",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        105,
+        32
+      ],
+      "pronunciato": "🌤",
+      "description": "having breakfast (cleaning up after breakfast) @ the Ville:Dorm for Oak Hill College:kitchen:kitchen sink",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        118,
+        45
+      ],
+      "pronunciato": "🍞",
+      "description": "preparing breakfast (serving breakfast) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:49:10"
+  }
+}

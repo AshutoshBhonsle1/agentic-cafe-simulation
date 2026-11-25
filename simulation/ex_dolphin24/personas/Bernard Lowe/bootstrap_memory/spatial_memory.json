@@ -7,18 +7,18 @@
         "bathroom sink"
       ],
       "main room": [
-        "refrigerator",
-        "closet",
         "shelf",
         "bed",
-        "desk"
+        "desk",
+        "refrigerator",
+        "closet"
       ]
     },
     "Dorm for Oak Hill College": {
       "common room": [
-        "common room table",
         "common room sofa",
-        "pool table"
+        "pool table",
+        "common room table"
       ],
       "garden": [
         "dorm garden"
@@ -26,35 +26,35 @@
     },
     "Giorgio Rossi's apartment": {
       "bathroom": [
+        "bathroom sink",
         "toilet",
-        "shower",
-        "bathroom sink"
+        "shower"
       ],
       "main room": [
+        "cooking area",
+        "kitchen sink",
         "closet",
         "refrigerator",
         "bed",
         "desk",
-        "blackboard",
-        "cooking area",
-        "kitchen sink"
+        "blackboard"
       ]
     },
     "Harvey Oak Supply Store": {
       "supply store": [
+        "supply store product shelf",
         "behind the supply store counter",
-        "supply store counter",
-        "supply store product shelf"
+        "supply store counter"
       ]
     },
     "Hobbs Cafe": {
       "cafe": [
-        "behind the cafe counter",
-        "piano",
-        "refrigerator",
         "cafe customer seating",
         "cooking area",
-        "kitchen sink"
+        "kitchen sink",
+        "behind the cafe counter",
+        "piano",
+        "refrigerator"
       ]
     },
     "Johnson Park": {
@@ -64,38 +64,38 @@
     },
     "Ryan Park's apartment": {
       "bathroom": [
+        "shower",
         "bathroom sink",
-        "toilet",
-        "shower"
+        "toilet"
       ],
       "main room": [
+        "computer desk",
+        "bed",
         "cooking area",
         "kitchen sink",
         "refrigerator",
-        "closet",
-        "computer desk",
-        "bed"
+        "closet"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
+        "cooking area",
+        "microphone",
+        "shelf",
         "refrigerator",
         "bar customer seating",
         "behind the bar counter",
-        "kitchen sink",
-        "cooking area",
-        "microphone",
-        "shelf"
+        "kitchen sink"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
+        "pharmacy store counter",
+        "grocery store shelf",
         "behind the grocery counter",
         "grocery store counter",
         "behind the pharmacy counter",
-        "pharmacy store shelf",
-        "pharmacy store counter",
-        "grocery store shelf"
+        "pharmacy store shelf"
       ]
     }
   }

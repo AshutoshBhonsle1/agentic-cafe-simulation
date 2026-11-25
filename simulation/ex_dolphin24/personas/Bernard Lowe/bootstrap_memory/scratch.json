@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:33:20",
+  "curr_time": "February 13, 2023, 09:05:10",
   "curr_tile": [
-    73,
+    78,
     21
   ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 48,
-  "importance_ele_n": 7,
+  "importance_trigger_curr": 1,
+  "importance_ele_n": 22,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -125,7 +125,15 @@
     ],
     [
       "walking to Hobbs cafe (locking the front door)",
-      15
+      5
+    ],
+    [
+      "preparing for a morning inspection and ensuring everything is in order",
+      1
+    ],
+    [
+      "walking to Hobbs cafe (locking the front door)",
+      10
     ],
     [
       "walking to Hobbs cafe (walking to Hobbs cafe)",
@@ -133,7 +141,11 @@
     ],
     [
       "opening up Hobbs Cafe and setting up operations (unlocking the cafe door)",
-      10
+      1
+    ],
+    [
+      "preparing for opening inspection and ensuring everything is ready",
+      2
     ],
     [
       "opening up Hobbs Cafe and setting up operations (entering the cafe)",
@@ -165,11 +177,43 @@
     ],
     [
       "opening up Hobbs Cafe and setting up operations (preparing the register system)",
-      2
+      1
     ],
     [
-      "managing the cafe and overseeing baristas",
-      60
+      "managing the cafe and overseeing baristas (inspecting the cafe)",
+      5
+    ],
+    [
+      "managing the cafe and overseeing baristas (checking inventory levels)",
+      5
+    ],
+    [
+      "managing the cafe and overseeing baristas (preparing equipment)",
+      10
+    ],
+    [
+      "managing the cafe and overseeing baristas (checking the coffee machine)",
+      10
+    ],
+    [
+      "managing the cafe and overseeing baristas (testing espresso shots)",
+      5
+    ],
+    [
+      "managing the cafe and overseeing baristas (restocking syrups and creamers)",
+      5
+    ],
+    [
+      "managing the cafe and overseeing baristas (organizing utensils and plates)",
+      10
+    ],
+    [
+      "managing the cafe and overseeing baristas (wiping down tables and chairs)",
+      5
+    ],
+    [
+      "managing the cafe and overseeing baristas (opening the cafe doors)",
+      12
     ],
     [
       "serving customers at the counter",
@@ -302,39 +346,76 @@
       60
     ]
   ],
-  "act_address": "the Ville:Hobbs Cafe:cafe:refrigerator",
-  "act_start_time": "February 13, 2023, 08:33:00",
-  "act_duration": 15,
-  "act_description": "walking to Hobbs cafe (locking the front door)",
-  "act_pronunciatio": "🈂",
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 09:05:00",
+  "act_duration": 2,
+  "act_description": "preparing for opening inspection and ensuring everything is ready",
+  "act_pronunciatio": "💬",
   "act_event": [
     "Bernard Lowe",
-    "walking to",
-    "Hobbs cafe"
+    "chat with",
+    "Dolores Abernathy"
   ],
-  "act_obj_description": "locked",
-  "act_obj_pronunciatio": "🚭",
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
   "act_obj_event": [
-    "refrigerator",
-    "is locked",
-    "None"
+    "",
+    "",
+    ""
   ],
-  "chatting_with": null,
-  "chat": null,
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Dolores Abernathy",
+      "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure everything is in order and ready for customers by opening time. I'll be doing a quick inspection before we open."
+    ],
+    [
+      "Dolores Abernathy",
+      "Of course, Bernard. I'll make sure everything is ready for opening time and presentable for inspection."
+    ],
+    [
+      "Bernard Lowe",
+      "Alright, Dolores. Just make sure to double-check all the tables and counters. We can't have any mistakes today."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'll make sure to double-check everything, Bernard. Is there anything in particular you're looking for during the inspection?"
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure to be on time for opening and have all your station set up before the customers arrive. I'll be keeping an eye out."
+    ],
+    [
+      "Dolores Abernathy",
+      "Understood, Bernard. I'll make sure to have everything ready by opening time and be prepared for your inspection."
+    ],
+    [
+      "Bernard Lowe",
+      "Alright, Dolores. I'll start my rounds and make sure everything is in order. Let me know if you need any assistance."
+    ],
+    [
+      "Dolores Abernathy",
+      "Thank you, Bernard. I'll make sure to have everything ready and organized for opening time."
+    ],
+    [
+      "Bernard Lowe",
+      "Alright, Dolores. I'll start my inspection now. Make sure to have everything ready by opening time."
+    ]
+  ],
   "chatting_with_buffer": {
-    "Dolores Abernathy": 102,
-    "Maeve Millay": 0
+    "Dolores Abernathy": 119,
+    "Maeve Millay": -40
   },
-  "chatting_end_time": null,
+  "chatting_end_time": "February 13, 2023, 09:08:00",
   "act_path_set": true,
   "planned_path": [
     [
-      73,
-      20
-    ],
-    [
-      73,
-      19
+      79,
+      21
     ]
   ]
 }

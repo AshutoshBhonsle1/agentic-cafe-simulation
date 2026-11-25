@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:33:20",
+  "curr_time": "February 13, 2023, 09:05:10",
   "curr_tile": [
-    76,
-    27
+    74,
+    25
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 51,
-  "importance_ele_n": 11,
+  "importance_trigger_curr": 2,
+  "importance_ele_n": 31,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -140,6 +140,10 @@
       4
     ],
     [
+      "preparing for a morning inspection and ensuring everything is in order",
+      1
+    ],
+    [
       "walking to Hobbs Cafe (ordering breakfast)",
       10
     ],
@@ -193,7 +197,7 @@
     ],
     [
       "preparing for opening at Hobbs Cafe (taking a short break)",
-      2
+      1
     ],
     [
       "serving customers at the counter at Hobbs Cafe",
@@ -330,28 +334,28 @@
       60
     ]
   ],
-  "act_address": "\u003cwaiting\u003e X: 76, Y: 27",
-  "act_start_time": "February 13, 2023, 08:30:10",
-  "act_duration": 4,
-  "act_description": "waiting to start walking to breakfast spot",
-  "act_pronunciatio": "⌛",
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 08:55:00",
+  "act_duration": 15,
+  "act_description": "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+  "act_pronunciatio": "😄",
   "act_event": [
     "Maeve Millay",
-    "waiting to start",
-    "walking to breakfast spot"
+    "walking to",
+    "Hobbs Cafe"
   ],
-  "act_obj_description": "",
-  "act_obj_pronunciatio": "",
+  "act_obj_description": "unoccupied",
+  "act_obj_pronunciatio": "😂",
   "act_obj_event": [
-    "",
-    "",
-    ""
+    "cafe customer",
+    "seating",
+    "None"
   ],
   "chatting_with": null,
   "chat": null,
   "chatting_with_buffer": {
-    "Bernard Lowe": 0,
-    "Dolores Abernathy": 90
+    "Bernard Lowe": -41,
+    "Dolores Abernathy": -101
   },
   "chatting_end_time": null,
   "act_path_set": true,

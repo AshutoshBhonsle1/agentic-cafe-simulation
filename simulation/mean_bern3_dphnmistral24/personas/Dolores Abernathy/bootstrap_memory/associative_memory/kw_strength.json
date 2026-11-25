@@ -1,0 +1,36 @@
+{
+  "kw_strength_thought": {
+    "coffee": 1,
+    "dolores abernathy": 10,
+    "finding interesting": 2,
+    "found it interesting to meet": 1,
+    "found out that maeve millay invited her to grab coffee at hobbs cafe after their shift ends.": 2,
+    "maeve millay": 4,
+    "maeve millay for coffee at hobbs cafe after their shift ends": 1,
+    "meet": 4,
+    "meet for coffee at hobbs cafe after their shift ends": 1,
+    "none": 4,
+    "plan": 2
+  },
+  "kw_strength_event": {
+    "bed": 6,
+    "breakfast": 15,
+    "breakfast ingredients": 4,
+    "breakfast preparation": 2,
+    "common room table": 1,
+    "cooking area": 6,
+    "desk": 2,
+    "dolores abernathy": 36,
+    "dorm room door": 1,
+    "hobbs cafe": 2,
+    "kitchen sink": 3,
+    "leftover food": 1,
+    "maeve millay": 17,
+    "morning routine": 2,
+    "morning routine (brushing teeth)": 2,
+    "none": 31,
+    "refrigerator": 3,
+    "table": 4,
+    "toaster": 6
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciato": "😆",
+      "description": "preparing to leave for work (getting dressed) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        110,
+        40
+      ],
+      "pronunciato": "💬",
+      "description": "planning to meet for coffee later and catch up on plans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! How's your breakfast going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! It's going great. Just cleaning up after breakfast now. How about you? What's your plan for the day?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing well, thanks! Just about to serve breakfast. I was thinking, would you like to join me for coffee later? We can catch up on our plans for the week."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea! I'd love to join you for coffee later. Let's meet up after our shift ends."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I'll see you later then. Have a good rest of your day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve! I'm looking forward to it. Let's meet at Hobbs Cafe after our shift ends."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll make sure to save a table for us at Hobbs Cafe. Have a great rest of your day, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you later at Hobbs Cafe, Maeve! Have a great day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        108,
+        42
+      ],
+      "pronunciato": "💬",
+      "description": "planning to meet for coffee later and catch up on plans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! How's your breakfast going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! It's going great. Just cleaning up after breakfast now. How about you? What's your plan for the day?"
+        ],
+        [
+          "Maeve Millay",
+          "I'm doing well, thanks! Just about to serve breakfast. I was thinking, would you like to join me for coffee later? We can catch up on our plans for the week."
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a great idea! I'd love to join you for coffee later. Let's meet up after our shift ends."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I'll see you later then. Have a good rest of your day!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve! I'm looking forward to it. Let's meet at Hobbs Cafe after our shift ends."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll make sure to save a table for us at Hobbs Cafe. Have a great rest of your day, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you later at Hobbs Cafe, Maeve! Have a great day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:51:40"
+  }
+}

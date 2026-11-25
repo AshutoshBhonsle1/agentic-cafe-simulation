@@ -1,0 +1,593 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_tile": [
+    98,
+    41
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 54,
+  "importance_ele_n": 13,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk in Johnson Park from 4:30pm to 5:30pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in her room from 9:00pm to 11:00pm",
+    "go to bed at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (stretching)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (opening the curtains)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (checking the weather)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (planning the day)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (preparing a to-do list)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (meditating briefly)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting ready for breakfast)",
+      5
+    ],
+    [
+      "preparing breakfast (washing hands)",
+      2
+    ],
+    [
+      "catching up on breakfast plans and daily routines",
+      1
+    ],
+    [
+      "preparing breakfast (washing hands)",
+      3
+    ],
+    [
+      "preparing breakfast (getting breakfast ingredients)",
+      5
+    ],
+    [
+      "preparing breakfast (preparing breakfast items)",
+      10
+    ],
+    [
+      "preparing breakfast (cooking breakfast)",
+      1
+    ],
+    [
+      "sharing breakfast plans and inviting coffee later",
+      2
+    ],
+    [
+      "preparing breakfast (cooking breakfast)",
+      19
+    ],
+    [
+      "preparing breakfast (setting the table)",
+      5
+    ],
+    [
+      "preparing breakfast (serving breakfast)",
+      2
+    ],
+    [
+      "planning to meet for coffee later and catch up on plans",
+      1
+    ],
+    [
+      "preparing breakfast (serving breakfast)",
+      3
+    ],
+    [
+      "preparing breakfast (cleaning up after breakfast)",
+      5
+    ],
+    [
+      "preparing breakfast (packing up for work)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing breakfast)",
+      20
+    ],
+    [
+      "walking to Hobbs Cafe (eating breakfast)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to leave the house)",
+      5
+    ],
+    [
+      "meeting for coffee at Hobbs Cafe after their shift",
+      2
+    ],
+    [
+      "walking to Hobbs Cafe (getting ready to leave the house)",
+      21
+    ],
+    [
+      "serving customers at the counter (preparing counter surfaces)",
+      5
+    ],
+    [
+      "serving customers at the counter (arranging pastries and snacks)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      5
+    ],
+    [
+      "serving customers at the counter (restocking supplies as needed)",
+      10
+    ],
+    [
+      "serving customers at the counter (wiping down equipment handles)",
+      5
+    ],
+    [
+      "serving customers at the counter (turning on the register system)",
+      5
+    ],
+    [
+      "serving customers at the counter (setting up credit card machine and cash drawer)",
+      10
+    ],
+    [
+      "serving customers at the counter (testing the coffee machines)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking the water temperature)",
+      5
+    ],
+    [
+      "serving customers at the counter (opening the counter for customers)",
+      3
+    ],
+    [
+      "operating the espresso machine",
+      60
+    ],
+    [
+      "managing cash register transactions",
+      60
+    ],
+    [
+      "preparing sandwiches and salads",
+      60
+    ],
+    [
+      "serving lunch customers",
+      60
+    ],
+    [
+      "cleaning the counter area",
+      60
+    ],
+    [
+      "restocking supplies and organizing storage",
+      60
+    ],
+    [
+      "closing shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "enjoying the park scenery and relaxation",
+      60
+    ],
+    [
+      "returning to the dorm and preparing dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      60
+    ],
+    [
+      "organizing personal items and reflecting on the day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "preparing breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "operating the espresso machine",
+      60
+    ],
+    [
+      "managing cash register transactions",
+      60
+    ],
+    [
+      "preparing sandwiches and salads",
+      60
+    ],
+    [
+      "serving lunch customers",
+      60
+    ],
+    [
+      "cleaning the counter area",
+      60
+    ],
+    [
+      "restocking supplies and organizing storage",
+      60
+    ],
+    [
+      "closing shift at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "enjoying the park scenery and relaxation",
+      60
+    ],
+    [
+      "returning to the dorm and preparing dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      60
+    ],
+    [
+      "organizing personal items and reflecting on the day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Dolores Abernathy",
+  "act_start_time": "February 13, 2023, 08:39:50",
+  "act_duration": 2,
+  "act_description": "meeting for coffee at Hobbs Cafe after their shift",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Maeve Millay",
+    "chat with",
+    "Dolores Abernathy"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Dolores Abernathy",
+  "chat": [
+    [
+      "Dolores Abernathy",
+      "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
+    ],
+    [
+      "Maeve Millay",
+      "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
+    ],
+    [
+      "Dolores Abernathy",
+      "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
+    ],
+    [
+      "Maeve Millay",
+      "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
+    ],
+    [
+      "Dolores Abernathy",
+      "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
+    ],
+    [
+      "Maeve Millay",
+      "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
+    ],
+    [
+      "Dolores Abernathy",
+      "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
+    ],
+    [
+      "Maeve Millay",
+      "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
+    ],
+    [
+      "Dolores Abernathy",
+      "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 120
+  },
+  "chatting_end_time": "February 13, 2023, 08:42:00",
+  "act_path_set": false,
+  "planned_path": [
+    [
+      98,
+      40
+    ],
+    [
+      98,
+      39
+    ],
+    [
+      98,
+      38
+    ],
+    [
+      98,
+      37
+    ],
+    [
+      97,
+      37
+    ],
+    [
+      96,
+      37
+    ],
+    [
+      95,
+      37
+    ],
+    [
+      94,
+      37
+    ],
+    [
+      93,
+      37
+    ],
+    [
+      92,
+      37
+    ],
+    [
+      91,
+      37
+    ],
+    [
+      90,
+      37
+    ],
+    [
+      89,
+      37
+    ],
+    [
+      88,
+      37
+    ],
+    [
+      87,
+      37
+    ],
+    [
+      86,
+      37
+    ],
+    [
+      85,
+      37
+    ],
+    [
+      84,
+      37
+    ],
+    [
+      83,
+      37
+    ],
+    [
+      82,
+      37
+    ],
+    [
+      81,
+      37
+    ],
+    [
+      80,
+      37
+    ],
+    [
+      79,
+      37
+    ],
+    [
+      78,
+      37
+    ],
+    [
+      77,
+      37
+    ],
+    [
+      76,
+      37
+    ],
+    [
+      76,
+      36
+    ],
+    [
+      76,
+      35
+    ],
+    [
+      76,
+      34
+    ],
+    [
+      76,
+      33
+    ],
+    [
+      76,
+      32
+    ],
+    [
+      76,
+      31
+    ],
+    [
+      76,
+      30
+    ],
+    [
+      76,
+      29
+    ],
+    [
+      76,
+      28
+    ],
+    [
+      76,
+      27
+    ],
+    [
+      76,
+      26
+    ],
+    [
+      75,
+      26
+    ],
+    [
+      75,
+      25
+    ],
+    [
+      75,
+      24
+    ],
+    [
+      75,
+      23
+    ],
+    [
+      75,
+      22
+    ],
+    [
+      75,
+      21
+    ],
+    [
+      75,
+      20
+    ],
+    [
+      75,
+      19
+    ],
+    [
+      76,
+      19
+    ],
+    [
+      77,
+      19
+    ]
+  ]
+}
