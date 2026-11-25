@@ -112,3 +112,7 @@ frontend_server/storage/base_cafe_spiral_*
 simulation/*
 !simulation/base_cafe_spiral/
 __debug_bin*
+.env
+.env.*
+.venv/
+*.tar.gz

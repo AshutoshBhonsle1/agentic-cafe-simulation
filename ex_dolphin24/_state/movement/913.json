@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I hope you're ready for a productive day at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure we're on schedule. I expect everything to be ready for opening by 8:30 am sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. Is there anything specific you'd like me to focus on today, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to go. I'll be there shortly to oversee the opening process."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. I'm looking forward to making it a great day at work and catching up more at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be there shortly to make sure everything is in order. Let's ensure a smooth opening today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. I'm looking forward to making it a great day at work and catching up more at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll see you at the cafe shortly."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at the cafe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I hope you're ready for a productive day at the cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm looking forward to a busy day at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Let's make sure we're on schedule. I expect everything to be ready for opening by 8:30 am sharp."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. Is there anything specific you'd like me to focus on today, Bernard?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to go. I'll be there shortly to oversee the opening process."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. I'm looking forward to making it a great day at work and catching up more at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "I'll be there shortly to make sure everything is in order. Let's ensure a smooth opening today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is ready on time. I'm looking forward to making it a great day at work and catching up more at the cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll see you at the cafe shortly."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciato": "⌛",
+      "description": "waiting to start walking to breakfast spot @ \u003cwaiting\u003e X: 76, Y: 27",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:31:10"
+  }
+}

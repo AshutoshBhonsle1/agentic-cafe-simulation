@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for cafe opening and coordinating tasks @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Heading to open up the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning Maeve. Yes, I am on my way to open up the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning! I'm just on my way to meet Dolores for our shift. Can't wait to start the day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning Maeve. Yes, I am on my way to open up the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "See you at the cafe then. Have a great day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, can you make sure to get the coffee machine ready before Dolores arrives?"
+        ],
+        [
+          "Maeve Millay",
+          "Of course Bernard! I'll make sure the coffee machine is ready for Dolores. Have a good morning!"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, see you at the cafe. Make sure to get everything ready for a smooth start."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        114,
+        50
+      ],
+      "pronunciato": "??‍♂️",
+      "description": "walking to Hobbs Cafe (getting dressed) @ the Ville:Dorm for Oak Hill College:common room:common room sofa",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for cafe opening and coordinating tasks @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Heading to open up the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning Maeve. Yes, I am on my way to open up the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Good morning! I'm just on my way to meet Dolores for our shift. Can't wait to start the day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning Maeve. Yes, I am on my way to open up the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "See you at the cafe then. Have a great day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, can you make sure to get the coffee machine ready before Dolores arrives?"
+        ],
+        [
+          "Maeve Millay",
+          "Of course Bernard! I'll make sure the coffee machine is ready for Dolores. Have a good morning!"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, see you at the cafe. Make sure to get everything ready for a smooth start."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:13:50"
+  }
+}

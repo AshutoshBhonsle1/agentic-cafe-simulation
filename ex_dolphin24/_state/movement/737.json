@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "🚶",
+      "description": "walking to Hobbs cafe (leaving the house) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        117,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "catching up on plans and daily routines before work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores! How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! My morning is going well, thanks. Just heading to Hobbs Cafe for my shift. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Same here! I'm on my way to Hobbs Cafe too. Let's see if we can make it a great day at work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan! I'm looking forward to it. Have you had breakfast yet?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already had breakfast. I made some toast and had a cup of coffee before leaving my room. It's always nice to start the day with a good meal."
+        ],
+        [
+          "Dolores Abernathy",
+          "That's great! I had a quick breakfast too before leaving my room. It gives me enough energy to get through the morning. Have you checked the weather for today?"
+        ],
+        [
+          "Maeve Millay",
+          "I haven't checked yet. But it's always a good idea to be prepared for any weather. Let's hope for a nice day! Have you got everything you need for work today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I have my bag with all my essentials for work. Let's catch up more at Hobbs Cafe! See you there."
+        ],
+        [
+          "Maeve Millay",
+          "See you at Hobbs Cafe, Dolores! Have a great day!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        118,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "catching up on plans and daily routines before work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores! How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! My morning is going well, thanks. Just heading to Hobbs Cafe for my shift. How about you?"
+        ],
+        [
+          "Maeve Millay",
+          "Same here! I'm on my way to Hobbs Cafe too. Let's see if we can make it a great day at work!"
+        ],
+        [
+          "Dolores Abernathy",
+          "That sounds like a plan! I'm looking forward to it. Have you had breakfast yet?"
+        ],
+        [
+          "Maeve Millay",
+          "I've already had breakfast. I made some toast and had a cup of coffee before leaving my room. It's always nice to start the day with a good meal."
+        ],
+        [
+          "Dolores Abernathy",
+          "That's great! I had a quick breakfast too before leaving my room. It gives me enough energy to get through the morning. Have you checked the weather for today?"
+        ],
+        [
+          "Maeve Millay",
+          "I haven't checked yet. But it's always a good idea to be prepared for any weather. Let's hope for a nice day! Have you got everything you need for work today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I have my bag with all my essentials for work. Let's catch up more at Hobbs Cafe! See you there."
+        ],
+        [
+          "Maeve Millay",
+          "See you at Hobbs Cafe, Dolores! Have a great day!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:01:50"
+  }
+}
