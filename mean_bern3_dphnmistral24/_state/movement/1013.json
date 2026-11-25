@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work preparations and responsibilities @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm heading to Hobbs Cafe for our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "Morning Dolores. I hope you're ready for a busy day at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Absolutely, Bernard. I'm looking forward to a productive day at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to work. We have a lot to do today at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure to be there on time and ready for whatever we need to do today at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're prepared to handle customer complaints and keep up with orders. We can't afford any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to handle customer complaints and keep up with orders efficiently today at Hobbs Cafe. Have a good day!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating work preparations and responsibilities @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm heading to Hobbs Cafe for our shift today."
+        ],
+        [
+          "Bernard Lowe",
+          "Morning Dolores. I hope you're ready for a busy day at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Absolutely, Bernard. I'm looking forward to a productive day at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to work. We have a lot to do today at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Bernard. I'll make sure to be there on time and ready for whatever we need to do today at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're prepared to handle customer complaints and keep up with orders. We can't afford any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to handle customer complaints and keep up with orders efficiently today at Hobbs Cafe. Have a good day!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        123,
+        45
+      ],
+      "pronunciato": "🌐",
+      "description": "walking to Hobbs Cafe (getting ready to leave the house) @ the Ville:Dorm for Oak Hill College:Meave Millay's room:closet",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:47:50"
+  }
+}

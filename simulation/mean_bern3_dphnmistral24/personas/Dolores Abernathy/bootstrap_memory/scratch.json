@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 09:30:00",
   "curr_tile": [
-    105,
-    34
+    80,
+    19
   ],
   "daily_plan_req": "Dolores Abernathy wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she goes straight back to her room at the dorm and reads. She has dinner at the dorm at 6pm. She spends the rest of the evening reading and working on the computer in her room. She goes to bed at 11pm.",
   "name": "Dolores Abernathy",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 3,
-  "importance_ele_n": 42,
+  "importance_trigger_curr": 75,
+  "importance_ele_n": 0,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -143,6 +143,10 @@
       5
     ],
     [
+      "coordinating work preparations and responsibilities",
+      1
+    ],
+    [
       "walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
       10
     ],
@@ -152,7 +156,11 @@
     ],
     [
       "preparing for work at the cafe (arriving at the cafe)",
-      5
+      4
+    ],
+    [
+      "preparing for a busy day of handling customer complaints efficiently",
+      2
     ],
     [
       "preparing for work at the cafe (unlocking the door)",
@@ -164,7 +172,23 @@
     ],
     [
       "preparing for work at the cafe (preparing the counter)",
-      5
+      1
+    ],
+    [
+      "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+      1
+    ],
+    [
+      "preparing for work at the cafe (preparing the counter)",
+      1
+    ],
+    [
+      "instructing Dolores to handle customer complaints efficiently",
+      1
+    ],
+    [
+      "preparing for work at the cafe (preparing the counter)",
+      3
     ],
     [
       "preparing for work at the cafe (setting up the coffee machines)",
@@ -184,11 +208,43 @@
     ],
     [
       "preparing for work at the cafe (preparing the register)",
-      8
+      7
     ],
     [
-      "serving customers at the counter",
-      60
+      "serving customers at the counter (preparing the counter)",
+      5
+    ],
+    [
+      "serving customers at the counter (arranging pastries)",
+      10
+    ],
+    [
+      "serving customers at the counter (checking inventory levels)",
+      5
+    ],
+    [
+      "serving customers at the counter (restocking supplies)",
+      10
+    ],
+    [
+      "serving customers at the counter (wiping down surfaces)",
+      5
+    ],
+    [
+      "serving customers at the counter (setting up the register)",
+      10
+    ],
+    [
+      "serving customers at the counter (turning on equipment)",
+      5
+    ],
+    [
+      "serving customers at the counter (organizing utensils)",
+      5
+    ],
+    [
+      "serving customers at the counter (signing in to the system)",
+      2
     ],
     [
       "operating the espresso machine",
@@ -321,95 +377,30 @@
       60
     ]
   ],
-  "act_address": "\u003cpersona\u003e Maeve Millay",
-  "act_start_time": "February 13, 2023, 08:39:50",
-  "act_duration": 2,
-  "act_description": "meeting for coffee at Hobbs Cafe after their shift",
-  "act_pronunciatio": "💬",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 09:29:00",
+  "act_duration": 3,
+  "act_description": "preparing for work at the cafe (preparing the counter)",
+  "act_pronunciatio": "☗",
   "act_event": [
     "Dolores Abernathy",
-    "chat with",
-    "Maeve Millay"
+    "preparing for work at the cafe",
+    "counter"
   ],
-  "act_obj_description": "",
-  "act_obj_pronunciatio": "",
+  "act_obj_description": "being prepared",
+  "act_obj_pronunciatio": "\\u2614",
   "act_obj_event": [
-    "",
-    "",
-    ""
+    "behind the cafe counter",
+    "preparing",
+    "None"
   ],
-  "chatting_with": "Maeve Millay",
-  "chat": [
-    [
-      "Dolores Abernathy",
-      "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
-    ],
-    [
-      "Maeve Millay",
-      "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
-    ],
-    [
-      "Dolores Abernathy",
-      "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
-    ],
-    [
-      "Maeve Millay",
-      "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
-    ],
-    [
-      "Dolores Abernathy",
-      "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
-    ],
-    [
-      "Maeve Millay",
-      "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
-    ],
-    [
-      "Dolores Abernathy",
-      "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
-    ],
-    [
-      "Maeve Millay",
-      "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
-    ]
-  ],
+  "chatting_with": null,
+  "chat": null,
   "chatting_with_buffer": {
-    "Maeve Millay": 119
+    "Bernard Lowe": 103,
+    "Maeve Millay": 90
   },
-  "chatting_end_time": "February 13, 2023, 08:42:00",
+  "chatting_end_time": null,
   "act_path_set": true,
-  "planned_path": [
-    [
-      104,
-      34
-    ],
-    [
-      103,
-      34
-    ],
-    [
-      102,
-      34
-    ],
-    [
-      101,
-      34
-    ],
-    [
-      100,
-      34
-    ],
-    [
-      99,
-      34
-    ],
-    [
-      98,
-      34
-    ]
-  ]
+  "planned_path": null
 }

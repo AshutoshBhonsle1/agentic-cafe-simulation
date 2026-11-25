@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "instructing Dolores to handle customer complaints efficiently @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, make sure you're ready to handle customer complaints efficiently today. We can't afford any mistakes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to handle customer complaints efficiently today. Is there anything specific you want me to focus on?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just ensure you follow all procedures and maintain a clean workspace. I'll be keeping an eye on things."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand. I'll make sure to stay focused and keep up with orders during a busy day."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get to it then. Make sure everything is in order before we open up."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "instructing Dolores to handle customer complaints efficiently @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, make sure you're ready to handle customer complaints efficiently today. We can't afford any mistakes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to handle customer complaints efficiently today. Is there anything specific you want me to focus on?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just ensure you follow all procedures and maintain a clean workspace. I'll be keeping an eye on things."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand. I'll make sure to stay focused and keep up with orders during a busy day."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get to it then. Make sure everything is in order before we open up."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍮",
+      "description": "serving customers at the counter (restocking supplies as needed) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:27:40"
+  }
+}

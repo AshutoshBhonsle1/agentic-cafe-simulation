@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🍴",
+      "description": "walking to Hobbs cafe (locking the door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        98,
+        34
+      ],
+      "pronunciato": "💬",
+      "description": "meeting for coffee at Hobbs Cafe after their shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
+        ],
+        [
+          "Maeve Millay",
+          "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        98,
+        34
+      ],
+      "pronunciato": "💬",
+      "description": "meeting for coffee at Hobbs Cafe after their shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
+        ],
+        [
+          "Maeve Millay",
+          "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
+        ],
+        [
+          "Maeve Millay",
+          "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
+        ],
+        [
+          "Dolores Abernathy",
+          "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
+        ],
+        [
+          "Dolores Abernathy",
+          "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
+        ],
+        [
+          "Maeve Millay",
+          "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:41:50"
+  }
+}

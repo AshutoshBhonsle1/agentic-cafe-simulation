@@ -2,9 +2,9 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 09:30:00",
   "curr_tile": [
-    79,
+    80,
     19
   ],
   "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 7,
-  "importance_ele_n": 32,
+  "importance_trigger_curr": 5,
+  "importance_ele_n": 18,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -114,7 +114,23 @@
     ],
     [
       "walking to Hobbs cafe (locking the door)",
-      20
+      16
+    ],
+    [
+      "coordinating work preparations and responsibilities",
+      1
+    ],
+    [
+      "walking to Hobbs cafe (locking the door)",
+      1
+    ],
+    [
+      "waiting to start locking the door",
+      10
+    ],
+    [
+      "walking to Hobbs cafe (locking the door)",
+      3
     ],
     [
       "walking to Hobbs cafe (picking up personal items)",
@@ -122,15 +138,39 @@
     ],
     [
       "walking to Hobbs cafe (arriving at Hobbs cafe)",
-      5
+      1
+    ],
+    [
+      "preparing for a busy day of handling customer complaints efficiently",
+      2
+    ],
+    [
+      "walking to Hobbs cafe (arriving at Hobbs cafe)",
+      4
     ],
     [
       "opening Hobbs Cafe and starting the day (unlocking the cafe door)",
-      10
+      5
+    ],
+    [
+      "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+      2
+    ],
+    [
+      "opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+      5
     ],
     [
       "opening Hobbs Cafe and starting the day (turning on the lights)",
-      5
+      2
+    ],
+    [
+      "instructing Dolores to handle customer complaints efficiently",
+      1
+    ],
+    [
+      "opening Hobbs Cafe and starting the day (turning on the lights)",
+      3
     ],
     [
       "opening Hobbs Cafe and starting the day (setting up the register)",
@@ -150,19 +190,39 @@
     ],
     [
       "opening Hobbs Cafe and starting the day (organizing cleaning supplies)",
+      9
+    ],
+    [
+      "managing cafe operations (unlocking the cafe door)",
+      5
+    ],
+    [
+      "managing cafe operations (turning on the lights)",
+      5
+    ],
+    [
+      "managing cafe operations (preparing coffee machines)",
       10
     ],
     [
-      "opening Hobbs Cafe and starting the day (checking the fridge for perishables)",
+      "managing cafe operations (restocking supplies)",
       5
     ],
     [
-      "opening Hobbs Cafe and starting the day (starting background music)",
+      "managing cafe operations (organizing the counter area)",
+      10
+    ],
+    [
+      "managing cafe operations (checking inventory levels)",
       5
     ],
     [
-      "managing cafe operations",
-      60
+      "managing cafe operations (preparing pastries and snacks)",
+      10
+    ],
+    [
+      "managing cafe operations (setting up the register)",
+      5
     ],
     [
       "overseeing baristas and handling customer service",
@@ -288,25 +348,28 @@
     ]
   ],
   "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
-  "act_start_time": "February 13, 2023, 08:30:00",
-  "act_duration": 20,
-  "act_description": "walking to Hobbs cafe (locking the door)",
-  "act_pronunciatio": "🍴",
+  "act_start_time": "February 13, 2023, 09:29:00",
+  "act_duration": 3,
+  "act_description": "opening Hobbs Cafe and starting the day (turning on the lights)",
+  "act_pronunciatio": "🍾",
   "act_event": [
     "Bernard Lowe",
-    "locking",
-    "door"
+    "opening",
+    "Hobbs Cafe"
   ],
-  "act_obj_description": "locked",
-  "act_obj_pronunciatio": "🟤",
+  "act_obj_description": "active",
+  "act_obj_pronunciatio": "🍖",
   "act_obj_event": [
-    "counter",
-    "locked",
+    "behind the cafe counter",
+    "active",
     "None"
   ],
   "chatting_with": null,
   "chat": null,
-  "chatting_with_buffer": {},
+  "chatting_with_buffer": {
+    "Dolores Abernathy": 103,
+    "Maeve Millay": 50
+  },
   "chatting_end_time": null,
   "act_path_set": true,
   "planned_path": null

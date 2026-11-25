@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day of handling customer complaints efficiently @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I hope you're ready for a busy day today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm ready for whatever today brings."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're prepared to handle any customer complaints efficiently today. We can't afford to have them waiting around for too long."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to handle everything efficiently today. Is there anything specific I need to be aware of?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to follow the procedures we have in place and keep an eye on the time. I'll be keeping a close watch today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to follow all the procedures and keep an eye on the time. Is there anything else you need me to do before we open up?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to stay focused and keep up with the orders. We have a lot of regulars coming in this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Bernard, I'll stay focused and keep up with the orders. Is there anything else you need help with before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Dolores, let's get started then. Make sure to follow the procedures and keep an eye on the time. I'll be keeping a close watch today."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day of handling customer complaints efficiently @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. I hope you're ready for a busy day today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm ready for whatever today brings."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're prepared to handle any customer complaints efficiently today. We can't afford to have them waiting around for too long."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to handle everything efficiently today. Is there anything specific I need to be aware of?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to follow the procedures we have in place and keep an eye on the time. I'll be keeping a close watch today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to follow all the procedures and keep an eye on the time. Is there anything else you need me to do before we open up?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure to stay focused and keep up with the orders. We have a lot of regulars coming in this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Bernard, I'll stay focused and keep up with the orders. Is there anything else you need help with before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Dolores, let's get started then. Make sure to follow the procedures and keep an eye on the time. I'll be keeping a close watch today."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        99,
+        47
+      ],
+      "pronunciato": "🍶",
+      "description": "serving customers at the counter (arranging pastries and snacks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:09:30"
+  }
+}

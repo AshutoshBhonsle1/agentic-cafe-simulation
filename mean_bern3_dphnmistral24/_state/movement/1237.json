@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍶",
+      "description": "opening Hobbs Cafe and starting the day (unlocking the cafe door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Ready for another busy day at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yes, I'm all set. Just restocking some supplies here. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve! I'm all set too. Just finishing up some preparations here."
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I'm looking forward to a smooth day. We've got that coffee meet-up planned after our shift, right?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, looking forward to it! Let's make sure we handle all these orders efficiently today. See you out there!"
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely! Let's make sure everything runs smoothly today. I'll start taking orders soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve! Let's get through these orders together and make sure everything is perfect for our customers. I'll start taking orders too. See you out there!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Ready for another busy day at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yes, I'm all set. Just restocking some supplies here. How's your morning going so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning, Maeve! I'm all set too. Just finishing up some preparations here."
+        ],
+        [
+          "Maeve Millay",
+          "That's great! I'm looking forward to a smooth day. We've got that coffee meet-up planned after our shift, right?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, looking forward to it! Let's make sure we handle all these orders efficiently today. See you out there!"
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely! Let's make sure everything runs smoothly today. I'll start taking orders soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve! Let's get through these orders together and make sure everything is perfect for our customers. I'll start taking orders too. See you out there!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:25:10"
+  }
+}

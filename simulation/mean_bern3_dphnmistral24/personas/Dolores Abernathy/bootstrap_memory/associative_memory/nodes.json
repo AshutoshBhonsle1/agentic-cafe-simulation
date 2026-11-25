@@ -40,6 +40,266 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "meticulously following",
+    "object": "daily schedule and commitments",
+    "description": "Dolores Abernathy is highly organized and responsible, meticulously following her daily schedule and commitments.",
+    "original_description": "Dolores Abernathy is highly organized and responsible, meticulously following her daily schedule and commitments.",
+    "embedding_key": "Dolores Abernathy is highly organized and responsible, meticulously following her daily schedule and commitments.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "meticulously following",
+      "daily schedule and commitments"
+    ],
+    "filling": [
+      "node_68",
+      "node_97",
+      "node_77",
+      "node_59"
+    ]
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "feel overwhelmed by",
+    "object": "social invitations",
+    "description": "She may feel overwhelmed by spontaneous social invitations or unexpected events due to being somewhat introverted.",
+    "original_description": "She may feel overwhelmed by spontaneous social invitations or unexpected events due to being somewhat introverted.",
+    "embedding_key": "She may feel overwhelmed by spontaneous social invitations or unexpected events due to being somewhat introverted.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "feel overwhelmed by",
+      "social invitations"
+    ],
+    "filling": [
+      "node_62",
+      "node_80"
+    ]
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 32,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "struggling with handling scrutiny or unexpected challenges.",
+    "object": "None",
+    "description": "Dolores Abernathy has a modest sense of self-confidence and may struggle with handling scrutiny or unexpected challenges.",
+    "original_description": "Dolores Abernathy has a modest sense of self-confidence and may struggle with handling scrutiny or unexpected challenges.",
+    "embedding_key": "Dolores Abernathy has a modest sense of self-confidence and may struggle with handling scrutiny or unexpected challenges.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "struggling with handling scrutiny or unexpected challenges.",
+      "none"
+    ],
+    "filling": [
+      "node_63",
+      "node_90"
+    ]
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 33,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "has a modest sense of self-confidence and may feel overwhelmed by unexpected challenges or scrutiny",
+    "object": "None",
+    "description": "She has a modest sense of self-confidence and may feel overwhelmed by unexpected challenges or scrutiny.",
+    "original_description": "She has a modest sense of self-confidence and may feel overwhelmed by unexpected challenges or scrutiny.",
+    "embedding_key": "She has a modest sense of self-confidence and may feel overwhelmed by unexpected challenges or scrutiny.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "has a modest sense of self-confidence and may feel overwhelmed by unexpected challenges or scrutiny",
+      "none"
+    ],
+    "filling": [
+      "node_63",
+      "node_41",
+      "node_91"
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 34,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "is highly organized and responsible, which reflects her attention to detail and commitment to",
+    "object": "work",
+    "description": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "original_description": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "embedding_key": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "is highly organized and responsible, which reflects her attention to detail and commitment to",
+      "work"
+    ],
+    "filling": [
+      "node_68",
+      "node_75",
+      "node_59"
+    ]
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 35,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "original_description": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "embedding_key": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_55",
+      "node_61",
+      "node_66"
+    ]
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 36,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "finds comfort in routine and plans, which provide structure and predictability",
+    "object": "None",
+    "description": "She finds comfort in routine and plans, which provide structure and predictability in her life.",
+    "original_description": "She finds comfort in routine and plans, which provide structure and predictability in her life.",
+    "embedding_key": "She finds comfort in routine and plans, which provide structure and predictability in her life.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "finds comfort in routine and plans, which provide structure and predictability",
+      "none"
+    ],
+    "filling": [
+      "node_56",
+      "node_64",
+      "node_69"
+    ]
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 37,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "cautious about",
+    "object": "social interactions",
+    "description": "Dolores is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "original_description": "Dolores is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "embedding_key": "Dolores is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "poignancy": 7,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "cautious about",
+      "social interactions"
+    ],
+    "filling": [
+      "node_53",
+      "node_62",
+      "node_60",
+      "node_66"
+    ]
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 38,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "enjoys",
+    "object": "solitary activities",
+    "description": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "original_description": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "embedding_key": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "enjoys",
+      "solitary activities"
+    ],
+    "filling": [
+      "node_55",
+      "node_77",
+      "node_61"
+    ]
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 39,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values predictability and routine in her life, which helps her maintain a sense of stability.",
+    "original_description": "Dolores Abernathy values predictability and routine in her life, which helps her maintain a sense of stability.",
+    "embedding_key": "Dolores Abernathy values predictability and routine in her life, which helps her maintain a sense of stability.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_64",
+      "node_69",
+      "node_56"
+    ]
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 9,
@@ -61,6 +321,232 @@
     ],
     "filling": null
   },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 40,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "lacks self-confidence when faced with scrutiny or unexpected challenges",
+    "object": "None",
+    "description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "original_description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "embedding_key": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "lacks self-confidence when faced with scrutiny or unexpected challenges",
+      "none"
+    ],
+    "filling": [
+      "node_63",
+      "node_62",
+      "node_60"
+    ]
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 41,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "prefers",
+    "object": "structured social interactions",
+    "description": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "original_description": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "embedding_key": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prefers",
+      "structured social interactions"
+    ],
+    "filling": [
+      "node_65",
+      "node_57",
+      "node_70"
+    ]
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 42,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "taking",
+    "object": "None",
+    "description": "She is highly organized and takes her responsibilities seriously, as evidenced by her meticulous planning and punctuality.",
+    "original_description": "She is highly organized and takes her responsibilities seriously, as evidenced by her meticulous planning and punctuality.",
+    "embedding_key": "She is highly organized and takes her responsibilities seriously, as evidenced by her meticulous planning and punctuality.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "taking",
+      "none"
+    ],
+    "filling": [
+      "node_41",
+      "node_59",
+      "node_90",
+      "node_68"
+    ]
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "lit",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "starting",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "unlocked and ready for business",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_118": {
+    "node_count": 118,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_119": {
+    "node_count": 119,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
   "node_12": {
     "node_count": 12,
     "type_count": 10,
@@ -78,6 +564,249 @@
     "valence": 2,
     "keywords": [
       "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_120": {
+    "node_count": 120,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_121": {
+    "node_count": 121,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_122": {
+    "node_count": 122,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. Ready for another busy day at the cafe?"
+      ],
+      [
+        "Maeve Millay",
+        "Morning, Dolores! Yes, I'm all set. Just restocking some supplies here. How's your morning going so far?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Morning, Maeve! I'm all set too. Just finishing up some preparations here."
+      ],
+      [
+        "Maeve Millay",
+        "That's great! I'm looking forward to a smooth day. We've got that coffee meet-up planned after our shift, right?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, looking forward to it! Let's make sure we handle all these orders efficiently today. See you out there!"
+      ],
+      [
+        "Maeve Millay",
+        "Absolutely! Let's make sure everything runs smoothly today. I'll start taking orders soon."
+      ],
+      [
+        "Dolores Abernathy",
+        "Sounds good, Maeve! Let's get through these orders together and make sure everything is perfect for our customers. I'll start taking orders too. See you out there!"
+      ]
+    ]
+  },
+  "node_123": {
+    "node_count": 123,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_122"
+    ]
+  },
+  "node_124": {
+    "node_count": 124,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "becoming illuminated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_125": {
+    "node_count": 125,
+    "type_count": 43,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:26:50",
+    "expiration": "2023-03-15 09:26:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "handle",
+    "object": "orders efficiently",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle orders efficiently today and meet Maeve Millay for a coffee after their shift.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle orders efficiently today and meet Maeve Millay for a coffee after their shift.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle orders efficiently today and meet Maeve Millay for a coffee after their shift.",
+    "poignancy": 3,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "handle",
+      "orders efficiently"
+    ],
+    "filling": null
+  },
+  "node_126": {
+    "node_count": 126,
+    "type_count": 44,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:26:50",
+    "expiration": "2023-03-15 09:26:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted that",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted that Maeve Millay is looking forward to a smooth day and the coffee meet-up after their shift.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted that Maeve Millay is looking forward to a smooth day and the coffee meet-up after their shift.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted that Maeve Millay is looking forward to a smooth day and the coffee meet-up after their shift.",
+    "poignancy": 2,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "noted that",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_127": {
+    "node_count": 127,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_128": {
+    "node_count": 128,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "counter",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_129": {
+    "node_count": 129,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
       "none"
     ],
     "filling": null
@@ -103,6 +832,246 @@
     ],
     "filling": null
   },
+  "node_130": {
+    "node_count": 130,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_131": {
+    "node_count": 131,
+    "type_count": 6,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "instructing Dolores to handle customer complaints efficiently",
+    "original_description": "instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, make sure you're ready to handle customer complaints efficiently today. We can't afford any mistakes."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to handle customer complaints efficiently today. Is there anything specific you want me to focus on?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just ensure you follow all procedures and maintain a clean workspace. I'll be keeping an eye on things."
+      ],
+      [
+        "Dolores Abernathy",
+        "I understand. I'll make sure to stay focused and keep up with orders during a busy day."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get to it then. Make sure everything is in order before we open up."
+      ]
+    ]
+  },
+  "node_132": {
+    "node_count": 132,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_131"
+    ]
+  },
+  "node_133": {
+    "node_count": 133,
+    "type_count": 45,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "handle efficiently",
+    "object": "customer complaints",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle customer complaints efficiently today, follow all procedures, maintain a clean workspace, and stay focused during a busy day.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle customer complaints efficiently today, follow all procedures, maintain a clean workspace, and stay focused during a busy day.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to handle customer complaints efficiently today, follow all procedures, maintain a clean workspace, and stay focused during a busy day.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "handle efficiently",
+      "customer complaints"
+    ],
+    "filling": null
+  },
+  "node_134": {
+    "node_count": 134,
+    "type_count": 46,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "reminded",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy was reminded to maintain a clean workspace and follow all procedures for handling customer complaints efficiently.",
+    "original_description": "Dolores Abernathy Dolores Abernathy was reminded to maintain a clean workspace and follow all procedures for handling customer complaints efficiently.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy was reminded to maintain a clean workspace and follow all procedures for handling customer complaints efficiently.",
+    "poignancy": 4,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "reminded",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_135": {
+    "node_count": 135,
+    "type_count": 80,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_136": {
+    "node_count": 136,
+    "type_count": 81,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "active",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_137": {
+    "node_count": 137,
+    "type_count": 82,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe",
+    "object": "counter",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_138": {
+    "node_count": 138,
+    "type_count": 83,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_139": {
+    "node_count": 139,
+    "type_count": 47,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "original_description": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "embedding_key": "Dolores Abernathy values solitude and personal time, which helps her recharge and maintain a sense of self.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_55",
+      "node_108",
+      "node_105"
+    ]
+  },
   "node_14": {
     "node_count": 14,
     "type_count": 12,
@@ -123,6 +1092,275 @@
       "breakfast preparation"
     ],
     "filling": null
+  },
+  "node_140": {
+    "node_count": 140,
+    "type_count": 48,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "being highly organized and responsible",
+    "object": "None",
+    "description": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "original_description": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "embedding_key": "Dolores Abernathy is highly organized and responsible, which reflects her attention to detail and commitment to her work.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "being highly organized and responsible",
+      "none"
+    ],
+    "filling": [
+      "node_68",
+      "node_104",
+      "node_56"
+    ]
+  },
+  "node_141": {
+    "node_count": 141,
+    "type_count": 49,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "struggle with self-confidence",
+    "object": "None",
+    "description": "Dolores Abernathy may struggle with self-confidence when faced with scrutiny or unexpected challenges, but she is earnest and responsible in her duties.",
+    "original_description": "Dolores Abernathy may struggle with self-confidence when faced with scrutiny or unexpected challenges, but she is earnest and responsible in her duties.",
+    "embedding_key": "Dolores Abernathy may struggle with self-confidence when faced with scrutiny or unexpected challenges, but she is earnest and responsible in her duties.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "struggle with self-confidence",
+      "none"
+    ],
+    "filling": [
+      "node_102",
+      "node_110",
+      "node_103",
+      "node_133"
+    ]
+  },
+  "node_142": {
+    "node_count": 142,
+    "type_count": 50,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciates",
+    "object": "routine and structure",
+    "description": "Dolores Abernathy appreciates routine and structure in her life, as it provides a sense of stability and predictability.",
+    "original_description": "Dolores Abernathy appreciates routine and structure in her life, as it provides a sense of stability and predictability.",
+    "embedding_key": "Dolores Abernathy appreciates routine and structure in her life, as it provides a sense of stability and predictability.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciates",
+      "routine and structure"
+    ],
+    "filling": [
+      "node_69",
+      "node_98",
+      "node_41"
+    ]
+  },
+  "node_143": {
+    "node_count": 143,
+    "type_count": 51,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "cautious about",
+    "object": "social interactions",
+    "description": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned, which reflects her reserved nature.",
+    "original_description": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned, which reflects her reserved nature.",
+    "embedding_key": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned, which reflects her reserved nature.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "cautious about",
+      "social interactions"
+    ],
+    "filling": [
+      "node_66",
+      "node_107",
+      "node_111"
+    ]
+  },
+  "node_144": {
+    "node_count": 144,
+    "type_count": 52,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "original_description": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "embedding_key": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_106",
+      "node_64",
+      "node_56",
+      "node_41",
+      "node_69"
+    ]
+  },
+  "node_145": {
+    "node_count": 145,
+    "type_count": 53,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "lacking self-confidence",
+    "object": "None",
+    "description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "original_description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "embedding_key": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "lacking self-confidence",
+      "none"
+    ],
+    "filling": [
+      "node_110",
+      "node_103",
+      "node_102",
+      "node_63"
+    ]
+  },
+  "node_146": {
+    "node_count": 146,
+    "type_count": 54,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prefers",
+    "object": "structured social interactions",
+    "description": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "original_description": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "embedding_key": "Dolores Abernathy prefers structured social interactions and feels more comfortable in familiar environments like work.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prefers",
+      "structured social interactions"
+    ],
+    "filling": [
+      "node_107",
+      "node_111",
+      "node_66"
+    ]
+  },
+  "node_147": {
+    "node_count": 147,
+    "type_count": 55,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "enjoys",
+    "object": "solitary activities",
+    "description": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "original_description": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "embedding_key": "Dolores Abernathy enjoys solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "enjoys",
+      "solitary activities"
+    ],
+    "filling": [
+      "node_108",
+      "node_55"
+    ]
+  },
+  "node_148": {
+    "node_count": 148,
+    "type_count": 56,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "instructions have a significant impact on",
+    "object": "None",
+    "description": "Bernard Lowe's instructions have a significant impact on Dolores Abernathy's approach to her work, particularly in handling customer complaints efficiently.",
+    "original_description": "Bernard Lowe's instructions have a significant impact on Dolores Abernathy's approach to her work, particularly in handling customer complaints efficiently.",
+    "embedding_key": "Bernard Lowe's instructions have a significant impact on Dolores Abernathy's approach to her work, particularly in handling customer complaints efficiently.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "instructions have a significant impact on",
+      "none"
+    ],
+    "filling": [
+      "node_77",
+      "node_130",
+      "node_132",
+      "node_90",
+      "node_133"
+    ]
+  },
+  "node_149": {
+    "node_count": 149,
+    "type_count": 57,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "is cautious about",
+    "object": "social interactions outside of work",
+    "description": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "original_description": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "embedding_key": "Dolores Abernathy is cautious about social interactions outside of work, preferring them to be task-oriented or planned.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "is cautious about",
+      "social interactions outside of work"
+    ],
+    "filling": [
+      "node_134",
+      "node_104",
+      "node_90",
+      "node_105",
+      "node_118",
+      "node_107",
+      "node_41"
+    ]
   },
   "node_15": {
     "node_count": 15,
@@ -176,6 +1414,112 @@
         "Dolores Abernathy",
         "See you at Hobbs Cafe later, Maeve!"
       ]
+    ]
+  },
+  "node_150": {
+    "node_count": 150,
+    "type_count": 58,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values predictability and routine in her life, as it provides a sense of stability.",
+    "original_description": "Dolores Abernathy values predictability and routine in her life, as it provides a sense of stability.",
+    "embedding_key": "Dolores Abernathy values predictability and routine in her life, as it provides a sense of stability.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_98",
+      "node_69",
+      "node_56",
+      "node_64",
+      "node_109"
+    ]
+  },
+  "node_151": {
+    "node_count": 151,
+    "type_count": 59,
+    "type": "thought",
+    "depth": 4,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "lacks self-confidence",
+    "object": "None",
+    "description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "original_description": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "embedding_key": "Despite being earnest and responsible, Dolores Abernathy may lack self-confidence when faced with scrutiny or unexpected challenges.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "lacks self-confidence",
+      "none"
+    ],
+    "filling": [
+      "node_110",
+      "node_102",
+      "node_63"
+    ]
+  },
+  "node_152": {
+    "node_count": 152,
+    "type_count": 60,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "prefers",
+    "object": "solitary activities",
+    "description": "Dolores Abernathy prefers solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "original_description": "Dolores Abernathy prefers solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "embedding_key": "Dolores Abernathy prefers solitary activities and finds pleasure in simple things like reading, indicating a preference for alone time.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prefers",
+      "solitary activities"
+    ],
+    "filling": [
+      "node_108",
+      "node_89",
+      "node_55"
+    ]
+  },
+  "node_153": {
+    "node_count": 153,
+    "type_count": 61,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:29:10",
+    "expiration": "2023-03-15 09:29:10",
+    "subject": "Dolores Abernathy",
+    "predicate": "handling efficiently",
+    "object": "customer complaints",
+    "description": "For Dolores Abernathy's planning: She needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "original_description": "For Dolores Abernathy's planning: She needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "embedding_key": "For Dolores Abernathy's planning: She needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "handling efficiently",
+      "customer complaints"
+    ],
+    "filling": [
+      "node_89",
+      "node_133",
+      "node_78"
     ]
   },
   "node_16": {
@@ -1085,6 +2429,242 @@
     ],
     "filling": null
   },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
+      ],
+      [
+        "Maeve Millay",
+        "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
+      ],
+      [
+        "Dolores Abernathy",
+        "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
+      ]
+    ]
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_52"
+    ]
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "prefers to spend her free time alone, often engaging in solitary activities such as reading",
+    "object": "None",
+    "description": "Dolores Abernathy prefers to spend her free time alone, often engaging in solitary activities such as reading.",
+    "original_description": "Dolores Abernathy prefers to spend her free time alone, often engaging in solitary activities such as reading.",
+    "embedding_key": "Dolores Abernathy prefers to spend her free time alone, often engaging in solitary activities such as reading.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "prefers to spend her free time alone, often engaging in solitary activities such as reading",
+      "none"
+    ],
+    "filling": [
+      "node_31",
+      "node_50",
+      "node_47",
+      "node_39"
+    ]
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "following",
+    "object": "daily schedule",
+    "description": "Dolores Abernathy values her routine and plans, as she meticulously follows a daily schedule.",
+    "original_description": "Dolores Abernathy values her routine and plans, as she meticulously follows a daily schedule.",
+    "embedding_key": "Dolores Abernathy values her routine and plans, as she meticulously follows a daily schedule.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "following",
+      "daily schedule"
+    ],
+    "filling": [
+      "node_35",
+      "node_26",
+      "node_38"
+    ]
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "enjoys",
+    "object": "social interactions",
+    "description": "She enjoys social interactions, particularly when they are planned or occur in familiar settings like work.",
+    "original_description": "She enjoys social interactions, particularly when they are planned or occur in familiar settings like work.",
+    "embedding_key": "She enjoys social interactions, particularly when they are planned or occur in familiar settings like work.",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "enjoys",
+      "social interactions"
+    ],
+    "filling": [
+      "node_29",
+      "node_1",
+      "node_17",
+      "node_33"
+    ]
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciates",
+    "object": "good food",
+    "description": "Dolores Abernathy appreciates good food and is interested in trying new breakfast items.",
+    "original_description": "Dolores Abernathy appreciates good food and is interested in trying new breakfast items.",
+    "embedding_key": "Dolores Abernathy appreciates good food and is interested in trying new breakfast items.",
+    "poignancy": 3,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciates",
+      "good food"
+    ],
+    "filling": [
+      "node_19",
+      "node_23"
+    ]
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "has a strong sense of responsibility and remembers important commitments like meeting a colleague for coffee",
+    "object": "None",
+    "description": "She has a strong sense of responsibility and remembers important commitments like meeting a colleague for coffee.",
+    "original_description": "She has a strong sense of responsibility and remembers important commitments like meeting a colleague for coffee.",
+    "embedding_key": "She has a strong sense of responsibility and remembers important commitments like meeting a colleague for coffee.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "has a strong sense of responsibility and remembers important commitments like meeting a colleague for coffee",
+      "none"
+    ],
+    "filling": [
+      "node_41",
+      "node_51",
+      "node_34",
+      "node_42",
+      "node_16",
+      "node_18"
+    ]
+  },
   "node_6": {
     "node_count": 6,
     "type_count": 4,
@@ -1106,6 +2686,281 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "is cautious about",
+    "object": "social interactions outside of work",
+    "description": "She is cautious about social interactions outside of work, preferring to keep them task-oriented or planned.",
+    "original_description": "She is cautious about social interactions outside of work, preferring to keep them task-oriented or planned.",
+    "embedding_key": "She is cautious about social interactions outside of work, preferring to keep them task-oriented or planned.",
+    "poignancy": 7,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "is cautious about",
+      "social interactions outside of work"
+    ],
+    "filling": [
+      "node_34",
+      "node_33",
+      "node_41"
+    ]
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciates",
+    "object": "None",
+    "description": "Dolores Abernathy appreciates the simple pleasures in life, like a good breakfast and quiet time for reading.",
+    "original_description": "Dolores Abernathy appreciates the simple pleasures in life, like a good breakfast and quiet time for reading.",
+    "embedding_key": "Dolores Abernathy appreciates the simple pleasures in life, like a good breakfast and quiet time for reading.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciates",
+      "none"
+    ],
+    "filling": [
+      "node_53",
+      "node_38",
+      "node_2",
+      "node_39",
+      "node_17",
+      "node_32",
+      "node_23"
+    ]
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "feeling overwhelmed by",
+    "object": "None",
+    "description": "She is somewhat introverted and may feel overwhelmed by spontaneous social invitations or unexpected events.",
+    "original_description": "She is somewhat introverted and may feel overwhelmed by spontaneous social invitations or unexpected events.",
+    "embedding_key": "She is somewhat introverted and may feel overwhelmed by spontaneous social invitations or unexpected events.",
+    "poignancy": 7,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "feeling overwhelmed by",
+      "none"
+    ],
+    "filling": [
+      "node_51",
+      "node_47",
+      "node_50",
+      "node_54"
+    ]
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "has a modest sense of self-confidence, which can be affected by how she perceives her ability to handle scrutiny or unexpected challenges.",
+    "object": "None",
+    "description": "Dolores Abernathy has a modest sense of self-confidence, which can be affected by how she perceives her ability to handle scrutiny or unexpected challenges.",
+    "original_description": "Dolores Abernathy has a modest sense of self-confidence, which can be affected by how she perceives her ability to handle scrutiny or unexpected challenges.",
+    "embedding_key": "Dolores Abernathy has a modest sense of self-confidence, which can be affected by how she perceives her ability to handle scrutiny or unexpected challenges.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "has a modest sense of self-confidence, which can be affected by how she perceives her ability to handle scrutiny or unexpected challenges.",
+      "none"
+    ],
+    "filling": [
+      "node_8",
+      "node_2",
+      "node_29",
+      "node_19"
+    ]
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "routine and structure",
+    "description": "Dolores Abernathy values her routine and structure in life, as it provides a sense of stability and predictability.",
+    "original_description": "Dolores Abernathy values her routine and structure in life, as it provides a sense of stability and predictability.",
+    "embedding_key": "Dolores Abernathy values her routine and structure in life, as it provides a sense of stability and predictability.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "routine and structure"
+    ],
+    "filling": [
+      "node_1",
+      "node_35",
+      "node_13"
+    ]
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "enjoys",
+    "object": "social interactions",
+    "description": "She enjoys social interactions, especially when they are planned and occur in familiar environments like work.",
+    "original_description": "She enjoys social interactions, especially when they are planned and occur in familiar environments like work.",
+    "embedding_key": "She enjoys social interactions, especially when they are planned and occur in familiar environments like work.",
+    "poignancy": 4,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "enjoys",
+      "social interactions"
+    ],
+    "filling": [
+      "node_41",
+      "node_29",
+      "node_32"
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "sharing",
+    "object": "personal plans",
+    "description": "Dolores Abernathy has a modest approach to sharing personal plans or inviting others to meet up, suggesting she may be reserved or cautious in her social interactions.",
+    "original_description": "Dolores Abernathy has a modest approach to sharing personal plans or inviting others to meet up, suggesting she may be reserved or cautious in her social interactions.",
+    "embedding_key": "Dolores Abernathy has a modest approach to sharing personal plans or inviting others to meet up, suggesting she may be reserved or cautious in her social interactions.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "sharing",
+      "personal plans"
+    ],
+    "filling": [
+      "node_31",
+      "node_3",
+      "node_18",
+      "node_8",
+      "node_40"
+    ]
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "appreciates",
+    "object": "None",
+    "description": "She appreciates the simple pleasures of life, such as having breakfast and reading, indicating a preference for quiet and introspective hobbies.",
+    "original_description": "She appreciates the simple pleasures of life, such as having breakfast and reading, indicating a preference for quiet and introspective hobbies.",
+    "embedding_key": "She appreciates the simple pleasures of life, such as having breakfast and reading, indicating a preference for quiet and introspective hobbies.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "appreciates",
+      "none"
+    ],
+    "filling": [
+      "node_19",
+      "node_39",
+      "node_46",
+      "node_26",
+      "node_11",
+      "node_50"
+    ]
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "keeping track of",
+    "object": "daily tasks",
+    "description": "Dolores Abernathy is highly organized and keeps track of her daily tasks meticulously, which reflects her responsible nature and attention to detail.",
+    "original_description": "Dolores Abernathy is highly organized and keeps track of her daily tasks meticulously, which reflects her responsible nature and attention to detail.",
+    "embedding_key": "Dolores Abernathy is highly organized and keeps track of her daily tasks meticulously, which reflects her responsible nature and attention to detail.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "keeping track of",
+      "daily tasks"
+    ],
+    "filling": [
+      "node_13",
+      "node_35",
+      "node_42",
+      "node_39",
+      "node_54",
+      "node_53",
+      "node_33"
+    ]
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:40:00",
+    "expiration": "2023-03-15 08:40:00",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "None",
+    "description": "Dolores Abernathy values routine and structure in her daily life, which provides a sense of stability and predictability.",
+    "original_description": "Dolores Abernathy values routine and structure in her daily life, which provides a sense of stability and predictability.",
+    "embedding_key": "Dolores Abernathy values routine and structure in her daily life, which provides a sense of stability and predictability.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_16",
+      "node_34"
+    ]
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -1124,6 +2979,251 @@
     "keywords": [
       "dolores abernathy",
       "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:41:50",
+    "expiration": "2023-03-15 08:41:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "meet",
+    "object": "Maeve Millay for coffee at Hobbs Cafe after their shift",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve Millay for coffee at Hobbs Cafe after their shift.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve Millay for coffee at Hobbs Cafe after their shift.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to meet Maeve Millay for coffee at Hobbs Cafe after their shift.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "meet",
+      "maeve millay for coffee at hobbs cafe after their shift"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:41:50",
+    "expiration": "2023-03-15 08:41:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "finding",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy found the new coffee blend at Hobbs Cafe interesting and noteworthy.",
+    "original_description": "Dolores Abernathy Dolores Abernathy found the new coffee blend at Hobbs Cafe interesting and noteworthy.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy found the new coffee blend at Hobbs Cafe interesting and noteworthy.",
+    "poignancy": 3,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "finding",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:42:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to Hobbs Cafe (getting ready to leave the house)",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:46:50",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "locking",
+    "object": "door",
+    "description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "poignancy": 2,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "door"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "coordinating work preparations and responsibilities",
+    "original_description": "coordinating work preparations and responsibilities",
+    "embedding_key": "coordinating work preparations and responsibilities",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. I'm heading to Hobbs Cafe for our shift today."
+      ],
+      [
+        "Bernard Lowe",
+        "Morning Dolores. I hope you're ready for a busy day at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Absolutely, Bernard. I'm looking forward to a productive day at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure you're on time and ready to work. We have a lot to do today at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Of course, Bernard. I'll make sure to be there on time and ready for whatever we need to do today at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Make sure you're prepared to handle customer complaints and keep up with orders. We can't afford any mistakes today."
+      ],
+      [
+        "Dolores Abernathy",
+        "Understood, Bernard. I'll make sure to handle customer complaints and keep up with orders efficiently today at Hobbs Cafe. Have a good day!"
+      ]
+    ]
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "original_description": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "embedding_key": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_74"
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "original_description": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "embedding_key": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:50",
+    "expiration": "2023-03-15 08:47:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "planning",
+    "object": "None",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be on time for her shift at Hobbs Cafe and handle customer complaints efficiently.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be on time for her shift at Hobbs Cafe and handle customer complaints efficiently.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to remember to be on time for her shift at Hobbs Cafe and handle customer complaints efficiently.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "planning",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:50",
+    "expiration": "2023-03-15 08:47:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on being prepared to handle customer complaints and keep up with orders efficiently at Hobbs Cafe today.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on being prepared to handle customer complaints and keep up with orders efficiently at Hobbs Cafe today.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on being prepared to handle customer complaints and keep up with orders efficiently at Hobbs Cafe today.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
     ],
     "filling": null
   },
@@ -1148,6 +3248,256 @@
     ],
     "filling": null
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waiting to start",
+    "object": "locking the door",
+    "description": "Bernard Lowe is waiting to start locking the door",
+    "original_description": "Bernard Lowe is waiting to start locking the door",
+    "embedding_key": "Bernard Lowe is waiting to start locking the door",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "bernard lowe",
+      "locking the door"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "awaiting",
+    "object": "occupation",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "occupation"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:04:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (arriving at the cafe)",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "poignancy": 3,
+    "valence": -3,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:04:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "occupying",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:07:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Good morning, Dolores. I hope you're ready for a busy day today."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. I'm ready for whatever today brings."
+      ],
+      [
+        "Bernard Lowe",
+        "Make sure you're prepared to handle any customer complaints efficiently today. We can't afford to have them waiting around for too long."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to handle everything efficiently today. Is there anything specific I need to be aware of?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure to follow the procedures we have in place and keep an eye on the time. I'll be keeping a close watch today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to follow all the procedures and keep an eye on the time. Is there anything else you need me to do before we open up?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure to stay focused and keep up with the orders. We have a lot of regulars coming in this morning."
+      ],
+      [
+        "Dolores Abernathy",
+        "Alright Bernard, I'll stay focused and keep up with the orders. Is there anything else you need help with before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright Dolores, let's get started then. Make sure to follow the procedures and keep an eye on the time. I'll be keeping a close watch today."
+      ]
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_86"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "handle efficiently",
+    "object": "customer complaints",
+    "description": "For Dolores Abernathy's planning: Dolores Abernathy needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "original_description": "For Dolores Abernathy's planning: Dolores Abernathy needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "embedding_key": "For Dolores Abernathy's planning: Dolores Abernathy needs to handle customer complaints efficiently, follow procedures, keep an eye on the time, stay focused, and keep up with orders during a busy day.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "handle efficiently",
+      "customer complaints"
+    ],
+    "filling": null
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 7,
@@ -1168,5 +3518,227 @@
       "none"
     ],
     "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Dolores Abernathy",
+    "predicate": "noted",
+    "object": "None",
+    "description": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on handling customer complaints efficiently today.",
+    "original_description": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on handling customer complaints efficiently today.",
+    "embedding_key": "Dolores Abernathy Dolores Abernathy noted Bernard's emphasis on handling customer complaints efficiently today.",
+    "poignancy": 7,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "noted",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "unlocking",
+    "object": "door",
+    "description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "door"
+    ],
+    "filling": null
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "poignancy": 3,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:40",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is accessible",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "values",
+    "object": "routine and structure in her life",
+    "description": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "original_description": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "embedding_key": "Dolores Abernathy values routine and structure in her life, which provides a sense of stability and predictability.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "values",
+      "routine and structure in her life"
+    ],
+    "filling": [
+      "node_64",
+      "node_69",
+      "node_56"
+    ]
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:18:40",
+    "expiration": "2023-03-15 09:18:40",
+    "subject": "Dolores Abernathy",
+    "predicate": "prefers",
+    "object": "social interactions",
+    "description": "She prefers social interactions when they are planned or occur in familiar settings like work.",
+    "original_description": "She prefers social interactions when they are planned or occur in familiar settings like work.",
+    "embedding_key": "She prefers social interactions when they are planned or occur in familiar settings like work.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "prefers",
+      "social interactions"
+    ],
+    "filling": [
+      "node_78",
+      "node_60",
+      "node_57",
+      "node_84"
+    ]
   }
 }

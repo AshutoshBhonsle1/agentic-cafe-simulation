@@ -2,9 +2,9 @@
   "the Ville": {
     "Bernard Lowe's apartment": {
       "bathroom": [
-        "shower",
         "bathroom sink",
-        "toilet"
+        "toilet",
+        "shower"
       ],
       "main room": [
         "shelf",
@@ -16,9 +16,9 @@
     },
     "Dorm for Oak Hill College": {
       "common room": [
-        "common room sofa",
         "pool table",
-        "common room table"
+        "common room table",
+        "common room sofa"
       ],
       "garden": [
         "dorm garden"
@@ -31,13 +31,13 @@
         "toilet"
       ],
       "main room": [
+        "desk",
+        "blackboard",
+        "cooking area",
         "kitchen sink",
         "closet",
         "refrigerator",
-        "bed",
-        "desk",
-        "blackboard",
-        "cooking area"
+        "bed"
       ]
     },
     "Harvey Oak Supply Store": {
@@ -49,12 +49,12 @@
     },
     "Hobbs Cafe": {
       "cafe": [
-        "cafe customer seating",
         "cooking area",
         "kitchen sink",
         "behind the cafe counter",
         "piano",
-        "refrigerator"
+        "refrigerator",
+        "cafe customer seating"
       ]
     },
     "Johnson Park": {
@@ -64,38 +64,38 @@
     },
     "Ryan Park's apartment": {
       "bathroom": [
+        "toilet",
         "shower",
-        "bathroom sink",
-        "toilet"
+        "bathroom sink"
       ],
       "main room": [
+        "refrigerator",
         "closet",
         "computer desk",
         "bed",
         "cooking area",
-        "kitchen sink",
-        "refrigerator"
+        "kitchen sink"
       ]
     },
     "The Rose and Crown Pub": {
       "pub": [
-        "shelf",
-        "refrigerator",
         "bar customer seating",
         "behind the bar counter",
         "kitchen sink",
         "cooking area",
-        "microphone"
+        "microphone",
+        "shelf",
+        "refrigerator"
       ]
     },
     "The Willows Market and Pharmacy": {
       "store": [
-        "pharmacy store counter",
         "grocery store shelf",
         "behind the grocery counter",
         "grocery store counter",
         "behind the pharmacy counter",
-        "pharmacy store shelf"
+        "pharmacy store shelf",
+        "pharmacy store counter"
       ]
     }
   }

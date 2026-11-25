@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "???",
+      "description": "walking to Hobbs cafe (arriving at Hobbs cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "☕",
+      "description": "preparing for work at the cafe (arriving at the cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        114,
+        47
+      ],
+      "pronunciato": "🍾",
+      "description": "serving customers at the counter (preparing counter surfaces) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:00"
+  }
+}

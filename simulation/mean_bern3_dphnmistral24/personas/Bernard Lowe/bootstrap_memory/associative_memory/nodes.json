@@ -40,6 +40,239 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "becoming illuminated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "starting",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "counter",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "instructing Dolores to handle customer complaints efficiently",
+    "original_description": "instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Dolores, make sure you're ready to handle customer complaints efficiently today. We can't afford any mistakes."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to handle customer complaints efficiently today. Is there anything specific you want me to focus on?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just ensure you follow all procedures and maintain a clean workspace. I'll be keeping an eye on things."
+      ],
+      [
+        "Dolores Abernathy",
+        "I understand. I'll make sure to stay focused and keep up with orders during a busy day."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, let's get to it then. Make sure everything is in order before we open up."
+      ]
+    ]
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_108"
+    ]
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 9,
@@ -58,6 +291,176 @@
     "keywords": [
       "bernard lowe",
       "none"
+    ],
+    "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 37,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Bernard Lowe",
+    "predicate": "remember to keep an eye on",
+    "object": "Dolores Abernathy's handling of customer complaints",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on Dolores Abernathy's handling of customer complaints and ensure she follows all procedures while maintaining a clean workspace.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on Dolores Abernathy's handling of customer complaints and ensure she follows all procedures while maintaining a clean workspace.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to remember to keep an eye on Dolores Abernathy's handling of customer complaints and ensure she follows all procedures while maintaining a clean workspace.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "remember to keep an eye on",
+      "dolores abernathy's handling of customer complaints"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 38,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:28:50",
+    "expiration": "2023-03-15 09:28:50",
+    "subject": "Bernard Lowe",
+    "predicate": "finding noteworthy",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy is ready to handle customer complaints efficiently today.",
+    "original_description": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy is ready to handle customer complaints efficiently today.",
+    "embedding_key": "Bernard Lowe Bernard Lowe found it noteworthy that Dolores Abernathy is ready to handle customer complaints efficiently today.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "finding noteworthy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "active",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe",
+    "object": "counter",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (turning on the lights)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
     ],
     "filling": null
   },
@@ -565,6 +968,185 @@
     ],
     "filling": null
   },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "coordinating work preparations and responsibilities",
+    "original_description": "coordinating work preparations and responsibilities",
+    "embedding_key": "coordinating work preparations and responsibilities",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. I'm heading to Hobbs Cafe for our shift today."
+      ],
+      [
+        "Bernard Lowe",
+        "Morning Dolores. I hope you're ready for a busy day at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Absolutely, Bernard. I'm looking forward to a productive day at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure you're on time and ready to work. We have a lot to do today at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "Of course, Bernard. I'll make sure to be there on time and ready for whatever we need to do today at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Make sure you're prepared to handle customer complaints and keep up with orders. We can't afford any mistakes today."
+      ],
+      [
+        "Dolores Abernathy",
+        "Understood, Bernard. I'll make sure to handle customer complaints and keep up with orders efficiently today at Hobbs Cafe. Have a good day!"
+      ]
+    ]
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "original_description": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "embedding_key": "Bernard Lowe is coordinating work preparations and responsibilities",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_34"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 33,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:47:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "original_description": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "embedding_key": "Dolores Abernathy is coordinating work preparations and responsibilities",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "has a consistent morning ritual that he adheres to every day before heading to work",
+    "object": "None",
+    "description": "Bernard Lowe has a consistent morning ritual that he adheres to every day before heading to work.",
+    "original_description": "Bernard Lowe has a consistent morning ritual that he adheres to every day before heading to work.",
+    "embedding_key": "Bernard Lowe has a consistent morning ritual that he adheres to every day before heading to work.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "has a consistent morning ritual that he adheres to every day before heading to work",
+      "none"
+    ],
+    "filling": [
+      "node_11",
+      "node_13",
+      "node_9",
+      "node_2",
+      "node_17"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "preparing for and committed to",
+    "object": "role as the manager of Hobbs Cafe",
+    "description": "Bernard Lowe is preparing for and committed to his role as the manager of Hobbs Cafe.",
+    "original_description": "Bernard Lowe is preparing for and committed to his role as the manager of Hobbs Cafe.",
+    "embedding_key": "Bernard Lowe is preparing for and committed to his role as the manager of Hobbs Cafe.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "preparing for and committed to",
+      "role as the manager of hobbs cafe"
+    ],
+    "filling": [
+      "node_35",
+      "node_25",
+      "node_32",
+      "node_1",
+      "node_19"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "has",
+    "object": "None",
+    "description": "Bernard Lowe has a structured day that includes specific times for work, rest, and personal activities.",
+    "original_description": "Bernard Lowe has a structured day that includes specific times for work, rest, and personal activities.",
+    "embedding_key": "Bernard Lowe has a structured day that includes specific times for work, rest, and personal activities.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "has",
+      "none"
+    ],
+    "filling": [
+      "node_29",
+      "node_28",
+      "node_24",
+      "node_31",
+      "node_33",
+      "node_16"
+    ]
+  },
   "node_4": {
     "node_count": 4,
     "type_count": 2,
@@ -586,6 +1168,268 @@
     ],
     "filling": null
   },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "not easily trust others or form close relationships due to past betrayal",
+    "object": "None",
+    "description": "Bernard Lowe is likely someone who does not easily trust others or form close relationships due to past betrayal.",
+    "original_description": "Bernard Lowe is likely someone who does not easily trust others or form close relationships due to past betrayal.",
+    "embedding_key": "Bernard Lowe is likely someone who does not easily trust others or form close relationships due to past betrayal.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "not easily trust others or form close relationships due to past betrayal",
+      "none"
+    ],
+    "filling": [
+      "node_36"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "being",
+    "object": "None",
+    "description": "Bernard Lowe is a meticulous person who values order and control in his daily routine.",
+    "original_description": "Bernard Lowe is a meticulous person who values order and control in his daily routine.",
+    "embedding_key": "Bernard Lowe is a meticulous person who values order and control in his daily routine.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "being",
+      "none"
+    ],
+    "filling": [
+      "node_10",
+      "node_22",
+      "node_18",
+      "node_20",
+      "node_15"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "is meticulous about",
+    "object": "cleanliness and personal hygiene",
+    "description": "Bernard is meticulous about cleanliness and personal hygiene, possibly reflecting past experiences or personal beliefs.",
+    "original_description": "Bernard is meticulous about cleanliness and personal hygiene, possibly reflecting past experiences or personal beliefs.",
+    "embedding_key": "Bernard is meticulous about cleanliness and personal hygiene, possibly reflecting past experiences or personal beliefs.",
+    "poignancy": 7,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "is meticulous about",
+      "cleanliness and personal hygiene"
+    ],
+    "filling": [
+      "node_6",
+      "node_23",
+      "node_20"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "distrustful of others",
+    "object": "None",
+    "description": "Bernard is cautious and possibly distrustful of others, as indicated by his actions to secure the cafe and his apartment.",
+    "original_description": "Bernard is cautious and possibly distrustful of others, as indicated by his actions to secure the cafe and his apartment.",
+    "embedding_key": "Bernard is cautious and possibly distrustful of others, as indicated by his actions to secure the cafe and his apartment.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "distrustful of others",
+      "none"
+    ],
+    "filling": [
+      "node_30",
+      "node_33",
+      "node_32"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "has a strong sense of responsibility and control over his workplace, which might stem from past betrayals or failures.",
+    "object": "None",
+    "description": "Bernard has a strong sense of responsibility and control over his workplace, which might stem from past betrayals or failures.",
+    "original_description": "Bernard has a strong sense of responsibility and control over his workplace, which might stem from past betrayals or failures.",
+    "embedding_key": "Bernard has a strong sense of responsibility and control over his workplace, which might stem from past betrayals or failures.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "has a strong sense of responsibility and control over his workplace, which might stem from past betrayals or failures.",
+      "none"
+    ],
+    "filling": [
+      "node_35",
+      "node_19",
+      "node_2"
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "struggle with trust issues and forming",
+    "object": "positive relationships",
+    "description": "Bernard may struggle with trust issues and forming positive relationships due to his negative worldview and past experiences.",
+    "original_description": "Bernard may struggle with trust issues and forming positive relationships due to his negative worldview and past experiences.",
+    "embedding_key": "Bernard may struggle with trust issues and forming positive relationships due to his negative worldview and past experiences.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "struggle with trust issues and forming",
+      "positive relationships"
+    ],
+    "filling": [
+      "node_25",
+      "node_16",
+      "node_31"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "adhering to",
+    "object": "daily schedule",
+    "description": "Bernard values routine and order in his life, as seen by his strict adherence to a daily schedule.",
+    "original_description": "Bernard values routine and order in his life, as seen by his strict adherence to a daily schedule.",
+    "embedding_key": "Bernard values routine and order in his life, as seen by his strict adherence to a daily schedule.",
+    "poignancy": 7,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "adhering to",
+      "daily schedule"
+    ],
+    "filling": [
+      "node_1",
+      "node_10",
+      "node_11"
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "is a very routine-oriented person who values punctuality and order in his daily life",
+    "object": "None",
+    "description": "Bernard Lowe is a very routine-oriented person who values punctuality and order in his daily life.",
+    "original_description": "Bernard Lowe is a very routine-oriented person who values punctuality and order in his daily life.",
+    "embedding_key": "Bernard Lowe is a very routine-oriented person who values punctuality and order in his daily life.",
+    "poignancy": 8,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "is a very routine-oriented person who values punctuality and order in his daily life",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_4",
+      "node_20"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "is meticulous about securing",
+    "object": "personal space and workplace",
+    "description": "Bernard Lowe is meticulous about securing his personal space and workplace, suggesting he may have trust issues or concerns about theft.",
+    "original_description": "Bernard Lowe is meticulous about securing his personal space and workplace, suggesting he may have trust issues or concerns about theft.",
+    "embedding_key": "Bernard Lowe is meticulous about securing his personal space and workplace, suggesting he may have trust issues or concerns about theft.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "is meticulous about securing",
+      "personal space and workplace"
+    ],
+    "filling": [
+      "node_32",
+      "node_33",
+      "node_10"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "takes care of himself with a regular morning routine that includes hygiene and possibly some personal grooming.",
+    "object": "None",
+    "description": "Despite being a cynic, Bernard Lowe takes care of himself with a regular morning routine that includes hygiene and possibly some personal grooming.",
+    "original_description": "Despite being a cynic, Bernard Lowe takes care of himself with a regular morning routine that includes hygiene and possibly some personal grooming.",
+    "embedding_key": "Despite being a cynic, Bernard Lowe takes care of himself with a regular morning routine that includes hygiene and possibly some personal grooming.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "takes care of himself with a regular morning routine that includes hygiene and possibly some personal grooming.",
+      "none"
+    ],
+    "filling": [
+      "node_9",
+      "node_16",
+      "node_24",
+      "node_22",
+      "node_11"
+    ]
+  },
   "node_5": {
     "node_count": 5,
     "type_count": 3,
@@ -604,6 +1448,232 @@
     "keywords": [
       "shower",
       "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "focusing",
+    "object": "None",
+    "description": "Bernard Lowe does not seem to be in a close relationship or have a family life, as his daily plan focuses solely on work and individual activities.",
+    "original_description": "Bernard Lowe does not seem to be in a close relationship or have a family life, as his daily plan focuses solely on work and individual activities.",
+    "embedding_key": "Bernard Lowe does not seem to be in a close relationship or have a family life, as his daily plan focuses solely on work and individual activities.",
+    "poignancy": 3,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "focusing",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_14"
+    ]
+  },
+  "node_51": {
+    "node_count": 51,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:47:00",
+    "expiration": "2023-03-15 08:47:00",
+    "subject": "Bernard Lowe",
+    "predicate": "is likely someone who plans his day meticulously down to the minute, indicating an organized but possibly rigid personality.",
+    "object": "None",
+    "description": "Bernard Lowe is likely someone who plans his day meticulously down to the minute, indicating an organized but possibly rigid personality.",
+    "original_description": "Bernard Lowe is likely someone who plans his day meticulously down to the minute, indicating an organized but possibly rigid personality.",
+    "embedding_key": "Bernard Lowe is likely someone who plans his day meticulously down to the minute, indicating an organized but possibly rigid personality.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "is likely someone who plans his day meticulously down to the minute, indicating an organized but possibly rigid personality.",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_27",
+      "node_16",
+      "node_24",
+      "node_35",
+      "node_15",
+      "node_29",
+      "node_21"
+    ]
+  },
+  "node_52": {
+    "node_count": 52,
+    "type_count": 16,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:50",
+    "expiration": "2023-03-15 08:47:50",
+    "subject": "Bernard Lowe",
+    "predicate": "preparing for a busy day and can handle customer complaints efficiently at Hobbs Cafe.",
+    "object": "Dolores Abernathy",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to ensure Dolores Abernathy is prepared for a busy day and can handle customer complaints efficiently at Hobbs Cafe.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to ensure Dolores Abernathy is prepared for a busy day and can handle customer complaints efficiently at Hobbs Cafe.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to ensure Dolores Abernathy is prepared for a busy day and can handle customer complaints efficiently at Hobbs Cafe.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "preparing for a busy day and can handle customer complaints efficiently at hobbs cafe.",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_53": {
+    "node_count": 53,
+    "type_count": 17,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:47:50",
+    "expiration": "2023-03-15 08:47:50",
+    "subject": "Bernard Lowe",
+    "predicate": "emphasized the importance of being on time and ready to work",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe emphasized the importance of being on time and ready to work at Hobbs Cafe today.",
+    "original_description": "Bernard Lowe Bernard Lowe emphasized the importance of being on time and ready to work at Hobbs Cafe today.",
+    "embedding_key": "Bernard Lowe Bernard Lowe emphasized the importance of being on time and ready to work at Hobbs Cafe today.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "emphasized the importance of being on time and ready to work",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_54": {
+    "node_count": 54,
+    "type_count": 34,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "original_description": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "embedding_key": "Dolores Abernathy is walking to Hobbs Cafe (starting the walk to Hobbs Cafe)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_55": {
+    "node_count": 55,
+    "type_count": 35,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waiting to start",
+    "object": "locking the door",
+    "description": "Bernard Lowe is waiting to start locking the door",
+    "original_description": "Bernard Lowe is waiting to start locking the door",
+    "embedding_key": "Bernard Lowe is waiting to start locking the door",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "locking the door"
+    ],
+    "filling": null
+  },
+  "node_56": {
+    "node_count": 56,
+    "type_count": 36,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:48:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "awaiting",
+    "object": "occupation",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupation",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "occupation"
+    ],
+    "filling": null
+  },
+  "node_57": {
+    "node_count": 57,
+    "type_count": 37,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (locking the door)",
+    "poignancy": 1,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_58": {
+    "node_count": 58,
+    "type_count": 38,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:58:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "is",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_59": {
+    "node_count": 59,
+    "type_count": 39,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:59:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is locked",
+    "object": "cafe counter",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is locked",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is locked",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is locked",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "cafe counter"
     ],
     "filling": null
   },
@@ -628,6 +1698,257 @@
     ],
     "filling": null
   },
+  "node_60": {
+    "node_count": 60,
+    "type_count": 40,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:01:20",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "picking up",
+    "object": "personal items",
+    "description": "Bernard Lowe is walking to Hobbs cafe (picking up personal items)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (picking up personal items)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (picking up personal items)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "personal items"
+    ],
+    "filling": null
+  },
+  "node_61": {
+    "node_count": 61,
+    "type_count": 41,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:02:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_62": {
+    "node_count": 62,
+    "type_count": 42,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "occupying",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is being occupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_63": {
+    "node_count": 63,
+    "type_count": 43,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (arriving at the cafe)",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (arriving at the cafe)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_64": {
+    "node_count": 64,
+    "type_count": 1,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:07:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Good morning, Dolores. I hope you're ready for a busy day today."
+      ],
+      [
+        "Dolores Abernathy",
+        "Good morning, Bernard. I'm ready for whatever today brings."
+      ],
+      [
+        "Bernard Lowe",
+        "Make sure you're prepared to handle any customer complaints efficiently today. We can't afford to have them waiting around for too long."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to handle everything efficiently today. Is there anything specific I need to be aware of?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure to follow the procedures we have in place and keep an eye on the time. I'll be keeping a close watch today."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'll make sure to follow all the procedures and keep an eye on the time. Is there anything else you need me to do before we open up?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure to stay focused and keep up with the orders. We have a lot of regulars coming in this morning."
+      ],
+      [
+        "Dolores Abernathy",
+        "Alright Bernard, I'll stay focused and keep up with the orders. Is there anything else you need help with before we open?"
+      ],
+      [
+        "Bernard Lowe",
+        "Alright Dolores, let's get started then. Make sure to follow the procedures and keep an eye on the time. I'll be keeping a close watch today."
+      ]
+    ]
+  },
+  "node_65": {
+    "node_count": 65,
+    "type_count": 44,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "Bernard Lowe is preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_64"
+    ]
+  },
+  "node_66": {
+    "node_count": 66,
+    "type_count": 45,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:07:40",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "original_description": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "embedding_key": "Dolores Abernathy is preparing for a busy day of handling customer complaints efficiently",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_67": {
+    "node_count": 67,
+    "type_count": 18,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Bernard Lowe",
+    "predicate": "watching",
+    "object": "procedures",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to keep a close watch and ensure Dolores Abernathy follows procedures efficiently today.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to keep a close watch and ensure Dolores Abernathy follows procedures efficiently today.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to keep a close watch and ensure Dolores Abernathy follows procedures efficiently today.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "watching",
+      "procedures"
+    ],
+    "filling": null
+  },
+  "node_68": {
+    "node_count": 68,
+    "type_count": 19,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:09:50",
+    "expiration": "2023-03-15 09:09:50",
+    "subject": "Bernard Lowe",
+    "predicate": "emphasized",
+    "object": "None",
+    "description": "Bernard Lowe Bernard Lowe emphasized the importance of handling customer complaints efficiently and following established procedures.",
+    "original_description": "Bernard Lowe Bernard Lowe emphasized the importance of handling customer complaints efficiently and following established procedures.",
+    "embedding_key": "Bernard Lowe Bernard Lowe emphasized the importance of handling customer complaints efficiently and following established procedures.",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "emphasized",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_69": {
+    "node_count": 69,
+    "type_count": 46,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs cafe",
+    "description": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "original_description": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs cafe (arriving at Hobbs cafe)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
   "node_7": {
     "node_count": 7,
     "type_count": 5,
@@ -645,6 +1966,255 @@
     "valence": 0,
     "keywords": [
       "toilet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_70": {
+    "node_count": 70,
+    "type_count": 47,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "unlocking",
+    "object": "door",
+    "description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "door"
+    ],
+    "filling": null
+  },
+  "node_71": {
+    "node_count": 71,
+    "type_count": 48,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:10:50",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "awaiting",
+    "object": "occupancy",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupancy",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupancy",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is awaiting occupancy",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "cafe customer seating",
+      "occupancy"
+    ],
+    "filling": null
+  },
+  "node_72": {
+    "node_count": 72,
+    "type_count": 49,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:14:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 5,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_73": {
+    "node_count": 73,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:15:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is accessible",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_74": {
+    "node_count": 74,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:30",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_75": {
+    "node_count": 75,
+    "type_count": 2,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, make sure you're keeping up with the orders and handling customer complaints efficiently today. We can't afford any mistakes."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to stay on top of everything today."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also ensure the customer seating area is clean and organized. We need to maintain a high standard of cleanliness at all times."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to keep everything tidy and organized, Bernard. Is there anything else I can help with before we start serving customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also make sure to check the stock levels and let me know if we need to restock any supplies. I don't want any delays in serving customers due to lack of ingredients."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to check the stock levels and let you know if we need to restock any supplies, Bernard. Is there anything else I can help with before we start serving customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also make sure to greet each customer with a smile and a friendly welcome. We need to provide excellent service to keep our customers coming back."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to greet each customer with a smile and a friendly welcome, Bernard. I want to ensure our customers feel welcomed and valued at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright Maeve, I think that's all for now. Just make sure to follow the procedures and handle everything efficiently today."
+      ]
+    ]
+  },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_75"
+    ]
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "lit",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
       "none"
     ],
     "filling": null
@@ -670,6 +2240,272 @@
     ],
     "filling": null
   },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 20,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "believes in maintaining strict control over",
+    "object": "workplace and employees",
+    "description": "Bernard Lowe believes in maintaining strict control over his workplace and employees due to a deep-seated distrust stemming from past betrayals.",
+    "original_description": "Bernard Lowe believes in maintaining strict control over his workplace and employees due to a deep-seated distrust stemming from past betrayals.",
+    "embedding_key": "Bernard Lowe believes in maintaining strict control over his workplace and employees due to a deep-seated distrust stemming from past betrayals.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "believes in maintaining strict control over",
+      "workplace and employees"
+    ],
+    "filling": [
+      "node_44",
+      "node_40",
+      "node_48"
+    ]
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 21,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard Lowe values punctuality and orderliness as a means of coping with the chaos he perceives in others, reflecting his rigid personality.",
+    "original_description": "Bernard Lowe values punctuality and orderliness as a means of coping with the chaos he perceives in others, reflecting his rigid personality.",
+    "embedding_key": "Bernard Lowe values punctuality and orderliness as a means of coping with the chaos he perceives in others, reflecting his rigid personality.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_47",
+      "node_51",
+      "node_41"
+    ]
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "assumes",
+    "object": "None",
+    "description": "Bernard Lowe assumes everyone is potentially unreliable or dishonest, which influences how he interacts with staff and manages customer complaints.",
+    "original_description": "Bernard Lowe assumes everyone is potentially unreliable or dishonest, which influences how he interacts with staff and manages customer complaints.",
+    "embedding_key": "Bernard Lowe assumes everyone is potentially unreliable or dishonest, which influences how he interacts with staff and manages customer complaints.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "assumes",
+      "none"
+    ],
+    "filling": [
+      "node_43",
+      "node_42",
+      "node_45",
+      "node_48"
+    ]
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritizes",
+    "object": "None",
+    "description": "Bernard Lowe prioritizes cleanliness as a way to exert control over his environment, possibly due to past experiences that have led him to associate order with security.",
+    "original_description": "Bernard Lowe prioritizes cleanliness as a way to exert control over his environment, possibly due to past experiences that have led him to associate order with security.",
+    "embedding_key": "Bernard Lowe prioritizes cleanliness as a way to exert control over his environment, possibly due to past experiences that have led him to associate order with security.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "prioritizes",
+      "none"
+    ],
+    "filling": [
+      "node_42",
+      "node_41"
+    ]
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "expects",
+    "object": "perfection",
+    "description": "Bernard Lowe expects perfection from his employees and is prepared to criticize any shortfall, indicating a pattern of behavior rooted in his past experiences of disappointment and betrayal.",
+    "original_description": "Bernard Lowe expects perfection from his employees and is prepared to criticize any shortfall, indicating a pattern of behavior rooted in his past experiences of disappointment and betrayal.",
+    "embedding_key": "Bernard Lowe expects perfection from his employees and is prepared to criticize any shortfall, indicating a pattern of behavior rooted in his past experiences of disappointment and betrayal.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "expects",
+      "perfection"
+    ],
+    "filling": [
+      "node_67",
+      "node_55",
+      "node_68",
+      "node_76",
+      "node_53"
+    ]
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard values routine and order in his life as a way to maintain control and avoid the chaos that led to past failures.",
+    "original_description": "Bernard values routine and order in his life as a way to maintain control and avoid the chaos that led to past failures.",
+    "embedding_key": "Bernard values routine and order in his life as a way to maintain control and avoid the chaos that led to past failures.",
+    "poignancy": 8,
+    "valence": -3,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_47",
+      "node_46",
+      "node_53",
+      "node_41",
+      "node_51",
+      "node_68"
+    ]
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "reflects",
+    "object": "None",
+    "description": "Bernard's focus on cleanliness and personal hygiene reflects a deep-seated need for control and possibly a reaction to past experiences of disorder or betrayal.",
+    "original_description": "Bernard's focus on cleanliness and personal hygiene reflects a deep-seated need for control and possibly a reaction to past experiences of disorder or betrayal.",
+    "embedding_key": "Bernard's focus on cleanliness and personal hygiene reflects a deep-seated need for control and possibly a reaction to past experiences of disorder or betrayal.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "reflects",
+      "none"
+    ],
+    "filling": [
+      "node_42",
+      "node_76"
+    ]
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "adherence to",
+    "object": "procedures",
+    "description": "Bernard's approach to work is meticulous and rigid, reflecting his belief that strict adherence to procedures can prevent future mistakes or theft.",
+    "original_description": "Bernard's approach to work is meticulous and rigid, reflecting his belief that strict adherence to procedures can prevent future mistakes or theft.",
+    "embedding_key": "Bernard's approach to work is meticulous and rigid, reflecting his belief that strict adherence to procedures can prevent future mistakes or theft.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "adherence to",
+      "procedures"
+    ],
+    "filling": [
+      "node_48",
+      "node_67",
+      "node_68",
+      "node_17"
+    ]
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "is",
+    "object": "None",
+    "description": "Bernard's sense of responsibility for the cafe is heightened due to past failures, leading him to micromanage and ensure everything runs according to his exacting standards.",
+    "original_description": "Bernard's sense of responsibility for the cafe is heightened due to past failures, leading him to micromanage and ensure everything runs according to his exacting standards.",
+    "embedding_key": "Bernard's sense of responsibility for the cafe is heightened due to past failures, leading him to micromanage and ensure everything runs according to his exacting standards.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "is",
+      "none"
+    ],
+    "filling": [
+      "node_72",
+      "node_32",
+      "node_30",
+      "node_2"
+    ]
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe's past betrayal",
+    "predicate": "has led him to trust no one easily, making it difficult for him to form close relationships.",
+    "object": "None",
+    "description": "Bernard Lowe's past betrayal has led him to trust no one easily, making it difficult for him to form close relationships.",
+    "original_description": "Bernard Lowe's past betrayal has led him to trust no one easily, making it difficult for him to form close relationships.",
+    "embedding_key": "Bernard Lowe's past betrayal has led him to trust no one easily, making it difficult for him to form close relationships.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe's past betrayal",
+      "has led him to trust no one easily, making it difficult for him to form close relationships.",
+      "none"
+    ],
+    "filling": [
+      "node_40",
+      "node_45",
+      "node_43"
+    ]
+  },
   "node_9": {
     "node_count": 9,
     "type_count": 7,
@@ -687,6 +2523,247 @@
     "valence": 0,
     "keywords": [
       "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "leads to assume the worst in others, treating mistakes as betrayals and holding grudges",
+    "object": "negative worldview",
+    "description": "Bernard's negative worldview leads him to assume the worst in others, treating mistakes as betrayals and holding grudges.",
+    "original_description": "Bernard's negative worldview leads him to assume the worst in others, treating mistakes as betrayals and holding grudges.",
+    "embedding_key": "Bernard's negative worldview leads him to assume the worst in others, treating mistakes as betrayals and holding grudges.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "leads to assume the worst in others, treating mistakes as betrayals and holding grudges",
+      "negative worldview"
+    ],
+    "filling": [
+      "node_72",
+      "node_30",
+      "node_35",
+      "node_76",
+      "node_68"
+    ]
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "micromanaging",
+    "object": "None",
+    "description": "Bernard's sense of responsibility and control over his workplace is heightened due to past failures, driving him to micromanage.",
+    "original_description": "Bernard's sense of responsibility and control over his workplace is heightened due to past failures, driving him to micromanage.",
+    "embedding_key": "Bernard's sense of responsibility and control over his workplace is heightened due to past failures, driving him to micromanage.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "micromanaging",
+      "none"
+    ],
+    "filling": [
+      "node_52",
+      "node_65",
+      "node_60",
+      "node_44"
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 32,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "struggles with forming positive relationships",
+    "object": "None",
+    "description": "Bernard struggles with forming positive relationships, possibly due to a lack of close connections and a focus on individual activities.",
+    "original_description": "Bernard struggles with forming positive relationships, possibly due to a lack of close connections and a focus on individual activities.",
+    "embedding_key": "Bernard struggles with forming positive relationships, possibly due to a lack of close connections and a focus on individual activities.",
+    "poignancy": 8,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "struggles with forming positive relationships",
+      "none"
+    ],
+    "filling": [
+      "node_50",
+      "node_53",
+      "node_45"
+    ]
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 33,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard values punctuality and order in his daily life, which may be a coping mechanism for past chaos or betrayal.",
+    "original_description": "Bernard values punctuality and order in his daily life, which may be a coping mechanism for past chaos or betrayal.",
+    "embedding_key": "Bernard values punctuality and order in his daily life, which may be a coping mechanism for past chaos or betrayal.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_46",
+      "node_47",
+      "node_44"
+    ]
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 34,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Bernard Lowe",
+    "predicate": "is cautious about securing his personal space and workplace due to past betrayals.",
+    "object": "None",
+    "description": "Bernard has trust issues and is cautious about securing his personal space and workplace due to past betrayals.",
+    "original_description": "Bernard has trust issues and is cautious about securing his personal space and workplace due to past betrayals.",
+    "embedding_key": "Bernard has trust issues and is cautious about securing his personal space and workplace due to past betrayals.",
+    "poignancy": 9,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "is cautious about securing his personal space and workplace due to past betrayals.",
+      "none"
+    ],
+    "filling": [
+      "node_48",
+      "node_40",
+      "node_43",
+      "node_32"
+    ]
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 35,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:20:50",
+    "expiration": "2023-03-15 09:20:50",
+    "subject": "Bernard Lowe",
+    "predicate": "planning",
+    "object": "None",
+    "description": "For Bernard Lowe's planning: Bernard Lowe needs to ensure that Maeve Millay follows all procedures and handles customer complaints efficiently, maintains cleanliness standards, checks stock levels, and greets customers with a friendly welcome.",
+    "original_description": "For Bernard Lowe's planning: Bernard Lowe needs to ensure that Maeve Millay follows all procedures and handles customer complaints efficiently, maintains cleanliness standards, checks stock levels, and greets customers with a friendly welcome.",
+    "embedding_key": "For Bernard Lowe's planning: Bernard Lowe needs to ensure that Maeve Millay follows all procedures and handles customer complaints efficiently, maintains cleanliness standards, checks stock levels, and greets customers with a friendly welcome.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "planning",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 36,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:20:50",
+    "expiration": "2023-03-15 09:20:50",
+    "subject": "Bernard Lowe",
+    "predicate": "emphasized the importance of maintaining high standards of cleanliness and efficiency at",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe Bernard Lowe emphasized the importance of maintaining high standards of cleanliness and efficiency at Hobbs Cafe.",
+    "original_description": "Bernard Lowe Bernard Lowe emphasized the importance of maintaining high standards of cleanliness and efficiency at Hobbs Cafe.",
+    "embedding_key": "Bernard Lowe Bernard Lowe emphasized the importance of maintaining high standards of cleanliness and efficiency at Hobbs Cafe.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "emphasized the importance of maintaining high standards of cleanliness and efficiency at",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "starting",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "unlocked and ready for business",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
       "none"
     ],
     "filling": null

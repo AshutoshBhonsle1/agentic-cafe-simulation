@@ -40,6 +40,270 @@
     ],
     "filling": null
   },
+  "node_100": {
+    "node_count": 100,
+    "type_count": 29,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "relationships and friendships",
+    "description": "Maeve values her relationships and friendships, particularly those developed at work.",
+    "original_description": "Maeve values her relationships and friendships, particularly those developed at work.",
+    "embedding_key": "Maeve values her relationships and friendships, particularly those developed at work.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "relationships and friendships"
+    ],
+    "filling": [
+      "node_47",
+      "node_65",
+      "node_59"
+    ]
+  },
+  "node_101": {
+    "node_count": 101,
+    "type_count": 30,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "being organized and planning ahead to manage time effectively throughout the day",
+    "object": "None",
+    "description": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "original_description": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "embedding_key": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "being organized and planning ahead to manage time effectively throughout the day",
+      "none"
+    ],
+    "filling": [
+      "node_56",
+      "node_49",
+      "node_22"
+    ]
+  },
+  "node_102": {
+    "node_count": 102,
+    "type_count": 31,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "appreciates",
+    "object": "None",
+    "description": "Maeve appreciates her alone time and uses it to recharge after work, indicating a desire for personal space and reflection.",
+    "original_description": "Maeve appreciates her alone time and uses it to recharge after work, indicating a desire for personal space and reflection.",
+    "embedding_key": "Maeve appreciates her alone time and uses it to recharge after work, indicating a desire for personal space and reflection.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "appreciates",
+      "none"
+    ],
+    "filling": [
+      "node_54",
+      "node_57"
+    ]
+  },
+  "node_103": {
+    "node_count": 103,
+    "type_count": 32,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "None",
+    "description": "Maeve values her quiet morning routine as a time for personal reflection and preparation for the day, suggesting she finds solace in routine and structure.",
+    "original_description": "Maeve values her quiet morning routine as a time for personal reflection and preparation for the day, suggesting she finds solace in routine and structure.",
+    "embedding_key": "Maeve values her quiet morning routine as a time for personal reflection and preparation for the day, suggesting she finds solace in routine and structure.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_13",
+      "node_10",
+      "node_57"
+    ]
+  },
+  "node_104": {
+    "node_count": 104,
+    "type_count": 33,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "enjoys",
+    "object": "social interactions",
+    "description": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with, showing a preference for structured social engagements.",
+    "original_description": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with, showing a preference for structured social engagements.",
+    "embedding_key": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with, showing a preference for structured social engagements.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "enjoys",
+      "social interactions"
+    ],
+    "filling": [
+      "node_46",
+      "node_83",
+      "node_35"
+    ]
+  },
+  "node_105": {
+    "node_count": 105,
+    "type_count": 34,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "values her alone time and uses it for personal reflection and relaxation",
+    "object": "None",
+    "description": "Maeve values her alone time and uses it for personal reflection and relaxation.",
+    "original_description": "Maeve values her alone time and uses it for personal reflection and relaxation.",
+    "embedding_key": "Maeve values her alone time and uses it for personal reflection and relaxation.",
+    "poignancy": 7,
+    "valence": 7,
+    "keywords": [
+      "maeve millay",
+      "values her alone time and uses it for personal reflection and relaxation",
+      "none"
+    ],
+    "filling": [
+      "node_54",
+      "node_57",
+      "node_13"
+    ]
+  },
+  "node_106": {
+    "node_count": 106,
+    "type_count": 35,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "is organized and likes to plan ahead, which helps her manage her time effectively throughout the day",
+    "object": "None",
+    "description": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "original_description": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "embedding_key": "Maeve is organized and likes to plan ahead, which helps her manage her time effectively throughout the day.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "is organized and likes to plan ahead, which helps her manage her time effectively throughout the day",
+      "none"
+    ],
+    "filling": [
+      "node_49",
+      "node_78",
+      "node_50",
+      "node_86"
+    ]
+  },
+  "node_107": {
+    "node_count": 107,
+    "type_count": 36,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with",
+    "object": "None",
+    "description": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with.",
+    "original_description": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with.",
+    "embedding_key": "Maeve enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "enjoys social interactions, particularly when they are planned or occur with colleagues she is comfortable with",
+      "none"
+    ],
+    "filling": [
+      "node_64",
+      "node_46",
+      "node_52",
+      "node_62",
+      "node_59"
+    ]
+  },
+  "node_108": {
+    "node_count": 108,
+    "type_count": 37,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "None",
+    "description": "Maeve values her routine and structure in daily life, as it provides a sense of stability and predictability.",
+    "original_description": "Maeve values her routine and structure in daily life, as it provides a sense of stability and predictability.",
+    "embedding_key": "Maeve values her routine and structure in daily life, as it provides a sense of stability and predictability.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_91",
+      "node_85",
+      "node_84",
+      "node_83",
+      "node_45"
+    ]
+  },
+  "node_109": {
+    "node_count": 109,
+    "type_count": 38,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "appreciates the importance of taking time for personal walks to unwind and enjoy nature",
+    "object": "None",
+    "description": "Maeve appreciates the importance of taking time for personal walks to unwind and enjoy nature.",
+    "original_description": "Maeve appreciates the importance of taking time for personal walks to unwind and enjoy nature.",
+    "embedding_key": "Maeve appreciates the importance of taking time for personal walks to unwind and enjoy nature.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "appreciates the importance of taking time for personal walks to unwind and enjoy nature",
+      "none"
+    ],
+    "filling": [
+      "node_55",
+      "node_57",
+      "node_36"
+    ]
+  },
   "node_11": {
     "node_count": 11,
     "type_count": 9,
@@ -60,6 +324,249 @@
       "none"
     ],
     "filling": null
+  },
+  "node_110": {
+    "node_count": 110,
+    "type_count": 39,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:20:50",
+    "expiration": "2023-03-15 09:20:50",
+    "subject": "Maeve Millay",
+    "predicate": "remember to keep up with",
+    "object": "orders",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to keep up with orders, handle customer complaints efficiently, maintain cleanliness in the seating area, check stock levels and restock supplies as needed, and greet each customer with a smile and friendly welcome at Hobbs Cafe.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to keep up with orders, handle customer complaints efficiently, maintain cleanliness in the seating area, check stock levels and restock supplies as needed, and greet each customer with a smile and friendly welcome at Hobbs Cafe.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to keep up with orders, handle customer complaints efficiently, maintain cleanliness in the seating area, check stock levels and restock supplies as needed, and greet each customer with a smile and friendly welcome at Hobbs Cafe.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "remember to keep up with",
+      "orders"
+    ],
+    "filling": null
+  },
+  "node_111": {
+    "node_count": 111,
+    "type_count": 40,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:20:50",
+    "expiration": "2023-03-15 09:20:50",
+    "subject": "Maeve Millay",
+    "predicate": "finding interesting to note",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay found it interesting to note Bernard's emphasis on maintaining a high standard of cleanliness at Hobbs Cafe.",
+    "original_description": "Maeve Millay Maeve Millay found it interesting to note Bernard's emphasis on maintaining a high standard of cleanliness at Hobbs Cafe.",
+    "embedding_key": "Maeve Millay Maeve Millay found it interesting to note Bernard's emphasis on maintaining a high standard of cleanliness at Hobbs Cafe.",
+    "poignancy": 3,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "finding interesting to note",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_112": {
+    "node_count": 112,
+    "type_count": 65,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": -1,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_113": {
+    "node_count": 113,
+    "type_count": 66,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "starting",
+    "object": "None",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_114": {
+    "node_count": 114,
+    "type_count": 67,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "unlocked and ready for business",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is unlocked and ready for business",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_115": {
+    "node_count": 115,
+    "type_count": 68,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:21:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_116": {
+    "node_count": 116,
+    "type_count": 69,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 2,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_117": {
+    "node_count": 117,
+    "type_count": 70,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_118": {
+    "node_count": 118,
+    "type_count": 5,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Good morning, Maeve. Ready for another busy day at the cafe?"
+      ],
+      [
+        "Maeve Millay",
+        "Morning, Dolores! Yes, I'm all set. Just restocking some supplies here. How's your morning going so far?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Morning, Maeve! I'm all set too. Just finishing up some preparations here."
+      ],
+      [
+        "Maeve Millay",
+        "That's great! I'm looking forward to a smooth day. We've got that coffee meet-up planned after our shift, right?"
+      ],
+      [
+        "Dolores Abernathy",
+        "Yes, looking forward to it! Let's make sure we handle all these orders efficiently today. See you out there!"
+      ],
+      [
+        "Maeve Millay",
+        "Absolutely! Let's make sure everything runs smoothly today. I'll start taking orders soon."
+      ],
+      [
+        "Dolores Abernathy",
+        "Sounds good, Maeve! Let's get through these orders together and make sure everything is perfect for our customers. I'll start taking orders too. See you out there!"
+      ]
+    ]
+  },
+  "node_119": {
+    "node_count": 119,
+    "type_count": 71,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Maeve Millay is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_118"
+    ]
   },
   "node_12": {
     "node_count": 12,
@@ -82,6 +589,218 @@
     ],
     "filling": null
   },
+  "node_120": {
+    "node_count": 120,
+    "type_count": 72,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:25:20",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "original_description": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "embedding_key": "Dolores Abernathy is coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_121": {
+    "node_count": 121,
+    "type_count": 73,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:26:20",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "becoming illuminated",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is becoming illuminated",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_122": {
+    "node_count": 122,
+    "type_count": 41,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:26:50",
+    "expiration": "2023-03-15 09:26:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember",
+    "object": "coffee meet-up",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember her coffee meet-up planned after the shift.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember her coffee meet-up planned after the shift.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember her coffee meet-up planned after the shift.",
+    "poignancy": 7,
+    "valence": 3,
+    "keywords": [
+      "maeve millay",
+      "needs to remember",
+      "coffee meet-up"
+    ],
+    "filling": null
+  },
+  "node_123": {
+    "node_count": 123,
+    "type_count": 42,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 09:26:50",
+    "expiration": "2023-03-15 09:26:50",
+    "subject": "Maeve Millay",
+    "predicate": "looking forward to",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay is looking forward to a coffee meet-up after her shift at the cafe.",
+    "original_description": "Maeve Millay Maeve Millay is looking forward to a coffee meet-up after her shift at the cafe.",
+    "embedding_key": "Maeve Millay Maeve Millay is looking forward to a coffee meet-up after her shift at the cafe.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "looking forward to",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_124": {
+    "node_count": 124,
+    "type_count": 74,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "served",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being served",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_125": {
+    "node_count": 125,
+    "type_count": 75,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work at the cafe (preparing the counter)",
+    "object": "counter",
+    "description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (preparing the counter)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_126": {
+    "node_count": 126,
+    "type_count": 76,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "None",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_127": {
+    "node_count": 127,
+    "type_count": 77,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Bernard Lowe is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "dolores abernathy"
+    ],
+    "filling": null
+  },
+  "node_128": {
+    "node_count": 128,
+    "type_count": 78,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:27:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "original_description": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "embedding_key": "Dolores Abernathy is instructing Dolores to handle customer complaints efficiently",
+    "poignancy": 1,
+    "valence": 5,
+    "keywords": [
+      "dolores abernathy",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_129": {
+    "node_count": 129,
+    "type_count": 79,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is being prepared",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
   "node_13": {
     "node_count": 13,
     "type_count": 11,
@@ -99,6 +818,27 @@
     "valence": 2,
     "keywords": [
       "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_130": {
+    "node_count": 130,
+    "type_count": 80,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:29:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "active",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is active",
+    "poignancy": 5,
+    "valence": 3,
+    "keywords": [
+      "behind the cafe counter",
       "none"
     ],
     "filling": null
@@ -1754,6 +2494,130 @@
     ],
     "filling": null
   },
+  "node_76": {
+    "node_count": 76,
+    "type_count": 3,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      [
+        "Dolores Abernathy",
+        "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
+      ],
+      [
+        "Maeve Millay",
+        "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
+      ],
+      [
+        "Dolores Abernathy",
+        "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
+      ],
+      [
+        "Maeve Millay",
+        "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
+      ],
+      [
+        "Dolores Abernathy",
+        "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
+      ],
+      [
+        "Dolores Abernathy",
+        "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
+      ],
+      [
+        "Maeve Millay",
+        "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
+      ],
+      [
+        "Dolores Abernathy",
+        "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
+      ]
+    ]
+  },
+  "node_77": {
+    "node_count": 77,
+    "type_count": 50,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Dolores Abernathy",
+    "description": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "Maeve Millay is meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "dolores abernathy"
+    ],
+    "filling": [
+      "node_76"
+    ]
+  },
+  "node_78": {
+    "node_count": 78,
+    "type_count": 51,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:40:00",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "original_description": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "embedding_key": "Dolores Abernathy is meeting for coffee at Hobbs Cafe after their shift",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_79": {
+    "node_count": 79,
+    "type_count": 22,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:41:50",
+    "expiration": "2023-03-15 08:41:50",
+    "subject": "Maeve Millay",
+    "predicate": "needs to remember to meet",
+    "object": "Dolores Abernathy for coffee at Hobbs Cafe after their shift",
+    "description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy for coffee at Hobbs Cafe after their shift.",
+    "original_description": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy for coffee at Hobbs Cafe after their shift.",
+    "embedding_key": "For Maeve Millay's planning: Maeve Millay needs to remember to meet Dolores Abernathy for coffee at Hobbs Cafe after their shift.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "needs to remember to meet",
+      "dolores abernathy for coffee at hobbs cafe after their shift"
+    ],
+    "filling": null
+  },
   "node_8": {
     "node_count": 8,
     "type_count": 6,
@@ -1772,6 +2636,217 @@
     "keywords": [
       "maeve millay",
       "none"
+    ],
+    "filling": null
+  },
+  "node_80": {
+    "node_count": 80,
+    "type_count": 23,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:41:50",
+    "expiration": "2023-03-15 08:41:50",
+    "subject": "Maeve Millay",
+    "predicate": "finding it interesting to try the new coffee blend",
+    "object": "None",
+    "description": "Maeve Millay Maeve Millay found it interesting to try the new coffee blend at Hobbs Cafe.",
+    "original_description": "Maeve Millay Maeve Millay found it interesting to try the new coffee blend at Hobbs Cafe.",
+    "embedding_key": "Maeve Millay Maeve Millay found it interesting to try the new coffee blend at Hobbs Cafe.",
+    "poignancy": 3,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "finding it interesting to try the new coffee blend",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_81": {
+    "node_count": 81,
+    "type_count": 52,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:42:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "walking to Hobbs Cafe (getting ready to leave the house)",
+    "object": "None",
+    "description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "original_description": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "embedding_key": "Maeve Millay is walking to Hobbs Cafe (getting ready to leave the house)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_82": {
+    "node_count": 82,
+    "type_count": 53,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:51:00",
+    "expiration": null,
+    "subject": "the Ville:Dorm for Oak Hill College:Meave Millay's room:closet",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:closet is being accessed",
+    "original_description": "the Ville:Dorm for Oak Hill College:Meave Millay's room:closet is being accessed",
+    "embedding_key": "the Ville:Dorm for Oak Hill College:Meave Millay's room:closet is being accessed",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_83": {
+    "node_count": 83,
+    "type_count": 54,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:03:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "preparing",
+    "object": "counter surfaces",
+    "description": "Maeve Millay is serving customers at the counter (preparing counter surfaces)",
+    "original_description": "Maeve Millay is serving customers at the counter (preparing counter surfaces)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (preparing counter surfaces)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "counter surfaces"
+    ],
+    "filling": null
+  },
+  "node_84": {
+    "node_count": 84,
+    "type_count": 55,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:08:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving customers at the counter (arranging pastries and snacks)",
+    "object": "counter",
+    "description": "Maeve Millay is serving customers at the counter (arranging pastries and snacks)",
+    "original_description": "Maeve Millay is serving customers at the counter (arranging pastries and snacks)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (arranging pastries and snacks)",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "counter"
+    ],
+    "filling": null
+  },
+  "node_85": {
+    "node_count": 85,
+    "type_count": 56,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:13:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "checking",
+    "object": "inventory levels",
+    "description": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "original_description": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (checking inventory levels)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "maeve millay",
+      "inventory levels"
+    ],
+    "filling": null
+  },
+  "node_86": {
+    "node_count": 86,
+    "type_count": 57,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "serving",
+    "object": "customers",
+    "description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "original_description": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "embedding_key": "Maeve Millay is serving customers at the counter (restocking supplies as needed)",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "maeve millay",
+      "customers"
+    ],
+    "filling": null
+  },
+  "node_87": {
+    "node_count": 87,
+    "type_count": 58,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:30",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "unlocking",
+    "object": "door",
+    "description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (unlocking the door)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "dolores abernathy",
+      "door"
+    ],
+    "filling": null
+  },
+  "node_88": {
+    "node_count": 88,
+    "type_count": 59,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "is accessible",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is accessible",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_89": {
+    "node_count": 89,
+    "type_count": 60,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "opening",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "original_description": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "embedding_key": "Bernard Lowe is opening Hobbs Cafe and starting the day (unlocking the cafe door)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
     ],
     "filling": null
   },
@@ -1795,5 +2870,287 @@
       "none"
     ],
     "filling": null
+  },
+  "node_90": {
+    "node_count": 90,
+    "type_count": 4,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 1,
+    "valence": -5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      [
+        "Bernard Lowe",
+        "Maeve, make sure you're keeping up with the orders and handling customer complaints efficiently today. We can't afford any mistakes."
+      ],
+      [
+        "Maeve Millay",
+        "I understand, Bernard. I'll make sure to stay on top of everything today."
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also ensure the customer seating area is clean and organized. We need to maintain a high standard of cleanliness at all times."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to keep everything tidy and organized, Bernard. Is there anything else I can help with before we start serving customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also make sure to check the stock levels and let me know if we need to restock any supplies. I don't want any delays in serving customers due to lack of ingredients."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to check the stock levels and let you know if we need to restock any supplies, Bernard. Is there anything else I can help with before we start serving customers?"
+      ],
+      [
+        "Bernard Lowe",
+        "Maeve, also make sure to greet each customer with a smile and a friendly welcome. We need to provide excellent service to keep our customers coming back."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to greet each customer with a smile and a friendly welcome, Bernard. I want to ensure our customers feel welcomed and valued at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright Maeve, I think that's all for now. Just make sure to follow the procedures and handle everything efficiently today."
+      ]
+    ]
+  },
+  "node_91": {
+    "node_count": 91,
+    "type_count": 61,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Maeve Millay is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": [
+      "node_90"
+    ]
+  },
+  "node_92": {
+    "node_count": 92,
+    "type_count": 62,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:18:40",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "original_description": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "embedding_key": "Bernard Lowe is ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": null
+  },
+  "node_93": {
+    "node_count": 93,
+    "type_count": 63,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+    "predicate": "lit",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "original_description": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:behind the cafe counter is lit",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "behind the cafe counter",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_94": {
+    "node_count": 94,
+    "type_count": 64,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 09:20:10",
+    "expiration": null,
+    "subject": "Dolores Abernathy",
+    "predicate": "preparing for work",
+    "object": "None",
+    "description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "original_description": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "embedding_key": "Dolores Abernathy is preparing for work at the cafe (turning on the lights)",
+    "poignancy": 1,
+    "valence": 2,
+    "keywords": [
+      "dolores abernathy",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_95": {
+    "node_count": 95,
+    "type_count": 24,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "enjoys",
+    "object": "None",
+    "description": "Maeve enjoys her alone time and uses it to recharge after work, indicating a need for balance between social interactions and personal space.",
+    "original_description": "Maeve enjoys her alone time and uses it to recharge after work, indicating a need for balance between social interactions and personal space.",
+    "embedding_key": "Maeve enjoys her alone time and uses it to recharge after work, indicating a need for balance between social interactions and personal space.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "enjoys",
+      "none"
+    ],
+    "filling": [
+      "node_54",
+      "node_55",
+      "node_57",
+      "node_46"
+    ]
+  },
+  "node_96": {
+    "node_count": 96,
+    "type_count": 25,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "is mindful of her daily schedule and ensures she has a plan in place to meet her commitments, showing a high level of responsibility and organization.",
+    "object": "None",
+    "description": "She is mindful of her daily schedule and ensures she has a plan in place to meet her commitments, showing a high level of responsibility and organization.",
+    "original_description": "She is mindful of her daily schedule and ensures she has a plan in place to meet her commitments, showing a high level of responsibility and organization.",
+    "embedding_key": "She is mindful of her daily schedule and ensures she has a plan in place to meet her commitments, showing a high level of responsibility and organization.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "is mindful of her daily schedule and ensures she has a plan in place to meet her commitments, showing a high level of responsibility and organization.",
+      "none"
+    ],
+    "filling": [
+      "node_83",
+      "node_13",
+      "node_56",
+      "node_78",
+      "node_22"
+    ]
+  },
+  "node_97": {
+    "node_count": 97,
+    "type_count": 26,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "appreciates",
+    "object": "moments of personal reflection and preparation for the day",
+    "description": "Maeve appreciates the moments of personal reflection and preparation for the day, suggesting that she values self-awareness and introspection.",
+    "original_description": "Maeve appreciates the moments of personal reflection and preparation for the day, suggesting that she values self-awareness and introspection.",
+    "embedding_key": "Maeve appreciates the moments of personal reflection and preparation for the day, suggesting that she values self-awareness and introspection.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "appreciates",
+      "moments of personal reflection and preparation for the day"
+    ],
+    "filling": [
+      "node_79",
+      "node_93",
+      "node_86",
+      "node_77"
+    ]
+  },
+  "node_98": {
+    "node_count": 98,
+    "type_count": 27,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "values",
+    "object": "structured routines and planning",
+    "description": "Maeve values structured routines and planning as they provide a sense of stability and predictability in her life.",
+    "original_description": "Maeve values structured routines and planning as they provide a sense of stability and predictability in her life.",
+    "embedding_key": "Maeve values structured routines and planning as they provide a sense of stability and predictability in her life.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "values",
+      "structured routines and planning"
+    ],
+    "filling": [
+      "node_50",
+      "node_49",
+      "node_52",
+      "node_45"
+    ]
+  },
+  "node_99": {
+    "node_count": 99,
+    "type_count": 28,
+    "type": "thought",
+    "depth": 3,
+    "created": "2023-02-13 09:20:10",
+    "expiration": "2023-03-15 09:20:10",
+    "subject": "Maeve Millay",
+    "predicate": "appreciates the importance of personal relationships and social interactions, especially when they are planned or occur with colleagues she is comfortable with.",
+    "object": "None",
+    "description": "She appreciates the importance of personal relationships and social interactions, especially when they are planned or occur with colleagues she is comfortable with.",
+    "original_description": "She appreciates the importance of personal relationships and social interactions, especially when they are planned or occur with colleagues she is comfortable with.",
+    "embedding_key": "She appreciates the importance of personal relationships and social interactions, especially when they are planned or occur with colleagues she is comfortable with.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "maeve millay",
+      "appreciates the importance of personal relationships and social interactions, especially when they are planned or occur with colleagues she is comfortable with.",
+      "none"
+    ],
+    "filling": [
+      "node_10",
+      "node_47",
+      "node_44",
+      "node_51",
+      "node_62",
+      "node_59"
+    ]
   }
 }

@@ -1,0 +1,108 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, make sure you're keeping up with the orders and handling customer complaints efficiently today. We can't afford any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to stay on top of everything today."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also ensure the customer seating area is clean and organized. We need to maintain a high standard of cleanliness at all times."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep everything tidy and organized, Bernard. Is there anything else I can help with before we start serving customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also make sure to check the stock levels and let me know if we need to restock any supplies. I don't want any delays in serving customers due to lack of ingredients."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to check the stock levels and let you know if we need to restock any supplies, Bernard. Is there anything else I can help with before we start serving customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also make sure to greet each customer with a smile and a friendly welcome. We need to provide excellent service to keep our customers coming back."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to greet each customer with a smile and a friendly welcome, Bernard. I want to ensure our customers feel welcomed and valued at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I think that's all for now. Just make sure to follow the procedures and handle everything efficiently today."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "😏",
+      "description": "preparing for work at the cafe (unlocking the door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring efficient order handling, customer satisfaction, and cafe cleanliness @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, make sure you're keeping up with the orders and handling customer complaints efficiently today. We can't afford any mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'll make sure to stay on top of everything today."
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also ensure the customer seating area is clean and organized. We need to maintain a high standard of cleanliness at all times."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to keep everything tidy and organized, Bernard. Is there anything else I can help with before we start serving customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also make sure to check the stock levels and let me know if we need to restock any supplies. I don't want any delays in serving customers due to lack of ingredients."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to check the stock levels and let you know if we need to restock any supplies, Bernard. Is there anything else I can help with before we start serving customers?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, also make sure to greet each customer with a smile and a friendly welcome. We need to provide excellent service to keep our customers coming back."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to greet each customer with a smile and a friendly welcome, Bernard. I want to ensure our customers feel welcomed and valued at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I think that's all for now. Just make sure to follow the procedures and handle everything efficiently today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:19:30"
+  }
+}

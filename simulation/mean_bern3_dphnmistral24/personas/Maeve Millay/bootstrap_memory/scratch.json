@@ -2,10 +2,10 @@
   "vision_r": 8,
   "att_bandwidth": 8,
   "retention": 8,
-  "curr_time": "February 13, 2023, 08:39:50",
+  "curr_time": "February 13, 2023, 09:30:00",
   "curr_tile": [
-    98,
-    41
+    78,
+    19
   ],
   "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
   "name": "Maeve Millay",
@@ -31,8 +31,8 @@
   "negativity_bias": 1,
   "recency_decay": 0.99,
   "importance_trigger_max": 75,
-  "importance_trigger_curr": 54,
-  "importance_ele_n": 13,
+  "importance_trigger_curr": 14,
+  "importance_ele_n": 16,
   "thought_count": 0,
   "daily_req": [
     "wake up and complete the morning routine at 7:00am",
@@ -178,7 +178,23 @@
     ],
     [
       "serving customers at the counter (restocking supplies as needed)",
-      10
+      1
+    ],
+    [
+      "ensuring efficient order handling, customer satisfaction, and cafe cleanliness",
+      2
+    ],
+    [
+      "serving customers at the counter (restocking supplies as needed)",
+      5
+    ],
+    [
+      "coordinating preparations for a busy day at the cafe and planning a coffee meet-up",
+      1
+    ],
+    [
+      "serving customers at the counter (restocking supplies as needed)",
+      4
     ],
     [
       "serving customers at the counter (wiping down equipment handles)",
@@ -205,8 +221,28 @@
       3
     ],
     [
-      "operating the espresso machine",
-      60
+      "operating the espresso machine (preparing the espresso machine)",
+      5
+    ],
+    [
+      "operating the espresso machine (calibrating the grinder)",
+      20
+    ],
+    [
+      "operating the espresso machine (cleaning the portafilter)",
+      10
+    ],
+    [
+      "operating the espresso machine (checking the water temperature)",
+      5
+    ],
+    [
+      "operating the espresso machine (frothing milk for drinks)",
+      5
+    ],
+    [
+      "operating the espresso machine (operating the espresso machine)",
+      12
     ],
     [
       "managing cash register transactions",
@@ -339,255 +375,30 @@
       60
     ]
   ],
-  "act_address": "\u003cpersona\u003e Dolores Abernathy",
-  "act_start_time": "February 13, 2023, 08:39:50",
-  "act_duration": 2,
-  "act_description": "meeting for coffee at Hobbs Cafe after their shift",
-  "act_pronunciatio": "💬",
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 09:27:00",
+  "act_duration": 4,
+  "act_description": "serving customers at the counter (restocking supplies as needed)",
+  "act_pronunciatio": "🍮",
   "act_event": [
     "Maeve Millay",
-    "chat with",
-    "Dolores Abernathy"
+    "serving",
+    "None"
   ],
-  "act_obj_description": "",
-  "act_obj_pronunciatio": "",
+  "act_obj_description": "being served",
+  "act_obj_pronunciatio": "🍲",
   "act_obj_event": [
-    "",
-    "",
-    ""
+    "behind the cafe counter",
+    "served",
+    "None"
   ],
-  "chatting_with": "Dolores Abernathy",
-  "chat": [
-    [
-      "Dolores Abernathy",
-      "Hey Maeve! I'm so glad we're meeting for coffee at Hobbs Cafe after our shift. It's going to be a great way to unwind."
-    ],
-    [
-      "Maeve Millay",
-      "I'm really looking forward to it too, Dolores! It's always nice to catch up after a busy day at Hobbs Cafe."
-    ],
-    [
-      "Dolores Abernathy",
-      "I'm really excited to try that new coffee blend at Hobbs Cafe! It's been getting great reviews."
-    ],
-    [
-      "Maeve Millay",
-      "Me too! I can't wait to try it out. It's always a good day when we get to enjoy some new coffee together."
-    ],
-    [
-      "Dolores Abernathy",
-      "I can't wait to share some interesting stories about our customers. It's always entertaining at Hobbs Cafe!"
-    ],
-    [
-      "Maeve Millay",
-      "It's always so much fun to hear about our customers at Hobbs Cafe! I'm sure we'll have some good stories to share."
-    ],
-    [
-      "Dolores Abernathy",
-      "I hope we have some interesting customer stories to share today! Have a great day at Hobbs Cafe!"
-    ],
-    [
-      "Maeve Millay",
-      "Have a great day too, Dolores! I'm sure we'll have some fun stories to share after our shift. See you later at Hobbs Cafe!"
-    ],
-    [
-      "Dolores Abernathy",
-      "Have a great day at Hobbs Cafe, Maeve! I'm looking forward to our coffee break later!"
-    ]
-  ],
+  "chatting_with": null,
+  "chat": null,
   "chatting_with_buffer": {
-    "Dolores Abernathy": 120
+    "Bernard Lowe": 50,
+    "Dolores Abernathy": 90
   },
-  "chatting_end_time": "February 13, 2023, 08:42:00",
-  "act_path_set": false,
-  "planned_path": [
-    [
-      98,
-      40
-    ],
-    [
-      98,
-      39
-    ],
-    [
-      98,
-      38
-    ],
-    [
-      98,
-      37
-    ],
-    [
-      97,
-      37
-    ],
-    [
-      96,
-      37
-    ],
-    [
-      95,
-      37
-    ],
-    [
-      94,
-      37
-    ],
-    [
-      93,
-      37
-    ],
-    [
-      92,
-      37
-    ],
-    [
-      91,
-      37
-    ],
-    [
-      90,
-      37
-    ],
-    [
-      89,
-      37
-    ],
-    [
-      88,
-      37
-    ],
-    [
-      87,
-      37
-    ],
-    [
-      86,
-      37
-    ],
-    [
-      85,
-      37
-    ],
-    [
-      84,
-      37
-    ],
-    [
-      83,
-      37
-    ],
-    [
-      82,
-      37
-    ],
-    [
-      81,
-      37
-    ],
-    [
-      80,
-      37
-    ],
-    [
-      79,
-      37
-    ],
-    [
-      78,
-      37
-    ],
-    [
-      77,
-      37
-    ],
-    [
-      76,
-      37
-    ],
-    [
-      76,
-      36
-    ],
-    [
-      76,
-      35
-    ],
-    [
-      76,
-      34
-    ],
-    [
-      76,
-      33
-    ],
-    [
-      76,
-      32
-    ],
-    [
-      76,
-      31
-    ],
-    [
-      76,
-      30
-    ],
-    [
-      76,
-      29
-    ],
-    [
-      76,
-      28
-    ],
-    [
-      76,
-      27
-    ],
-    [
-      76,
-      26
-    ],
-    [
-      75,
-      26
-    ],
-    [
-      75,
-      25
-    ],
-    [
-      75,
-      24
-    ],
-    [
-      75,
-      23
-    ],
-    [
-      75,
-      22
-    ],
-    [
-      75,
-      21
-    ],
-    [
-      75,
-      20
-    ],
-    [
-      75,
-      19
-    ],
-    [
-      76,
-      19
-    ],
-    [
-      77,
-      19
-    ]
-  ]
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
 }
