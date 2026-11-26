@@ -1,0 +1,40 @@
+{
+  "kw_strength_thought": {
+    "adheres to closely": 3,
+    "breakfast": 3,
+    "dolores abernathy": 51,
+    "feeling pressure or anxiety about her performance at work": 3,
+    "finds comfort in": 3,
+    "has": 3,
+    "has a modest and task-oriented approach to her job at hobbs cafe": 3,
+    "has a strong preference for solitary activities, such as reading, which suggests she might be an introvert who recharges alone": 3,
+    "is mindful of": 3,
+    "maeve millay's enthusiasm for pouring perfect lattes": 3,
+    "meticulous about keeping": 3,
+    "none": 30,
+    "noticed": 3,
+    "personal space": 3,
+    "plan": 5,
+    "planning": 3,
+    "prioritizes": 3,
+    "prioritizes work over socializing outside of required interactions": 3,
+    "reading and alone time": 3,
+    "responsibility and duty over personal relationships": 3,
+    "routine and structure": 3,
+    "starts her day with a focus on breakfast as an important part of her morning routine": 3,
+    "structure and routine": 3,
+    "struggling with self-confidence": 3,
+    "values": 9
+  },
+  "kw_strength_event": {
+    "bed": 26,
+    "breakfast": 18,
+    "closet": 4,
+    "desk": 17,
+    "dolores abernathy": 59,
+    "hobbs cafe": 2,
+    "maeve millay": 14,
+    "morning routine": 5,
+    "none": 83
+  }
+}

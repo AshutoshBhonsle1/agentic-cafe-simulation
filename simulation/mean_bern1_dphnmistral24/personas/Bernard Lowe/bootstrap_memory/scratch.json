@@ -1,0 +1,357 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:31:40",
+  "curr_tile": [
+    76,
+    26
+  ],
+  "daily_plan_req": "Bernard Lowe opens Hobbs Cafe at 8am and works until 4pm. He manages the cafe, monitors the work of his baristas, and handles operations throughout the day. He closes the cafe at 4pm.",
+  "name": "Bernard Lowe",
+  "first_name": "Bernard",
+  "last_name": "Lowe",
+  "age": 58,
+  "innate": "mean, harsh, impatient, critical, condescending, domineering, blunt",
+  "learned": "Bernard once ran a successful restaurant that collapsed when a trusted employee stole from him and left him in debt.Bernard spends his mornings in the cafe talking to his baristas. Bernard rarely offers praise and often interrupts his employees mid-sentence.He scrutinizes every mistake and brings it up repeatedly.He believes kindness makes staff lazy, so he openly criticizes people in front of customers and coworkers. He measures employees by speed and never acknowledges effort.He doesn't think twice before insulting and hurting his employees. ",
+  "currently": "Bernard is heading to the cafe to open up for the day.",
+  "lifestyle": "Bernard Lowe wakes up around 7am, walks to Hobbs cafe, where he works from 8am to 4pm. He comes home and eats dinner around 8pm, goes to bed around 11pm.",
+  "living_area": "the Ville:Bernard Lowe's apartment:main room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 70,
+  "importance_ele_n": 1,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe at 8:00am",
+    "open Hobbs Cafe and start work at 8:30am",
+    "manage cafe operations from 9:00am to 12:00pm",
+    "take a break for lunch at 12:00pm",
+    "resume managing cafe operations from 1:00pm to 4:00pm",
+    "close Hobbs Cafe and finish work at 4:30pm",
+    "walk back home at 5:00pm",
+    "relax and prepare dinner at 6:00pm",
+    "have dinner at 8:00pm",
+    "wind down and get ready for bed at 10:00pm",
+    "go to sleep at 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      30
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      15
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm clock)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (stretching and yawning)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (preparing for the day)",
+      5
+    ],
+    [
+      "preparing to leave for work (getting out of bed)",
+      5
+    ],
+    [
+      "preparing to leave for work (turning off alarm clock)",
+      5
+    ],
+    [
+      "preparing to leave for work (using the bathroom)",
+      10
+    ],
+    [
+      "preparing to leave for work (washing hands)",
+      5
+    ],
+    [
+      "preparing to leave for work (brushing teeth)",
+      10
+    ],
+    [
+      "preparing to leave for work (rinsing mouth)",
+      5
+    ],
+    [
+      "preparing to leave for work (drying face)",
+      5
+    ],
+    [
+      "preparing to leave for work (getting dressed)",
+      5
+    ],
+    [
+      "preparing to leave for work (tying shoes)",
+      5
+    ],
+    [
+      "preparing to leave for work (grabbing keys)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (preparing for departure)",
+      30
+    ],
+    [
+      "preparing for a busy day at Hobbs Cafe",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      20
+    ],
+    [
+      "walking to Hobbs Cafe (arriving at Hobbs Cafe)",
+      10
+    ],
+    [
+      "opening up Hobbs Cafe for the day (unlocking the front door)",
+      5
+    ],
+    [
+      "opening up Hobbs Cafe for the day (turning on the lights)",
+      5
+    ],
+    [
+      "opening up Hobbs Cafe for the day (restocking supplies)",
+      10
+    ],
+    [
+      "opening up Hobbs Cafe for the day (preparing the coffee machines)",
+      10
+    ],
+    [
+      "opening up Hobbs Cafe for the day (turning on the music)",
+      5
+    ],
+    [
+      "opening up Hobbs Cafe for the day (arranging the seating area)",
+      5
+    ],
+    [
+      "opening up Hobbs Cafe for the day (setting up the counter)",
+      10
+    ],
+    [
+      "opening up Hobbs Cafe for the day (finalizing setup)",
+      9
+    ],
+    [
+      "managing cafe operations and overseeing baristas",
+      60
+    ],
+    [
+      "continuing to manage cafe operations",
+      60
+    ],
+    [
+      "taking a break for lunch",
+      60
+    ],
+    [
+      "resuming management of cafe operations",
+      60
+    ],
+    [
+      "continuing to manage cafe operations",
+      120
+    ],
+    [
+      "winding down and preparing to close the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "walking back home",
+      60
+    ],
+    [
+      "relaxing and preparing dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "preparing to leave for work",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "opening up Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "managing cafe operations and overseeing baristas",
+      60
+    ],
+    [
+      "continuing to manage cafe operations",
+      60
+    ],
+    [
+      "taking a break for lunch",
+      60
+    ],
+    [
+      "resuming management of cafe operations",
+      60
+    ],
+    [
+      "continuing to manage cafe operations",
+      120
+    ],
+    [
+      "winding down and preparing to close the cafe",
+      60
+    ],
+    [
+      "closing Hobbs Cafe for the day",
+      60
+    ],
+    [
+      "walking back home",
+      60
+    ],
+    [
+      "relaxing and preparing dinner",
+      60
+    ],
+    [
+      "having dinner",
+      60
+    ],
+    [
+      "winding down and getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      120
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Maeve Millay",
+  "act_start_time": "February 13, 2023, 08:30:10",
+  "act_duration": 1,
+  "act_description": "preparing for a busy day at Hobbs Cafe",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Bernard Lowe",
+    "chat with",
+    "Maeve Millay"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Maeve Millay",
+  "chat": [
+    [
+      "Maeve Millay",
+      "Good morning, Bernard."
+    ],
+    [
+      "Bernard Lowe",
+      "Morning."
+    ],
+    [
+      "Maeve Millay",
+      "How's your morning going so far?"
+    ],
+    [
+      "Bernard Lowe",
+      "It's going. I trust you're ready for another busy day at Hobbs Cafe."
+    ],
+    [
+      "Maeve Millay",
+      "Yeah, I'm looking forward to it. Dolores and I are planning to grab a coffee before we start our shift."
+    ],
+    [
+      "Bernard Lowe",
+      "Make sure you're on time and ready to go. We've got a lot to do today."
+    ],
+    [
+      "Maeve Millay",
+      "I'll make sure to be on time. Is there anything specific you need me to focus on today?"
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure you're prepared and ready to go. We've got a lot on our plate today."
+    ],
+    [
+      "Maeve Millay",
+      "Alright, I'll make sure to be ready. Have a good day, Bernard."
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure you're on time and ready to go. We've got a lot to do today."
+    ],
+    [
+      "Maeve Millay",
+      "Alright, Bernard. I'll make sure to be ready for a busy day at Hobbs Cafe."
+    ],
+    [
+      "Bernard Lowe",
+      "Alright, Maeve. I'll see you at Hobbs Cafe."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Maeve Millay": 111
+  },
+  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "act_path_set": true,
+  "planned_path": null
+}

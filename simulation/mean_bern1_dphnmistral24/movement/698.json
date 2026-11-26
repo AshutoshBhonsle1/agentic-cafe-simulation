@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciato": "⛣",
+      "description": "preparing to leave for work (grabbing keys) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        100,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe and grabbing coffee together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, ready for another busy day at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning Maeve! Yeah, I'm all set. Just finishing up a few things before we head out."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm almost ready too. Just grabbing my bag and we can head out together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good! Let's head out then. Do you want to grab a coffee before we start our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Sure, I could use a caffeine boost before we dive into the morning rush. Let's grab our coffee and hit the road!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, let's go! I can't wait to see what kind of crazy orders we'll get today."
+        ],
+        [
+          "Maeve Millay",
+          "Let's hope for a steady flow today. I've got my favorite apron on and I'm ready to pour some perfect lattes!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe, Maeve! Have a great day!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        104,
+        41
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe and grabbing coffee together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, ready for another busy day at Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Morning Maeve! Yeah, I'm all set. Just finishing up a few things before we head out."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm almost ready too. Just grabbing my bag and we can head out together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good! Let's head out then. Do you want to grab a coffee before we start our shift?"
+        ],
+        [
+          "Maeve Millay",
+          "Sure, I could use a caffeine boost before we dive into the morning rush. Let's grab our coffee and hit the road!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, let's go! I can't wait to see what kind of crazy orders we'll get today."
+        ],
+        [
+          "Maeve Millay",
+          "Let's hope for a steady flow today. I've got my favorite apron on and I'm ready to pour some perfect lattes!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe, Maeve! Have a great day!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:55:20"
+  }
+}

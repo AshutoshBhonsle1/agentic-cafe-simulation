@@ -1,0 +1,132 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Morning."
+        ],
+        [
+          "Maeve Millay",
+          "How's your morning going so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "It's going. I trust you're ready for another busy day at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to it. Dolores and I are planning to grab a coffee before we start our shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're on time and ready to go. We've got a lot to do today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're prepared and ready to go. We've got a lot on our plate today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll make sure to be ready. Have a good day, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to go. We've got a lot to do today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure to be ready for a busy day at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. I'll see you at Hobbs Cafe."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        123,
+        57
+      ],
+      "pronunciato": "🌐",
+      "description": "walking to Hobbs Cafe (preparing for the walk) @ the Ville:Dorm for Oak Hill College:Dolores Abernathy's room:bed",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Morning."
+        ],
+        [
+          "Maeve Millay",
+          "How's your morning going so far?"
+        ],
+        [
+          "Bernard Lowe",
+          "It's going. I trust you're ready for another busy day at Hobbs Cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, I'm looking forward to it. Dolores and I are planning to grab a coffee before we start our shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you're on time and ready to go. We've got a lot to do today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to be on time. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're prepared and ready to go. We've got a lot on our plate today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll make sure to be ready. Have a good day, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure you're on time and ready to go. We've got a lot to do today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure to be ready for a busy day at Hobbs Cafe."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. I'll see you at Hobbs Cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:30:30"
+  }
+}

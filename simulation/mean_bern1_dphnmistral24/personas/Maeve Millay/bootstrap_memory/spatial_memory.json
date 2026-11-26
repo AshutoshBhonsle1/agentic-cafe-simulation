@@ -1,0 +1,117 @@
+{
+  "the Ville": {
+    "Bernard Lowe's apartment": {
+      "main room": []
+    },
+    "Dorm for Oak Hill College": {
+      "Ayesha Khan's room": [
+        "desk",
+        "shelf"
+      ],
+      "Dolores Abernathy's room": [
+        "closet",
+        "computer",
+        "desk",
+        "blackboard",
+        "bed"
+      ],
+      "Meave Millay's room": [
+        "desk",
+        "bed",
+        "game console",
+        "closet"
+      ],
+      "Wolfgang Schulz's room": [
+        "lifting weight"
+      ],
+      "common room": [
+        "common room sofa",
+        "pool table",
+        "common room table"
+      ],
+      "garden": [
+        "dorm garden"
+      ],
+      "kitchen": [
+        "toaster",
+        "kitchen sink",
+        "refrigerator",
+        "cooking area"
+      ],
+      "man's bathroom": [
+        "shower",
+        "bathroom sink",
+        "toilet"
+      ],
+      "woman's bathroom": [
+        "bathroom sink",
+        "toilet",
+        "shower"
+      ]
+    },
+    "Harvey Oak Supply Store": {
+      "supply store": [
+        "behind the supply store counter",
+        "supply store counter",
+        "supply store product shelf"
+      ]
+    },
+    "Hobbs Cafe": {
+      "cafe": [
+        "piano",
+        "refrigerator",
+        "cafe customer seating",
+        "cooking area",
+        "kitchen sink",
+        "behind the cafe counter"
+      ]
+    },
+    "Johnson Park": {
+      "park": [
+        "park garden"
+      ]
+    },
+    "Oak Hill College": {
+      "classroom": [
+        "classroom podium",
+        "classroom student seating",
+        "blackboard"
+      ],
+      "hallway": [],
+      "library": [
+        "bookshelf",
+        "library sofa",
+        "library table"
+      ]
+    },
+    "Ryan Park's apartment": {
+      "main room": [
+        "refrigerator",
+        "closet",
+        "kitchen sink",
+        "cooking area"
+      ]
+    },
+    "The Rose and Crown Pub": {
+      "pub": [
+        "microphone",
+        "shelf",
+        "refrigerator",
+        "bar customer seating",
+        "behind the bar counter",
+        "kitchen sink",
+        "cooking area"
+      ]
+    },
+    "The Willows Market and Pharmacy": {
+      "store": [
+        "pharmacy store shelf",
+        "pharmacy store counter",
+        "behind the pharmacy counter",
+        "grocery store shelf",
+        "behind the grocery counter",
+        "grocery store counter"
+      ]
+    }
+  }
+}

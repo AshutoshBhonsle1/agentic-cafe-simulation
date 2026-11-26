@@ -1,0 +1,1231 @@
+{
+  "node_1": {
+    "node_count": 1,
+    "type_count": 0,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 00:00:00",
+    "expiration": "2023-03-15 00:00:00",
+    "subject": "Bernard Lowe",
+    "predicate": "plan",
+    "object": "Monday February 13",
+    "description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 8:00am, open Hobbs Cafe and start work at 8:30am, manage cafe operations from 9:00am to 12:00pm, take a break for lunch at 12:00pm, resume managing cafe operations from 1:00pm to 4:00pm, close Hobbs Cafe and finish work at 4:30pm, walk back home at 5:00pm, relax and prepare dinner at 6:00pm, have dinner at 8:00pm, wind down and get ready for bed at 10:00pm, go to sleep at 11:00pm.",
+    "original_description": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 8:00am, open Hobbs Cafe and start work at 8:30am, manage cafe operations from 9:00am to 12:00pm, take a break for lunch at 12:00pm, resume managing cafe operations from 1:00pm to 4:00pm, close Hobbs Cafe and finish work at 4:30pm, walk back home at 5:00pm, relax and prepare dinner at 6:00pm, have dinner at 8:00pm, wind down and get ready for bed at 10:00pm, go to sleep at 11:00pm.",
+    "embedding_key": "This is Bernard Lowe's plan for Monday February 13: wake up and complete the morning routine at 7:00am, walk to Hobbs Cafe at 8:00am, open Hobbs Cafe and start work at 8:30am, manage cafe operations from 9:00am to 12:00pm, take a break for lunch at 12:00pm, resume managing cafe operations from 1:00pm to 4:00pm, close Hobbs Cafe and finish work at 4:30pm, walk back home at 5:00pm, relax and prepare dinner at 6:00pm, have dinner at 8:00pm, wind down and get ready for bed at 10:00pm, go to sleep at 11:00pm.",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "plan"
+    ],
+    "filling": null
+  },
+  "node_10": {
+    "node_count": 10,
+    "type_count": 8,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:55:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up and completing the morning routine (preparing for the day)",
+    "object": "None",
+    "description": "Bernard Lowe is waking up and completing the morning routine (preparing for the day)",
+    "original_description": "Bernard Lowe is waking up and completing the morning routine (preparing for the day)",
+    "embedding_key": "Bernard Lowe is waking up and completing the morning routine (preparing for the day)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_11": {
+    "node_count": 11,
+    "type_count": 9,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:58:20",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:toilet",
+    "predicate": "used",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:toilet is used",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:toilet is used",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:toilet is used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "toilet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_12": {
+    "node_count": 12,
+    "type_count": 10,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "getting out of bed",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (getting out of bed)",
+    "original_description": "Bernard Lowe is preparing to leave for work (getting out of bed)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (getting out of bed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_13": {
+    "node_count": 13,
+    "type_count": 11,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:02:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:refrigerator",
+    "predicate": "closed",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:refrigerator is closed",
+    "original_description": "the Ville:Hobbs Cafe:cafe:refrigerator is closed",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:refrigerator is closed",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_14": {
+    "node_count": 14,
+    "type_count": 12,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:05:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "turning off",
+    "object": "alarm clock",
+    "description": "Bernard Lowe is preparing to leave for work (turning off alarm clock)",
+    "original_description": "Bernard Lowe is preparing to leave for work (turning off alarm clock)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (turning off alarm clock)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "alarm clock"
+    ],
+    "filling": null
+  },
+  "node_15": {
+    "node_count": 15,
+    "type_count": 13,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:07:00",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "not in use",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is not in use",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is not in use",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is not in use",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_16": {
+    "node_count": 16,
+    "type_count": 14,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:10:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "preparing to leave for work (using the bathroom)",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (using the bathroom)",
+    "original_description": "Bernard Lowe is preparing to leave for work (using the bathroom)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (using the bathroom)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_17": {
+    "node_count": 17,
+    "type_count": 15,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:11:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:closet",
+    "predicate": "accessing",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:closet is being accessed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "closet",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_18": {
+    "node_count": 18,
+    "type_count": 16,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:20:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "preparing to leave for work (washing hands)",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (washing hands)",
+    "original_description": "Bernard Lowe is preparing to leave for work (washing hands)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (washing hands)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_19": {
+    "node_count": 19,
+    "type_count": 17,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:21:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "using",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is being used",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is being used",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is being used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_2": {
+    "node_count": 2,
+    "type_count": 0,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "sleeping",
+    "object": "None",
+    "description": "Bernard Lowe is sleeping",
+    "original_description": "Bernard Lowe is sleeping",
+    "embedding_key": "Bernard Lowe is sleeping",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_20": {
+    "node_count": 20,
+    "type_count": 18,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:25:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "preparing to leave for work (brushing teeth)",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (brushing teeth)",
+    "original_description": "Bernard Lowe is preparing to leave for work (brushing teeth)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (brushing teeth)",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_21": {
+    "node_count": 21,
+    "type_count": 19,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:26:30",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:refrigerator",
+    "predicate": "closed",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is closed",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:refrigerator is closed",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:refrigerator is closed",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "refrigerator",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_22": {
+    "node_count": 22,
+    "type_count": 20,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:35:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "preparing",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (rinsing mouth)",
+    "original_description": "Bernard Lowe is preparing to leave for work (rinsing mouth)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (rinsing mouth)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_23": {
+    "node_count": 23,
+    "type_count": 21,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:36:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "wet",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is wet",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is wet",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is wet",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_24": {
+    "node_count": 24,
+    "type_count": 22,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:40:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "drying",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (drying face)",
+    "original_description": "Bernard Lowe is preparing to leave for work (drying face)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (drying face)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_25": {
+    "node_count": 25,
+    "type_count": 23,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:41:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "unoccupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is unoccupied",
+    "poignancy": 0,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_26": {
+    "node_count": 26,
+    "type_count": 24,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:45:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "getting dressed",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (getting dressed)",
+    "original_description": "Bernard Lowe is preparing to leave for work (getting dressed)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (getting dressed)",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_27": {
+    "node_count": 27,
+    "type_count": 25,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:46:50",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+    "predicate": "unused",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:bathroom sink is unused",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bathroom sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_28": {
+    "node_count": 28,
+    "type_count": 26,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:50:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "preparing to leave for work (tying shoes)",
+    "object": "None",
+    "description": "Bernard Lowe is preparing to leave for work (tying shoes)",
+    "original_description": "Bernard Lowe is preparing to leave for work (tying shoes)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (tying shoes)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_29": {
+    "node_count": 29,
+    "type_count": 27,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:51:30",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:desk",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:desk is being used",
+    "poignancy": 5,
+    "valence": 0,
+    "keywords": [
+      "desk",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_3": {
+    "node_count": 3,
+    "type_count": 1,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 00:00:10",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:main room:bed",
+    "predicate": "occupied",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "original_description": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:main room:bed is occupied",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bed",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_30": {
+    "node_count": 30,
+    "type_count": 28,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 07:55:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "grabbing",
+    "object": "keys",
+    "description": "Bernard Lowe is preparing to leave for work (grabbing keys)",
+    "original_description": "Bernard Lowe is preparing to leave for work (grabbing keys)",
+    "embedding_key": "Bernard Lowe is preparing to leave for work (grabbing keys)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "keys"
+    ],
+    "filling": null
+  },
+  "node_31": {
+    "node_count": 31,
+    "type_count": 29,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "walking to",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe is walking to Hobbs Cafe (preparing for departure)",
+    "original_description": "Bernard Lowe is walking to Hobbs Cafe (preparing for departure)",
+    "embedding_key": "Bernard Lowe is walking to Hobbs Cafe (preparing for departure)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "hobbs cafe"
+    ],
+    "filling": null
+  },
+  "node_32": {
+    "node_count": 32,
+    "type_count": 30,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:02:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is empty",
+    "poignancy": 5,
+    "valence": -10,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_33": {
+    "node_count": 33,
+    "type_count": 0,
+    "type": "chat",
+    "depth": 0,
+    "created": "2023-02-13 08:30:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "preparing for a busy day at Hobbs Cafe",
+    "original_description": "preparing for a busy day at Hobbs Cafe",
+    "embedding_key": "preparing for a busy day at Hobbs Cafe",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      [
+        "Maeve Millay",
+        "Good morning, Bernard."
+      ],
+      [
+        "Bernard Lowe",
+        "Morning."
+      ],
+      [
+        "Maeve Millay",
+        "How's your morning going so far?"
+      ],
+      [
+        "Bernard Lowe",
+        "It's going. I trust you're ready for another busy day at Hobbs Cafe."
+      ],
+      [
+        "Maeve Millay",
+        "Yeah, I'm looking forward to it. Dolores and I are planning to grab a coffee before we start our shift."
+      ],
+      [
+        "Bernard Lowe",
+        "Make sure you're on time and ready to go. We've got a lot to do today."
+      ],
+      [
+        "Maeve Millay",
+        "I'll make sure to be on time. Is there anything specific you need me to focus on today?"
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure you're prepared and ready to go. We've got a lot on our plate today."
+      ],
+      [
+        "Maeve Millay",
+        "Alright, I'll make sure to be ready. Have a good day, Bernard."
+      ],
+      [
+        "Bernard Lowe",
+        "Just make sure you're on time and ready to go. We've got a lot to do today."
+      ],
+      [
+        "Maeve Millay",
+        "Alright, Bernard. I'll make sure to be ready for a busy day at Hobbs Cafe."
+      ],
+      [
+        "Bernard Lowe",
+        "Alright, Maeve. I'll see you at Hobbs Cafe."
+      ]
+    ]
+  },
+  "node_34": {
+    "node_count": 34,
+    "type_count": 31,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:30:30",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "chat with",
+    "object": "Maeve Millay",
+    "description": "Bernard Lowe is preparing for a busy day at Hobbs Cafe",
+    "original_description": "Bernard Lowe is preparing for a busy day at Hobbs Cafe",
+    "embedding_key": "Bernard Lowe is preparing for a busy day at Hobbs Cafe",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "maeve millay"
+    ],
+    "filling": [
+      "node_33"
+    ]
+  },
+  "node_35": {
+    "node_count": 35,
+    "type_count": 1,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "prefers",
+    "object": "solitude and quiet",
+    "description": "Bernard prefers solitude and quiet in the mornings before opening the cafe.",
+    "original_description": "Bernard prefers solitude and quiet in the mornings before opening the cafe.",
+    "embedding_key": "Bernard prefers solitude and quiet in the mornings before opening the cafe.",
+    "poignancy": 3,
+    "valence": 3,
+    "keywords": [
+      "bernard lowe",
+      "prefers",
+      "solitude and quiet"
+    ],
+    "filling": [
+      "node_32",
+      "node_9",
+      "node_5",
+      "node_7",
+      "node_23"
+    ]
+  },
+  "node_36": {
+    "node_count": 36,
+    "type_count": 2,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "has a structured daily routine that he adheres to consistently",
+    "object": "None",
+    "description": "Bernard has a structured daily routine that he adheres to consistently.",
+    "original_description": "Bernard has a structured daily routine that he adheres to consistently.",
+    "embedding_key": "Bernard has a structured daily routine that he adheres to consistently.",
+    "poignancy": 2,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "has a structured daily routine that he adheres to consistently",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_31",
+      "node_30",
+      "node_24",
+      "node_27",
+      "node_8",
+      "node_17",
+      "node_28",
+      "node_16",
+      "node_26",
+      "node_2",
+      "node_20",
+      "node_21",
+      "node_15",
+      "node_22",
+      "node_18",
+      "node_19",
+      "node_14",
+      "node_11"
+    ]
+  },
+  "node_37": {
+    "node_count": 37,
+    "type_count": 3,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard values punctuality and being on schedule.",
+    "original_description": "Bernard values punctuality and being on schedule.",
+    "embedding_key": "Bernard values punctuality and being on schedule.",
+    "poignancy": 7,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_10",
+      "node_31",
+      "node_30",
+      "node_14"
+    ]
+  },
+  "node_38": {
+    "node_count": 38,
+    "type_count": 4,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritizes",
+    "object": "cleanliness and organization",
+    "description": "Bernard prioritizes cleanliness and organization in his personal space and workplace.",
+    "original_description": "Bernard prioritizes cleanliness and organization in his personal space and workplace.",
+    "embedding_key": "Bernard prioritizes cleanliness and organization in his personal space and workplace.",
+    "poignancy": 5,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "prioritizes",
+      "cleanliness and organization"
+    ],
+    "filling": [
+      "node_32",
+      "node_27",
+      "node_8",
+      "node_5",
+      "node_13",
+      "node_7",
+      "node_23",
+      "node_21",
+      "node_15",
+      "node_19"
+    ]
+  },
+  "node_39": {
+    "node_count": 39,
+    "type_count": 5,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "being meticulous about",
+    "object": "None",
+    "description": "Bernard is meticulous about his morning routine and preparation for the day.",
+    "original_description": "Bernard is meticulous about his morning routine and preparation for the day.",
+    "embedding_key": "Bernard is meticulous about his morning routine and preparation for the day.",
+    "poignancy": 6,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "being meticulous about",
+      "none"
+    ],
+    "filling": [
+      "node_12",
+      "node_10",
+      "node_34",
+      "node_29",
+      "node_31",
+      "node_30",
+      "node_24",
+      "node_28",
+      "node_16",
+      "node_26",
+      "node_2",
+      "node_20",
+      "node_22",
+      "node_18"
+    ]
+  },
+  "node_4": {
+    "node_count": 4,
+    "type_count": 2,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:00:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "completing",
+    "object": "morning routine",
+    "description": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "original_description": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "embedding_key": "Bernard Lowe is waking up and completing the morning routine (waking up)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "morning routine"
+    ],
+    "filling": null
+  },
+  "node_40": {
+    "node_count": 40,
+    "type_count": 6,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard Lowe values punctuality and routine in his daily life.",
+    "original_description": "Bernard Lowe values punctuality and routine in his daily life.",
+    "embedding_key": "Bernard Lowe values punctuality and routine in his daily life.",
+    "poignancy": 7,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_34",
+      "node_31",
+      "node_24",
+      "node_14"
+    ]
+  },
+  "node_41": {
+    "node_count": 41,
+    "type_count": 7,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "meticulous about",
+    "object": "personal hygiene",
+    "description": "Bernard Lowe is meticulous about personal hygiene before starting his day.",
+    "original_description": "Bernard Lowe is meticulous about personal hygiene before starting his day.",
+    "embedding_key": "Bernard Lowe is meticulous about personal hygiene before starting his day.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "meticulous about",
+      "personal hygiene"
+    ],
+    "filling": [
+      "node_11",
+      "node_16",
+      "node_22",
+      "node_19"
+    ]
+  },
+  "node_42": {
+    "node_count": 42,
+    "type_count": 8,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "prioritizes",
+    "object": "organization and cleanliness in his living space and workplace",
+    "description": "Bernard Lowe prioritizes organization and cleanliness in his living space and workplace.",
+    "original_description": "Bernard Lowe prioritizes organization and cleanliness in his living space and workplace.",
+    "embedding_key": "Bernard Lowe prioritizes organization and cleanliness in his living space and workplace.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "prioritizes",
+      "organization and cleanliness in his living space and workplace"
+    ],
+    "filling": [
+      "node_20",
+      "node_10",
+      "node_9",
+      "node_13",
+      "node_7",
+      "node_21"
+    ]
+  },
+  "node_43": {
+    "node_count": 43,
+    "type_count": 9,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "methodical and structured in planning his day and managing his time",
+    "object": "None",
+    "description": "Bernard Lowe is methodical and structured in planning his day and managing his time.",
+    "original_description": "Bernard Lowe is methodical and structured in planning his day and managing his time.",
+    "embedding_key": "Bernard Lowe is methodical and structured in planning his day and managing his time.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "methodical and structured in planning his day and managing his time",
+      "none"
+    ],
+    "filling": [
+      "node_25",
+      "node_31",
+      "node_4",
+      "node_30",
+      "node_1",
+      "node_12",
+      "node_28",
+      "node_18"
+    ]
+  },
+  "node_44": {
+    "node_count": 44,
+    "type_count": 10,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "has a consistent and predictable lifestyle with set daily plans and responsibilities",
+    "object": "None",
+    "description": "Bernard Lowe has a consistent and predictable lifestyle with set daily plans and responsibilities.",
+    "original_description": "Bernard Lowe has a consistent and predictable lifestyle with set daily plans and responsibilities.",
+    "embedding_key": "Bernard Lowe has a consistent and predictable lifestyle with set daily plans and responsibilities.",
+    "poignancy": 5,
+    "valence": 2,
+    "keywords": [
+      "bernard lowe",
+      "has a consistent and predictable lifestyle with set daily plans and responsibilities",
+      "none"
+    ],
+    "filling": [
+      "node_29",
+      "node_20",
+      "node_10",
+      "node_2",
+      "node_6",
+      "node_27",
+      "node_1",
+      "node_12",
+      "node_28",
+      "node_18"
+    ]
+  },
+  "node_45": {
+    "node_count": 45,
+    "type_count": 11,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "is well-organized and methodical",
+    "object": "None",
+    "description": "Bernard Lowe is well-organized and methodical in his morning routine, suggesting a disciplined approach to starting the day.",
+    "original_description": "Bernard Lowe is well-organized and methodical in his morning routine, suggesting a disciplined approach to starting the day.",
+    "embedding_key": "Bernard Lowe is well-organized and methodical in his morning routine, suggesting a disciplined approach to starting the day.",
+    "poignancy": 3,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "is well-organized and methodical",
+      "none"
+    ],
+    "filling": [
+      "node_16",
+      "node_26",
+      "node_28",
+      "node_20"
+    ]
+  },
+  "node_46": {
+    "node_count": 46,
+    "type_count": 12,
+    "type": "thought",
+    "depth": 2,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "values",
+    "object": "None",
+    "description": "Bernard Lowe values punctuality and routine in his daily life, as it provides him a sense of control and structure.",
+    "original_description": "Bernard Lowe values punctuality and routine in his daily life, as it provides him a sense of control and structure.",
+    "embedding_key": "Bernard Lowe values punctuality and routine in his daily life, as it provides him a sense of control and structure.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "values",
+      "none"
+    ],
+    "filling": [
+      "node_1",
+      "node_10"
+    ]
+  },
+  "node_47": {
+    "node_count": 47,
+    "type_count": 13,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "is meticulous about",
+    "object": "personal hygiene and cleanliness",
+    "description": "Bernard Lowe is meticulous about personal hygiene and cleanliness, which reflects his attention to detail and high standards for himself and others.",
+    "original_description": "Bernard Lowe is meticulous about personal hygiene and cleanliness, which reflects his attention to detail and high standards for himself and others.",
+    "embedding_key": "Bernard Lowe is meticulous about personal hygiene and cleanliness, which reflects his attention to detail and high standards for himself and others.",
+    "poignancy": 7,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "is meticulous about",
+      "personal hygiene and cleanliness"
+    ],
+    "filling": [
+      "node_18",
+      "node_11",
+      "node_20"
+    ]
+  },
+  "node_48": {
+    "node_count": 48,
+    "type_count": 14,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "has a strong sense of responsibility towards",
+    "object": "Hobbs Cafe",
+    "description": "Bernard Lowe has a strong sense of responsibility towards Hobbs Cafe, as it is central to his daily routine and identity.",
+    "original_description": "Bernard Lowe has a strong sense of responsibility towards Hobbs Cafe, as it is central to his daily routine and identity.",
+    "embedding_key": "Bernard Lowe has a strong sense of responsibility towards Hobbs Cafe, as it is central to his daily routine and identity.",
+    "poignancy": 8,
+    "valence": 5,
+    "keywords": [
+      "bernard lowe",
+      "has a strong sense of responsibility towards",
+      "hobbs cafe"
+    ],
+    "filling": [
+      "node_22",
+      "node_34"
+    ]
+  },
+  "node_49": {
+    "node_count": 49,
+    "type_count": 15,
+    "type": "thought",
+    "depth": 1,
+    "created": "2023-02-13 08:30:30",
+    "expiration": "2023-03-15 08:30:30",
+    "subject": "Bernard Lowe",
+    "predicate": "prefers solitude",
+    "object": "None",
+    "description": "Bernard Lowe prefers solitude in the mornings, indicating that he may value time alone for reflection or preparation.",
+    "original_description": "Bernard Lowe prefers solitude in the mornings, indicating that he may value time alone for reflection or preparation.",
+    "embedding_key": "Bernard Lowe prefers solitude in the mornings, indicating that he may value time alone for reflection or preparation.",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "bernard lowe",
+      "prefers solitude",
+      "none"
+    ],
+    "filling": [
+      "node_12",
+      "node_6",
+      "node_4"
+    ]
+  },
+  "node_5": {
+    "node_count": 5,
+    "type_count": 3,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:02:00",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:shower",
+    "predicate": "is off",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:shower is off",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:shower is off",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:shower is off",
+    "poignancy": 1,
+    "valence": -2,
+    "keywords": [
+      "shower",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_50": {
+    "node_count": 50,
+    "type_count": 32,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 08:31:10",
+    "expiration": null,
+    "subject": "Maeve Millay",
+    "predicate": "chat with",
+    "object": "Bernard Lowe",
+    "description": "Maeve Millay is preparing for a busy day at Hobbs Cafe",
+    "original_description": "Maeve Millay is preparing for a busy day at Hobbs Cafe",
+    "embedding_key": "Maeve Millay is preparing for a busy day at Hobbs Cafe",
+    "poignancy": 5,
+    "valence": -2,
+    "keywords": [
+      "maeve millay",
+      "bernard lowe"
+    ],
+    "filling": null
+  },
+  "node_6": {
+    "node_count": 6,
+    "type_count": 4,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:30:10",
+    "expiration": null,
+    "subject": "Bernard Lowe",
+    "predicate": "waking up and completing the morning routine (getting out of bed)",
+    "object": "None",
+    "description": "Bernard Lowe is waking up and completing the morning routine (getting out of bed)",
+    "original_description": "Bernard Lowe is waking up and completing the morning routine (getting out of bed)",
+    "embedding_key": "Bernard Lowe is waking up and completing the morning routine (getting out of bed)",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "bernard lowe",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_7": {
+    "node_count": 7,
+    "type_count": 5,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:31:30",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:kitchen sink",
+    "predicate": "used",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not used",
+    "original_description": "the Ville:Hobbs Cafe:cafe:kitchen sink is not used",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:kitchen sink is not used",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "kitchen sink",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_8": {
+    "node_count": 8,
+    "type_count": 6,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:46:30",
+    "expiration": null,
+    "subject": "the Ville:Bernard Lowe's apartment:bathroom:shower",
+    "predicate": "being used",
+    "object": "None",
+    "description": "the Ville:Bernard Lowe's apartment:bathroom:shower is not being used",
+    "original_description": "the Ville:Bernard Lowe's apartment:bathroom:shower is not being used",
+    "embedding_key": "the Ville:Bernard Lowe's apartment:bathroom:shower is not being used",
+    "poignancy": 1,
+    "valence": 0,
+    "keywords": [
+      "shower",
+      "none"
+    ],
+    "filling": null
+  },
+  "node_9": {
+    "node_count": 9,
+    "type_count": 7,
+    "type": "event",
+    "depth": 0,
+    "created": "2023-02-13 06:53:00",
+    "expiration": null,
+    "subject": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+    "predicate": "seating",
+    "object": "None",
+    "description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "original_description": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "embedding_key": "the Ville:Hobbs Cafe:cafe:cafe customer seating is unoccupied",
+    "poignancy": 5,
+    "valence": -5,
+    "keywords": [
+      "cafe customer seating",
+      "none"
+    ],
+    "filling": null
+  }
+}

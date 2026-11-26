@@ -1,0 +1,376 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 08:31:40",
+  "curr_tile": [
+    76,
+    26
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 75,
+  "importance_ele_n": 0,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk in Johnson Park from 4:30pm to 6:00pm",
+    "have dinner at the dorm at 8:00pm",
+    "spend time in your room from 9:00pm to 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      20
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (stretching in bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (opening the curtains)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (picking out clothes)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting dressed)",
+      5
+    ],
+    [
+      "having breakfast (preparing breakfast ingredients)",
+      5
+    ],
+    [
+      "having breakfast (cooking breakfast items)",
+      10
+    ],
+    [
+      "having breakfast (setting the table)",
+      10
+    ],
+    [
+      "having breakfast (eating breakfast)",
+      20
+    ],
+    [
+      "having breakfast (cleaning up after breakfast)",
+      5
+    ],
+    [
+      "having breakfast (packing up to leave for work)",
+      4
+    ],
+    [
+      "preparing for a busy day at Hobbs Cafe and grabbing coffee together",
+      1
+    ],
+    [
+      "having breakfast (packing up to leave for work)",
+      6
+    ],
+    [
+      "walking to Hobbs Cafe (preparing breakfast)",
+      15
+    ],
+    [
+      "walking to Hobbs Cafe (eating breakfast)",
+      14
+    ],
+    [
+      "preparing for a busy day at Hobbs Cafe",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (cleaning up after breakfast)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (getting dressed for work)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      9
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (unlocking the cafe door)",
+      5
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (turning on the lights)",
+      5
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (setting up the counter)",
+      10
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (preparing coffee machines)",
+      10
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (restocking condiments)",
+      5
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (arranging pastries on display)",
+      5
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (reviewing notes)",
+      10
+    ],
+    [
+      "preparing for opening at Hobbs Cafe (organizing supplies)",
+      15
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "managing the cafe operations",
+      60
+    ],
+    [
+      "taking a short break during work hours",
+      60
+    ],
+    [
+      "serving lunch to customers",
+      60
+    ],
+    [
+      "restocking supplies and cleaning up",
+      60
+    ],
+    [
+      "preparing for the afternoon rush",
+      60
+    ],
+    [
+      "closing down work at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "enjoying the park and relaxing",
+      60
+    ],
+    [
+      "returning to the dorm and getting ready for dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      60
+    ],
+    [
+      "organizing and preparing for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "having breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for opening at Hobbs Cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "managing the cafe operations",
+      60
+    ],
+    [
+      "taking a short break during work hours",
+      60
+    ],
+    [
+      "serving lunch to customers",
+      60
+    ],
+    [
+      "restocking supplies and cleaning up",
+      60
+    ],
+    [
+      "preparing for the afternoon rush",
+      60
+    ],
+    [
+      "closing down work at Hobbs Cafe",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "enjoying the park and relaxing",
+      60
+    ],
+    [
+      "returning to the dorm and getting ready for dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room",
+      60
+    ],
+    [
+      "organizing and preparing for the next day",
+      60
+    ],
+    [
+      "sleeping",
+      60
+    ]
+  ],
+  "act_address": "\u003cpersona\u003e Bernard Lowe",
+  "act_start_time": "February 13, 2023, 08:30:20",
+  "act_duration": 1,
+  "act_description": "preparing for a busy day at Hobbs Cafe",
+  "act_pronunciatio": "💬",
+  "act_event": [
+    "Maeve Millay",
+    "chat with",
+    "Bernard Lowe"
+  ],
+  "act_obj_description": "",
+  "act_obj_pronunciatio": "",
+  "act_obj_event": [
+    "",
+    "",
+    ""
+  ],
+  "chatting_with": "Bernard Lowe",
+  "chat": [
+    [
+      "Maeve Millay",
+      "Good morning, Bernard."
+    ],
+    [
+      "Bernard Lowe",
+      "Morning."
+    ],
+    [
+      "Maeve Millay",
+      "How's your morning going so far?"
+    ],
+    [
+      "Bernard Lowe",
+      "It's going. I trust you're ready for another busy day at Hobbs Cafe."
+    ],
+    [
+      "Maeve Millay",
+      "Yeah, I'm looking forward to it. Dolores and I are planning to grab a coffee before we start our shift."
+    ],
+    [
+      "Bernard Lowe",
+      "Make sure you're on time and ready to go. We've got a lot to do today."
+    ],
+    [
+      "Maeve Millay",
+      "I'll make sure to be on time. Is there anything specific you need me to focus on today?"
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure you're prepared and ready to go. We've got a lot on our plate today."
+    ],
+    [
+      "Maeve Millay",
+      "Alright, I'll make sure to be ready. Have a good day, Bernard."
+    ],
+    [
+      "Bernard Lowe",
+      "Just make sure you're on time and ready to go. We've got a lot to do today."
+    ],
+    [
+      "Maeve Millay",
+      "Alright, Bernard. I'll make sure to be ready for a busy day at Hobbs Cafe."
+    ],
+    [
+      "Bernard Lowe",
+      "Alright, Maeve. I'll see you at Hobbs Cafe."
+    ]
+  ],
+  "chatting_with_buffer": {
+    "Bernard Lowe": 111,
+    "Dolores Abernathy": -104
+  },
+  "chatting_end_time": "February 13, 2023, 08:32:00",
+  "act_path_set": true,
+  "planned_path": null
+}

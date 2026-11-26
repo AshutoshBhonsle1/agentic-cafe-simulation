@@ -1,0 +1,43 @@
+{
+  "kw_strength_thought": {
+    "being meticulous about": 1,
+    "bernard lowe": 15,
+    "cleanliness and organization": 1,
+    "has a consistent and predictable lifestyle with set daily plans and responsibilities": 1,
+    "has a strong sense of responsibility towards": 1,
+    "has a structured daily routine that he adheres to consistently": 1,
+    "hobbs cafe": 1,
+    "is meticulous about": 1,
+    "is well-organized and methodical": 1,
+    "methodical and structured in planning his day and managing his time": 1,
+    "meticulous about": 1,
+    "none": 9,
+    "organization and cleanliness in his living space and workplace": 1,
+    "personal hygiene": 1,
+    "personal hygiene and cleanliness": 1,
+    "plan": 5,
+    "prefers": 1,
+    "prefers solitude": 1,
+    "prioritizes": 2,
+    "solitude and quiet": 1,
+    "values": 3
+  },
+  "kw_strength_event": {
+    "alarm clock": 4,
+    "bathroom sink": 12,
+    "bed": 9,
+    "bernard lowe": 64,
+    "cafe customer seating": 7,
+    "closet": 4,
+    "desk": 4,
+    "hobbs cafe": 3,
+    "keys": 3,
+    "kitchen sink": 9,
+    "maeve millay": 2,
+    "morning routine": 5,
+    "none": 115,
+    "refrigerator": 8,
+    "shower": 10,
+    "toilet": 5
+  }
+}
