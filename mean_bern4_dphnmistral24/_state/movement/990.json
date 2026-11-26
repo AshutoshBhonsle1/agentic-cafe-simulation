@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a smooth cafe service by checking inventory and setting up stations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Ready for a busy day at the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Let's make sure everything is in order for a smooth service today."
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely, I've got everything ready. Fresh coffee beans and schedules are all set for today."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, let's ensure all stations are prepared and staffed accordingly. I'll do a quick check on the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'll start prepping the coffee machines right away. Shall I also check the seating arrangements and ensure the cafe is tidy before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Yes, please make sure all tables are set and ready for customers. I'll meet you inside shortly."
+        ],
+        [
+          "Maeve Millay",
+          "I'll get right on it. Need any help with inventory checks?"
+        ],
+        [
+          "Bernard Lowe",
+          "No, I've got it covered. Just make sure everything is spotless and ready for customers. See you inside."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciato": "🎒",
+      "description": "walking to Hobbs Cafe (packing lunch for work) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a smooth cafe service by checking inventory and setting up stations @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Ready for a busy day at the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Let's make sure everything is in order for a smooth service today."
+        ],
+        [
+          "Maeve Millay",
+          "Absolutely, I've got everything ready. Fresh coffee beans and schedules are all set for today."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, let's ensure all stations are prepared and staffed accordingly. I'll do a quick check on the inventory before we open."
+        ],
+        [
+          "Maeve Millay",
+          "I'll start prepping the coffee machines right away. Shall I also check the seating arrangements and ensure the cafe is tidy before we open?"
+        ],
+        [
+          "Bernard Lowe",
+          "Yes, please make sure all tables are set and ready for customers. I'll meet you inside shortly."
+        ],
+        [
+          "Maeve Millay",
+          "I'll get right on it. Need any help with inventory checks?"
+        ],
+        [
+          "Bernard Lowe",
+          "No, I've got it covered. Just make sure everything is spotless and ready for customers. See you inside."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:44:00"
+  }
+}

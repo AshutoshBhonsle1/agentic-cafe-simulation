@@ -1,0 +1,84 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciato": "⌛",
+      "description": "waiting to start unlocking the front door @ \u003cwaiting\u003e X: 74, Y: 22",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and confirming meeting time @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I see you're already getting everything ready for opening. Need any help with the coffee beans?"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for offering, Dolores. I think I've got it covered with the beans. But could you double-check that we're on schedule to meet at 8:00? Bernard mentioned it's going to be a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Maeve. I'll make sure to be there on time. Let's sync up at 7:50 just in case we need a quick chat before the rush."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores. I'll see you at 7:50 then. And just to confirm, did Bernard say anything about how he wants us to handle the extra customers today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Bernard mentioned we should prioritize taking orders and keeping the lines moving. I'll make sure to keep an eye on that. See you at 7:50, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I'll make sure to keep everything organized and ready for a smooth service. See you at 7:50."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and confirming meeting time @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I see you're already getting everything ready for opening. Need any help with the coffee beans?"
+        ],
+        [
+          "Maeve Millay",
+          "Thanks for offering, Dolores. I think I've got it covered with the beans. But could you double-check that we're on schedule to meet at 8:00? Bernard mentioned it's going to be a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Of course, Maeve. I'll make sure to be there on time. Let's sync up at 7:50 just in case we need a quick chat before the rush."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores. I'll see you at 7:50 then. And just to confirm, did Bernard say anything about how he wants us to handle the extra customers today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Bernard mentioned we should prioritize taking orders and keeping the lines moving. I'll make sure to keep an eye on that. See you at 7:50, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores. I'll make sure to keep everything organized and ready for a smooth service. See you at 7:50."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:07:40"
+  }
+}

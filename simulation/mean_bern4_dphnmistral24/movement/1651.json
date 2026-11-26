@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day by ensuring inventory is ready and coordinating with colleagues @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the counter looking? Make sure all stations are fully stocked and ready for customers by opening time. I expect a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll double-check the inventory and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on the inventory and let me know if you need anything restocked. I'll be keeping a close watch today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is ready, Bernard. I'll sync up with Dolores at 7:50 and prioritize taking orders to keep the lines moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I trust you'll manage. Just make sure to stay on top of those orders and maintain the pace. We can't afford any slowdowns today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is ready for opening time, Bernard. I'll sync up with Dolores and keep a close eye on orders to maintain the pace."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I'll be keeping an eye on things from back here. Make sure to stay focused and keep those orders coming in smoothly."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "�",
+      "description": "serving customers at the counter (checking the register) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day by ensuring inventory is ready and coordinating with colleagues @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve, how's the counter looking? Make sure all stations are fully stocked and ready for customers by opening time. I expect a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Bernard. I'll double-check the inventory and make sure everything is in order before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on the inventory and let me know if you need anything restocked. I'll be keeping a close watch today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is ready, Bernard. I'll sync up with Dolores at 7:50 and prioritize taking orders to keep the lines moving."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I trust you'll manage. Just make sure to stay on top of those orders and maintain the pace. We can't afford any slowdowns today."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure everything is ready for opening time, Bernard. I'll sync up with Dolores and keep a close eye on orders to maintain the pace."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright Maeve, I'll be keeping an eye on things from back here. Make sure to stay focused and keep those orders coming in smoothly."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:34:10"
+  }
+}

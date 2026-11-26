@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring inventory and register are accurate @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, make sure you're keeping an eye on the register and double-checking inventory. We've got a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep a close eye on everything, Bernard. Is there anything in particular you'd like me to prioritize today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready to go. I don't want any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is in order and ready to go. Let me know if there's anything else I can do to help."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, just make sure everything is running smoothly back there. I'll be keeping an eye on things from up front."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring inventory and register are accurate @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, make sure you're keeping an eye on the register and double-checking inventory. We've got a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep a close eye on everything, Bernard. Is there anything in particular you'd like me to prioritize today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready to go. I don't want any mistakes today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure everything is in order and ready to go. Let me know if there's anything else I can do to help."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, just make sure everything is running smoothly back there. I'll be keeping an eye on things from up front."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🍾",
+      "description": "serving customers at the counter (serving customers at the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 11:04:40"
+  }
+}

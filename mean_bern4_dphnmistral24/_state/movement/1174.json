@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day and ensuring everything is in order @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just finishing up the counter area. Is there anything specific you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready for customers. We're opening up right on schedule today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll double-check everything. We're ready for a busy day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get ready to hit the ground running. Make sure all the stations are set up and we're good to go for a smooth service."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Bernard. I'll make sure everything is in place and ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on the inventory and let me know if we need to restock anything during the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Bernard. I'll keep an eye on the inventory and let you know if we need to restock anything."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll be behind the counter if you need anything. Let's make it a great day!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day and ensuring everything is in order @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just finishing up the counter area. Is there anything specific you need me to do before opening?"
+        ],
+        [
+          "Bernard Lowe",
+          "Just make sure everything is in order and ready for customers. We're opening up right on schedule today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll double-check everything. We're ready for a busy day!"
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, let's get ready to hit the ground running. Make sure all the stations are set up and we're good to go for a smooth service."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Bernard. I'll make sure everything is in place and ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on the inventory and let me know if we need to restock anything during the day."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Bernard. I'll keep an eye on the inventory and let you know if we need to restock anything."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. I'll be behind the counter if you need anything. Let's make it a great day!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🎖",
+      "description": "preparing for opening at the cafe (preparing the coffee machines) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:14:40"
+  }
+}

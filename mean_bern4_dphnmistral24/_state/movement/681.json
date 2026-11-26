@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciato": "🍶",
+      "description": "preparing for work at Hobbs Cafe (cleaning up after breakfast) @ the Ville:Bernard Lowe's apartment:main room:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe with fresh coffee beans @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I see you're already enjoying your coffee. How's your day looking so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm looking forward to a busy day at Hobbs Cafe. Your coffee smells great by the way."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks! I'm preparing a fresh pot for us today. Do you need any help with anything before we head out to Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That would be great! I can help you carry some things to Hobbs Cafe. Have you got everything ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Almost everything is ready. I just need to grab those fresh coffee beans I decided to bring for today's brews. Let's meet at the usual spot by 8:00 am, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good to me! I'll meet you at Hobbs Cafe by 8:00 am. Make sure to bring those fresh coffee beans; they'll definitely make the day even better for everyone."
+        ],
+        [
+          "Maeve Millay",
+          "Got it! I won't forget the fresh coffee beans. See you at Hobbs Cafe by 8:00 am then. Have a good walk over!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe by 8:00 am then, Maeve! I'll make sure to bring everything we need for a smooth day ahead."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to bring those fresh coffee beans; they'll definitely make the day even better for everyone. See you at Hobbs Cafe by 8:00 am then, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe by 8:00 am then, Maeve! Have a great day!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        122,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at Hobbs Cafe with fresh coffee beans @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! I see you're already enjoying your coffee. How's your day looking so far?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! I'm looking forward to a busy day at Hobbs Cafe. Your coffee smells great by the way."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks! I'm preparing a fresh pot for us today. Do you need any help with anything before we head out to Hobbs Cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "That would be great! I can help you carry some things to Hobbs Cafe. Have you got everything ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Almost everything is ready. I just need to grab those fresh coffee beans I decided to bring for today's brews. Let's meet at the usual spot by 8:00 am, okay?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good to me! I'll meet you at Hobbs Cafe by 8:00 am. Make sure to bring those fresh coffee beans; they'll definitely make the day even better for everyone."
+        ],
+        [
+          "Maeve Millay",
+          "Got it! I won't forget the fresh coffee beans. See you at Hobbs Cafe by 8:00 am then. Have a good walk over!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe by 8:00 am then, Maeve! I'll make sure to bring everything we need for a smooth day ahead."
+        ],
+        [
+          "Maeve Millay",
+          "I'll make sure to bring those fresh coffee beans; they'll definitely make the day even better for everyone. See you at Hobbs Cafe by 8:00 am then, Dolores!"
+        ],
+        [
+          "Dolores Abernathy",
+          "See you at Hobbs Cafe by 8:00 am then, Maeve! Have a great day!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:52:30"
+  }
+}

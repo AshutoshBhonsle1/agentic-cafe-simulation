@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring all stations are fully stocked and ready for opening time @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, ensure that all the stations are fully stocked and ready for customers by opening time. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure everything is set up and ready to go for opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Also, Dolores, make sure to double-check the inventory throughout the day and let me know if we need to restock anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Bernard. I'll make sure all stations are fully stocked and ready for opening time. I'll also keep an eye on the inventory throughout the day and let you know if we need to restock anything."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring all stations are fully stocked and ready for opening time @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Dolores, ensure that all the stations are fully stocked and ready for customers by opening time. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure everything is set up and ready to go for opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Also, Dolores, make sure to double-check the inventory throughout the day and let me know if we need to restock anything."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Bernard. I'll make sure all stations are fully stocked and ready for opening time. I'll also keep an eye on the inventory throughout the day and let you know if we need to restock anything."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🎖",
+      "description": "preparing for opening at the cafe (restocking sugar and cream) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:38:50"
+  }
+}

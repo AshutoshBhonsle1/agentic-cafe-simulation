@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy shift by ensuring all stations are fully stocked and ready @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up preparing the order station. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Make sure all stations are fully stocked and ready for customers by opening time today. We're expecting a full house."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I'll double-check the inventory and make sure everything is in place before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Also, keep an eye on the inventory throughout the day and report any restocking needs to me directly. We can't afford any slowdowns during a busy shift."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure everything is ready for opening and keep an eye on inventory throughout the day. Let's have a successful shift!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🍮",
+      "description": "preparing for work shift at the cafe (reviewing the day's schedule) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy shift by ensuring all stations are fully stocked and ready @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up preparing the order station. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Make sure all stations are fully stocked and ready for customers by opening time today. We're expecting a full house."
+        ],
+        [
+          "Maeve Millay",
+          "Got it. I'll double-check the inventory and make sure everything is in place before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "Also, keep an eye on the inventory throughout the day and report any restocking needs to me directly. We can't afford any slowdowns during a busy shift."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure everything is ready for opening and keep an eye on inventory throughout the day. Let's have a successful shift!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:57:40"
+  }
+}

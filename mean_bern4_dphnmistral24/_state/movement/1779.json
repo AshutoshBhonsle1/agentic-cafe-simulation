@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reminding Maeve to keep the register tidy and double-check inventory @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve Millay, how many times have I told you to keep an eye on that register? Don't let it get messy like last time!"
+        ],
+        [
+          "Maeve Millay",
+          "I apologize, Bernard. I'll make sure to keep a closer eye on it from now on."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to double-check the inventory. We can't afford any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure to double-check everything before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And make sure to stock up on those pastries. We're expecting a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll make sure to stock up on pastries right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Bernard Lowe: Alright, Maeve. Just make sure everything is in order before we open up. I don't want any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. I'll make sure everything is perfect for opening time."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "😁",
+      "description": "serving customers at the counter (handling customer payments) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "reminding Maeve to keep the register tidy and double-check inventory @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Maeve Millay, how many times have I told you to keep an eye on that register? Don't let it get messy like last time!"
+        ],
+        [
+          "Maeve Millay",
+          "I apologize, Bernard. I'll make sure to keep a closer eye on it from now on."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't forget to double-check the inventory. We can't afford any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure to double-check everything before we open."
+        ],
+        [
+          "Bernard Lowe",
+          "And make sure to stock up on those pastries. We're expecting a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Of course, Bernard. I'll make sure to stock up on pastries right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Bernard Lowe: Alright, Maeve. Just make sure everything is in order before we open up. I don't want any mistakes today."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. I'll make sure everything is perfect for opening time."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:55:30"
+  }
+}

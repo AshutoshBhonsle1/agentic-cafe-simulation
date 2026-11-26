@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day by brewing fresh coffee and managing inventory @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the coffee machines. Shall I start brewing the fresh batch now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Yes, go ahead and start brewing. Make sure everything is set up for a smooth service today."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. I've got everything ready for a busy day. Fresh beans are loaded into the grinder and the machines are heated up."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, keep an eye on the inventory and let me know if we need to restock anything during the day. Dolores will double-check everything as well."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll keep an eye on the inventory and let you know if we need to restock. Have a good day!"
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☗",
+      "description": "preparing for work shift at the cafe (setting up the counter area) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day by brewing fresh coffee and managing inventory @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up the coffee machines. Shall I start brewing the fresh batch now?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Yes, go ahead and start brewing. Make sure everything is set up for a smooth service today."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. I've got everything ready for a busy day. Fresh beans are loaded into the grinder and the machines are heated up."
+        ],
+        [
+          "Bernard Lowe",
+          "Good, keep an eye on the inventory and let me know if we need to restock anything during the day. Dolores will double-check everything as well."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll keep an eye on the inventory and let you know if we need to restock. Have a good day!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:16:20"
+  }
+}

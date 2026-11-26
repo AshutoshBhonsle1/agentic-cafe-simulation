@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🍽",
+      "description": "opening Hobbs Cafe and starting the day's operations (final check of all systems before opening) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating and preparing for a busy day at work @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, how's it going today? We've got a full house so let's make sure to sync up at 7:50 and keep those orders moving."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I'll make sure to sync up with you at 7:50 and keep everything running smoothly on my end."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll double-check the inventory and make sure all stations are stocked before we open. Let's make today a great day for our customers!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I'll make sure to double-check everything on my side too and be ready for a busy day!"
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll see you at 7:50 then. Let's make sure we're both ready to give our customers the best service today!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating and preparing for a busy day at work @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, how's it going today? We've got a full house so let's make sure to sync up at 7:50 and keep those orders moving."
+        ],
+        [
+          "Dolores Abernathy",
+          "Got it, Maeve. I'll make sure to sync up with you at 7:50 and keep everything running smoothly on my end."
+        ],
+        [
+          "Maeve Millay",
+          "Thanks, Dolores. I'll double-check the inventory and make sure all stations are stocked before we open. Let's make today a great day for our customers!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good, Maeve. I'll make sure to double-check everything on my side too and be ready for a busy day!"
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll see you at 7:50 then. Let's make sure we're both ready to give our customers the best service today!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:15:50"
+  }
+}

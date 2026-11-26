@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "😊",
+      "description": "opening Hobbs Cafe and starting the day's operations (organizing the display of pastries and snacks) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and specials for a busy day @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I see you're already setting up the order station. Do we have a full house today?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! Yes, we're expecting a full house. I'll double-check the inventory and make sure all stations are ready for opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "That's great. I'll make sure to sync up with you at 7:50 as planned and meet you at the counter area afterwards to go over the specials for the day."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores. I'll make sure everything is in order and ready to go for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll also keep an eye on inventory throughout the day and notify Bernard if we need any restocking."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll meet you at the counter then. Let's make sure we're both ready for a busy day ahead!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Maeve. I'll make sure to double-check all stations and be ready for opening time. Let's sync up at 7:50 as planned."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I'll see you at 7:50 then. Let's make sure we're both ready for a busy day ahead!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and specials for a busy day @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. I see you're already setting up the order station. Do we have a full house today?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! Yes, we're expecting a full house. I'll double-check the inventory and make sure all stations are ready for opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "That's great. I'll make sure to sync up with you at 7:50 as planned and meet you at the counter area afterwards to go over the specials for the day."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, Dolores. I'll make sure everything is in order and ready to go for our customers."
+        ],
+        [
+          "Dolores Abernathy",
+          "Thanks, Maeve. I'll also keep an eye on inventory throughout the day and notify Bernard if we need any restocking."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, I'll meet you at the counter then. Let's make sure we're both ready for a busy day ahead!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright, Maeve. I'll make sure to double-check all stations and be ready for opening time. Let's sync up at 7:50 as planned."
+        ],
+        [
+          "Maeve Millay",
+          "Great! I'll see you at 7:50 then. Let's make sure we're both ready for a busy day ahead!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:53:50"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring counter area is organized and stations are fully stocked for a full house day @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up organizing the counter area. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I expect your usual efficiency today. Ensure all stations are fully stocked and ready for customers by opening time. No mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. Everything will be ready by opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Make sure to double-check the inventory as well. We can't afford any oversights today."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure to double-check everything before opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on those orders Maeve. We have a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure everything is ready and keep a close eye on those orders today."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciato": "🍺",
+      "description": "preparing for work shift at the cafe (arranging pastries and snacks) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring counter area is organized and stations are fully stocked for a full house day @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just finishing up organizing the counter area. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Maeve, I expect your usual efficiency today. Ensure all stations are fully stocked and ready for customers by opening time. No mistakes."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. Everything will be ready by opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Make sure to double-check the inventory as well. We can't afford any oversights today."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'll make sure to double-check everything before opening time."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on those orders Maeve. We have a full house today."
+        ],
+        [
+          "Maeve Millay",
+          "Alright, Bernard. I'll make sure everything is ready and keep a close eye on those orders today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:35:40"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciato": "\u0001F68A",
+      "description": "preparing for work at Hobbs Cafe (waking up) @ the Ville:Bernard Lowe's apartment:main room:bed",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        121,
+        49
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating their schedules for a busy day at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning Maeve! Ready to tackle another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! Yeah, I'm looking forward to it. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready! Let's make sure we're both on top of our game today. What time are you getting to the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there by 8:00 am. Let's meet up at the cafe and get everything ready for opening!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Great! I'll see you there. Let's make sure we're prepared for any rush today."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll bring some fresh coffee beans to make sure our brews are extra delicious today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'll see you at the cafe then. Let's make sure everything is ready for our customers today."
+        ],
+        [
+          "Maeve Millay",
+          "See you at the cafe then! Let's make sure we're ready for a busy day."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        119,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating their schedules for a busy day at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Morning Maeve! Ready to tackle another day at Hobbs Cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning Dolores! Yeah, I'm looking forward to it. How about you?"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm ready! Let's make sure we're both on top of our game today. What time are you getting to the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "I'll be there by 8:00 am. Let's meet up at the cafe and get everything ready for opening!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Great! I'll see you there. Let's make sure we're prepared for any rush today."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan! I'll bring some fresh coffee beans to make sure our brews are extra delicious today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds like a plan! I'll see you at the cafe then. Let's make sure everything is ready for our customers today."
+        ],
+        [
+          "Maeve Millay",
+          "See you at the cafe then! Let's make sure we're ready for a busy day."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:03:20"
+  }
+}

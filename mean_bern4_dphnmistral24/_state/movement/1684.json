@@ -1,0 +1,76 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "instructing Dolores to double-check inventory and ensure all stations are ready by opening time @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Double-check inventory throughout your shift and report any restocking needs immediately. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep a close eye on inventory. Is there anything else you need me to prioritize?"
+        ],
+        [
+          "Bernard Lowe",
+          "Ensure all stations are fully stocked and ready for customers by opening time. Stay focused on managing orders efficiently."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure inventory is checked and all stations are ready by opening time."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "instructing Dolores to double-check inventory and ensure all stations are ready by opening time @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Is there anything specific you need me to focus on today?"
+        ],
+        [
+          "Bernard Lowe",
+          "Double-check inventory throughout your shift and report any restocking needs immediately. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to keep a close eye on inventory. Is there anything else you need me to prioritize?"
+        ],
+        [
+          "Bernard Lowe",
+          "Ensure all stations are fully stocked and ready for customers by opening time. Stay focused on managing orders efficiently."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure inventory is checked and all stations are ready by opening time."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "🍫",
+      "description": "serving customers at the counter (wiping down surfaces) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:39:40"
+  }
+}

@@ -1,0 +1,507 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 11:08:00",
+  "curr_tile": [
+    80,
+    19
+  ],
+  "daily_plan_req": "Maeve Millay wakes up at 7am. She walks to Hobbs Cafe by 8am. She works at Hobbs Cafe from 8am to 4pm. After work she walks to Johnson Park and walks through the park. She has dinner at the dorm at 8pm. She spends the evening in her room. She goes to bed at 11pm.",
+  "name": "Maeve Millay",
+  "first_name": "Maeve",
+  "last_name": "Millay",
+  "age": 24,
+  "innate": "conflict-averse, earnest",
+  "learned": "Maeve Millay is a barista at Hobbs Cafe. She tries hard but tends to get flustered when put on the spot and struggles to respond well under scrutiny. Her boss is Bernard Lowe, who manages the cafe. Maeve and Dolores are colleagues who work together to keep the cafe running. She keeps interactions at work task-oriented. After work Maeve walks in Johnson Park. She loves her walks in the park.",
+  "currently": "Maeve is starting her day and heading to work at Hobbs Cafe.",
+  "lifestyle": "Maeve Millay wakes up around 7am, has breakfast and walks to Hobbs Cafe where she works as a barista from 8am to 4pm. After work she walks in Johnson Park. She has dinner around 8pm. She spends time in her room before going to bed at 11pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maeve Millay's room",
+  "concept_forget": 0,
+  "daily_reflection_time": 0,
+  "daily_reflection_size": 0,
+  "overlap_reflect_th": 0,
+  "kw_strg_event_reflect_th": 0,
+  "kw_strg_thought_reflect_th": 0,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "valence_w": 0,
+  "asymetric_encoding": false,
+  "negativity_bias": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 75,
+  "importance_trigger_curr": 10,
+  "importance_ele_n": 17,
+  "thought_count": 0,
+  "daily_req": [
+    "wake up and complete the morning routine at 7:00am",
+    "walk to Hobbs Cafe by 8:00am",
+    "work at Hobbs Cafe from 8:00am to 4:00pm",
+    "walk in Johnson Park from 4:30pm to 5:30pm",
+    "have dinner at 8:00pm",
+    "spend time in her room from 9:00pm to 11:00pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine (waking up)",
+      30
+    ],
+    [
+      "waking up and completing the morning routine (turning off the alarm)",
+      10
+    ],
+    [
+      "waking up and completing the morning routine (sitting up in bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (stretching)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (getting out of bed)",
+      5
+    ],
+    [
+      "waking up and completing the morning routine (opening the curtains)",
+      5
+    ],
+    [
+      "preparing breakfast (preparing coffee)",
+      2
+    ],
+    [
+      "coordinating their schedules for a busy day at Hobbs Cafe",
+      1
+    ],
+    [
+      "preparing breakfast (preparing coffee)",
+      8
+    ],
+    [
+      "preparing breakfast (toasting bread)",
+      5
+    ],
+    [
+      "preparing breakfast (preparing breakfast ingredients)",
+      11
+    ],
+    [
+      "coordinating schedules and confirming start times for work at Hobbs Cafe",
+      3
+    ],
+    [
+      "preparing breakfast (preparing breakfast ingredients)",
+      9
+    ],
+    [
+      "preparing breakfast (cooking eggs)",
+      10
+    ],
+    [
+      "preparing breakfast (assembling breakfast)",
+      1
+    ],
+    [
+      "preparing for a busy day at Hobbs Cafe with fresh coffee beans",
+      2
+    ],
+    [
+      "preparing breakfast (assembling breakfast)",
+      4
+    ],
+    [
+      "preparing breakfast (cleaning up the kitchen)",
+      5
+    ],
+    [
+      "preparing breakfast (packing breakfast items)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (leaving the dorm)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the breakfast spot)",
+      6
+    ],
+    [
+      "preparing for a busy day at the cafe and coordinating schedules",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (walking to the breakfast spot)",
+      14
+    ],
+    [
+      "walking to Hobbs Cafe (ordering breakfast)",
+      10
+    ],
+    [
+      "walking to Hobbs Cafe (eating breakfast)",
+      1
+    ],
+    [
+      "preparing for a smooth cafe service by checking inventory and setting up stations",
+      1
+    ],
+    [
+      "walking to Hobbs Cafe (eating breakfast)",
+      9
+    ],
+    [
+      "walking to Hobbs Cafe (packing up belongings)",
+      5
+    ],
+    [
+      "walking to Hobbs Cafe (walking to Hobbs Cafe)",
+      4
+    ],
+    [
+      "preparing for opening at the cafe (unlocking the cafe door)",
+      4
+    ],
+    [
+      "coordinating opening preparations and confirming meeting time",
+      1
+    ],
+    [
+      "preparing for opening at the cafe (turning on the lights)",
+      5
+    ],
+    [
+      "preparing for opening at the cafe (preparing the coffee machines)",
+      3
+    ],
+    [
+      "preparing for a busy day by brewing fresh coffee and managing inventory",
+      1
+    ],
+    [
+      "preparing for opening at the cafe (preparing the coffee machines)",
+      7
+    ],
+    [
+      "preparing for opening at the cafe (organizing the counter area)",
+      6
+    ],
+    [
+      "coordinating plans for a busy day at the cafe",
+      2
+    ],
+    [
+      "preparing for opening at the cafe (organizing the counter area)",
+      4
+    ],
+    [
+      "ensuring counter area is organized and stations are fully stocked for a full house day",
+      1
+    ],
+    [
+      "preparing for opening at the cafe (restocking sugar and cream)",
+      5
+    ],
+    [
+      "preparing for opening at the cafe (arranging pastries on display)",
+      5
+    ],
+    [
+      "preparing for opening at the cafe (checking the register)",
+      5
+    ],
+    [
+      "preparing for opening at the cafe (preparing the order station)",
+      1
+    ],
+    [
+      "coordinating opening preparations and specials for a busy day",
+      1
+    ],
+    [
+      "preparing for opening at the cafe (preparing the order station)",
+      4
+    ],
+    [
+      "preparing for a busy shift by ensuring all stations are fully stocked and ready",
+      1
+    ],
+    [
+      "preparing for opening at the cafe (preparing the order station)",
+      3
+    ],
+    [
+      "serving customers at the counter (preparing the counter)",
+      10
+    ],
+    [
+      "serving customers at the counter (organizing pastries and snacks)",
+      3
+    ],
+    [
+      "coordinating and preparing for a busy day at work",
+      1
+    ],
+    [
+      "serving customers at the counter (organizing pastries and snacks)",
+      7
+    ],
+    [
+      "serving customers at the counter (checking coffee machines)",
+      10
+    ],
+    [
+      "serving customers at the counter (wiping down surfaces)",
+      1
+    ],
+    [
+      "preparing for a busy day by ensuring inventory is ready and coordinating with colleagues",
+      1
+    ],
+    [
+      "serving customers at the counter (wiping down surfaces)",
+      1
+    ],
+    [
+      "syncing up inventory and confirming opening preparations",
+      2
+    ],
+    [
+      "serving customers at the counter (wiping down surfaces)",
+      3
+    ],
+    [
+      "serving customers at the counter (restocking supplies)",
+      5
+    ],
+    [
+      "serving customers at the counter (checking the register)",
+      9
+    ],
+    [
+      "reminding Maeve to keep the register tidy and double-check inventory",
+      1
+    ],
+    [
+      "serving customers at the counter (checking the register)",
+      1
+    ],
+    [
+      "preparing for a busy day by syncing up and double-checking inventory",
+      1
+    ],
+    [
+      "serving customers at the counter (signing in and starting the shift)",
+      5
+    ],
+    [
+      "serving customers at the counter (serving customers at the counter)",
+      4
+    ],
+    [
+      "making coffee and drinks (preparing coffee machines)",
+      10
+    ],
+    [
+      "making coffee and drinks (measuring and grinding coffee beans)",
+      10
+    ],
+    [
+      "making coffee and drinks (turning on the espresso machine)",
+      5
+    ],
+    [
+      "making coffee and drinks (preparing milk for steaming)",
+      5
+    ],
+    [
+      "making coffee and drinks (steaming and frothing milk)",
+      10
+    ],
+    [
+      "making coffee and drinks (pulling espresso shots)",
+      5
+    ],
+    [
+      "making coffee and drinks (crafting coffee drinks)",
+      5
+    ],
+    [
+      "making coffee and drinks (arranging pastries and snacks)",
+      4
+    ],
+    [
+      "taking orders and operating the register (preparing the register)",
+      20
+    ],
+    [
+      "taking orders and operating the register (organizing order trays)",
+      20
+    ],
+    [
+      "taking orders and operating the register (wiping down counter surfaces)",
+      10
+    ],
+    [
+      "taking orders and operating the register (checking inventory levels)",
+      5
+    ],
+    [
+      "taking orders and operating the register (taking orders and operating the register)",
+      5
+    ],
+    [
+      "serving lunch items to customers",
+      60
+    ],
+    [
+      "cleaning tables and maintaining cafe cleanliness",
+      60
+    ],
+    [
+      "restocking supplies and preparing for the afternoon rush",
+      60
+    ],
+    [
+      "closing down cafe operations",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "relaxing and enjoying the park environment",
+      60
+    ],
+    [
+      "returning to the dorm and preparing dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room and unwinding",
+      60
+    ],
+    [
+      "organizing her belongings and preparing for bed",
+      60
+    ],
+    [
+      "going to bed and sleeping",
+      60
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      360
+    ],
+    [
+      "waking up and completing the morning routine",
+      60
+    ],
+    [
+      "preparing breakfast",
+      60
+    ],
+    [
+      "walking to Hobbs Cafe",
+      60
+    ],
+    [
+      "preparing for opening at the cafe",
+      60
+    ],
+    [
+      "serving customers at the counter",
+      60
+    ],
+    [
+      "making coffee and drinks",
+      60
+    ],
+    [
+      "taking orders and operating the register",
+      60
+    ],
+    [
+      "serving lunch items to customers",
+      60
+    ],
+    [
+      "cleaning tables and maintaining cafe cleanliness",
+      60
+    ],
+    [
+      "restocking supplies and preparing for the afternoon rush",
+      60
+    ],
+    [
+      "closing down cafe operations",
+      60
+    ],
+    [
+      "walking in Johnson Park",
+      60
+    ],
+    [
+      "relaxing and enjoying the park environment",
+      60
+    ],
+    [
+      "returning to the dorm and preparing dinner",
+      60
+    ],
+    [
+      "having dinner at the dorm",
+      60
+    ],
+    [
+      "spending time in her room and unwinding",
+      60
+    ],
+    [
+      "organizing her belongings and preparing for bed",
+      60
+    ],
+    [
+      "going to bed and sleeping",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+  "act_start_time": "February 13, 2023, 11:07:00",
+  "act_duration": 10,
+  "act_description": "making coffee and drinks (preparing coffee machines)",
+  "act_pronunciatio": "🎖",
+  "act_event": [
+    "Maeve Millay",
+    "preparing",
+    "coffee machines"
+  ],
+  "act_obj_description": "being used for coffee preparation",
+  "act_obj_pronunciatio": "🎖",
+  "act_obj_event": [
+    "behind the cafe counter",
+    "being used for",
+    "coffee preparation"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Bernard Lowe": 36,
+    "Dolores Abernathy": 52
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": null
+}

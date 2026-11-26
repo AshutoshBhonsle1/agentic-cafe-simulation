@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring inventory accuracy and coffee machine functionality for a smooth operation @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, how are we looking on inventory today? Make sure you're double-checking everything. We can't afford any mistakes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure all stations are fully stocked and ready for customers by opening time. I'll also double-check inventory throughout the day and notify you if restocking is needed."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on those coffee machines too, Dolores. We need to ensure they're functioning properly for a smooth operation today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to double-check everything and keep an eye on the coffee machines as well."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to communicate with Maeve Millay if you need any assistance. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to sync up with Maeve at 7:50 and go over the specials for the day with her."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's make it a perfect day for our customers. Keep up the good work."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "ensuring inventory accuracy and coffee machine functionality for a smooth operation @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Dolores, how are we looking on inventory today? Make sure you're double-checking everything. We can't afford any mistakes."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm on it, Bernard. I'll make sure all stations are fully stocked and ready for customers by opening time. I'll also double-check inventory throughout the day and notify you if restocking is needed."
+        ],
+        [
+          "Bernard Lowe",
+          "Keep an eye on those coffee machines too, Dolores. We need to ensure they're functioning properly for a smooth operation today."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'll make sure to double-check everything and keep an eye on the coffee machines as well."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure to communicate with Maeve Millay if you need any assistance. We're expecting a full house today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll make sure to sync up with Maeve at 7:50 and go over the specials for the day with her."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Dolores. Let's make it a perfect day for our customers. Keep up the good work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🙮",
+      "description": "serving customers at the counter (preparing the counter) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:04:40"
+  }
+}

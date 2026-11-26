@@ -1,0 +1,124 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "🍾",
+      "description": "managing cafe operations and monitoring baristas (checking inventory levels) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "syncing up inventory and confirming opening preparations @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, how's it going? Ready for another busy day?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores! I'm ready. Just making sure everything is set up here. Did you sync up the inventory yet?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Not yet, I was just about to do that. Let's sync up at 7:50 as planned and double-check everything before opening."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll make sure to sync up with you at 7:50. Let's make sure all stations are fully stocked and ready for customers by opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Maeve, I'll sync up with you at 7:50. Let's make sure to double-check all stations and go over the specials for the day."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'll meet you at the counter at 7:50 to sync up. Let's make sure we're both ready for a full house today!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good Maeve! I'll meet you at the counter area at 7:50 to sync up and go over the specials for the day. Let's make sure everything is perfect for our customers!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I'll meet you at the counter in a bit to sync up and go over everything. Let's make sure all our stations are fully stocked and ready for customers by opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Great! I'll make sure to double-check everything on my side too. See you at 7:50, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Alright Dolores, I'll make sure to double-check everything on my side too. See you at 7:50!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Maeve, I'll meet you at the counter at 7:50 to sync up and go over everything. Let's make sure all our stations are fully stocked and ready for customers by opening time."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "syncing up inventory and confirming opening preparations @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hey Maeve, how's it going? Ready for another busy day?"
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores! I'm ready. Just making sure everything is set up here. Did you sync up the inventory yet?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Not yet, I was just about to do that. Let's sync up at 7:50 as planned and double-check everything before opening."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, I'll make sure to sync up with you at 7:50. Let's make sure all stations are fully stocked and ready for customers by opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Maeve, I'll sync up with you at 7:50. Let's make sure to double-check all stations and go over the specials for the day."
+        ],
+        [
+          "Maeve Millay",
+          "Great, I'll meet you at the counter at 7:50 to sync up. Let's make sure we're both ready for a full house today!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good Maeve! I'll meet you at the counter area at 7:50 to sync up and go over the specials for the day. Let's make sure everything is perfect for our customers!"
+        ],
+        [
+          "Maeve Millay",
+          "Got it, Dolores! I'll meet you at the counter in a bit to sync up and go over everything. Let's make sure all our stations are fully stocked and ready for customers by opening time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Great! I'll make sure to double-check everything on my side too. See you at 7:50, Maeve!"
+        ],
+        [
+          "Maeve Millay",
+          "Alright Dolores, I'll make sure to double-check everything on my side too. See you at 7:50!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Alright Maeve, I'll meet you at the counter at 7:50 to sync up and go over everything. Let's make sure all our stations are fully stocked and ready for customers by opening time."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 10:35:40"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "🎔",
+      "description": "opening Hobbs Cafe and starting the day's operations (setting up the coffee machines) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        81,
+        19
+      ],
+      "pronunciato": "🎑",
+      "description": "preparing for work shift at the cafe (arranging pastries and snacks) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating plans for a busy day at the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, how's it going? Ready for a busy day at the cafe?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hey Maeve! I'm ready. Just making sure everything is in place for a smooth day ahead."
+        ],
+        [
+          "Maeve Millay",
+          "Yeah, Bernard mentioned it's going to be a full house today. Let's make sure we're synced up at 7:50 and keep the orders moving!"
+        ],
+        [
+          "Dolores Abernathy",
+          "Absolutely, Maeve! I'll make sure to sync up with you at 7:50 and prioritize taking orders. Let's handle those extra customers like a breeze!"
+        ],
+        [
+          "Maeve Millay",
+          "That's the spirit! I'll bring fresh coffee beans for today's brews. See you at 7:50, Dolores."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sounds good! I'll bring everything needed for a smooth day ahead. See you at 7:50, Maeve."
+        ],
+        [
+          "Maeve Millay",
+          "Hey Dolores, do you want to meet up at the counter area after we sync up? We can go over the specials for today and make sure everything is ready to go."
+        ],
+        [
+          "Dolores Abernathy",
+          "Sure thing, Maeve! I'll meet you at the counter area after we sync up. Sounds like a plan to make sure everything is perfect for our customers today."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds like a plan, Dolores! I'll meet you at the counter area after we sync up. Let's make sure everything is perfect for our customers today."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:29:10"
+  }
+}

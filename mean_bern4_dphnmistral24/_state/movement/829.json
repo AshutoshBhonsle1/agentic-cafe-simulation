@@ -1,0 +1,63 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciato": "🍮",
+      "description": "walking to Hobbs Cafe (walking to the bus stop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        122,
+        49
+      ],
+      "pronunciato": "😇",
+      "description": "walking to Hobbs Cafe (eating breakfast) @ the Ville:Dorm for Oak Hill College:common room:common room table",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciato": "💬",
+      "description": "preparing for a busy day at the cafe and coordinating schedules @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. Starting a busy day at the cafe?"
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Yes, we're expecting a full house today. Hope you're ready for it."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, I'm prepared. Just meeting up with Dolores to confirm our schedules before we open up."
+        ],
+        [
+          "Bernard Lowe",
+          "Make sure you two are on the same page and ready to go. I'll meet you at the cafe shortly."
+        ],
+        [
+          "Maeve Millay",
+          "Sure thing, Bernard. I'll make sure everything is set up and ready to go for a smooth service."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright, Maeve. I'll see you at the cafe soon. Let's make it a perfect day for our customers."
+        ],
+        [
+          "Maeve Millay",
+          "Alright Bernard, I'll see you at the cafe. Let's make sure today runs smoothly for our customers."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:17:10"
+  }
+}
